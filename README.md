@@ -21,6 +21,16 @@ The project follows a layered architecture consisting of Raw, Silver, and Gold d
 \---
 
 
+## Project Highlights
+
+- End-to-end healthcare data engineering pipeline
+- Snowflake → Python → Amazon S3 architecture
+- Raw, Silver, and Gold data layers
+- Automated data quality validation
+- Analytics-ready Gold dataset
+- CSV and Parquet outputs
+- Business analytics reporting
+
 
 \## Architecture
 
@@ -248,6 +258,20 @@ These files are suitable for downstream analytics, reporting, dashboards, and bu
 
 
 \---
+
+### 6. Analytics Layer
+
+An analytics script reads the Gold dataset and generates summary statistics and business insights, including:
+
+- Top 10 most expensive claims
+- Average claim cost
+- Claims by payer
+- Claims by gender
+- Top providers by claim volume
+- Claim status distribution
+- Encounter type distribution
+
+Results are written to `reports/analytics_report.txt`.
 
 
 
