@@ -24,11 +24,9 @@ The project follows a layered architecture consisting of Raw, Silver, and Gold d
 
 \## Architecture
 
-
-
-## Architecture
-
-![Healthcare Claims Data Engineering Pipeline](images/architecture.png)
+<p align="center">
+  <img src="images/architecture.png" alt="Healthcare Claims Data Engineering Pipeline" width="450">
+</p>
 
 
 \### Pipeline Overview
