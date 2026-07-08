@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="PEBJieO9KMOsQqewoi1e">
+    <mxGraphModel dx="841" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EM-FMZoAAsXllJCj7NHg-8" edge="1" parent="1" source="EM-FMZoAAsXllJCj7NHg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EM-FMZoAAsXllJCj7NHg-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EM-FMZoAAsXllJCj7NHg-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="Snowflake Marketplace&amp;nbsp; Healthcare Claims Dataset" vertex="1">
+          <mxGeometry height="60" width="170" x="220" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EM-FMZoAAsXllJCj7NHg-9" edge="1" parent="1" source="EM-FMZoAAsXllJCj7NHg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EM-FMZoAAsXllJCj7NHg-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EM-FMZoAAsXllJCj7NHg-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="Python Extraction Scripts&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="170" x="220" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EM-FMZoAAsXllJCj7NHg-10" edge="1" parent="1" source="EM-FMZoAAsXllJCj7NHg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EM-FMZoAAsXllJCj7NHg-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EM-FMZoAAsXllJCj7NHg-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="Amazon S3&amp;nbsp;&lt;div&gt;Raw Layer&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="220" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="EM-FMZoAAsXllJCj7NHg-11" edge="1" parent="1" source="EM-FMZoAAsXllJCj7NHg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EM-FMZoAAsXllJCj7NHg-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EM-FMZoAAsXllJCj7NHg-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&amp;nbsp;Data Quality Checks&amp;nbsp;&lt;br&gt;&amp;nbsp;• Missing Values&lt;div&gt;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;• Duplicates&amp;nbsp;&lt;/span&gt;&lt;div&gt;&amp;nbsp;• Data Types&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="170" x="220" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="EM-FMZoAAsXllJCj7NHg-13" edge="1" parent="1" source="EM-FMZoAAsXllJCj7NHg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EM-FMZoAAsXllJCj7NHg-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EM-FMZoAAsXllJCj7NHg-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="Silver Layer&amp;nbsp;&lt;div&gt;Data Cleaning&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="220" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="EM-FMZoAAsXllJCj7NHg-12" edge="1" parent="1" source="EM-FMZoAAsXllJCj7NHg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EM-FMZoAAsXllJCj7NHg-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EM-FMZoAAsXllJCj7NHg-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="Gold Analytics Dataset&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="170" x="220" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="EM-FMZoAAsXllJCj7NHg-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;br&gt;Amazon S3&amp;nbsp;&lt;br&gt;Gold Layer  &lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="220" y="630" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

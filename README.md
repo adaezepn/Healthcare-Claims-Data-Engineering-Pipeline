@@ -26,44 +26,9 @@ The project follows a layered architecture consisting of Raw, Silver, and Gold d
 
 
 
-```mermaid
+## Architecture
 
-flowchart TD
-
-&#x20;   A\[Snowflake Marketplace<br/>Healthcare Claims Dataset]
-
-&#x20;   B\[Python Data Extraction]
-
-&#x20;   C\[Amazon S3<br/>Raw Layer]
-
-&#x20;   D\[Data Quality Profiling]
-
-&#x20;   E\[Silver Data Transformation]
-
-&#x20;   F\[Amazon S3<br/>Silver Layer]
-
-&#x20;   G\[Gold Analytics Dataset]
-
-&#x20;   H\[Amazon S3<br/>Gold Layer]
-
-
-
-&#x20;   A --> B
-
-&#x20;   B --> C
-
-&#x20;   C --> D
-
-&#x20;   D --> E
-
-&#x20;   E --> F
-
-&#x20;   F --> G
-
-&#x20;   G --> H
-
-```
-
+![Healthcare Claims Data Engineering Pipeline](images/architecture.png)
 
 
 \### Pipeline Overview
