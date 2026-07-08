@@ -1,0 +1,71 @@
+# ==========================
+# Environment Variables
+# ==========================
+.env
+
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# ==========================
+# Jupyter Notebooks
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# IDEs & Editors
+# ==========================
+.vscode/
+.idea/
+
+# ==========================
+# Operating System Files
+# ==========================
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Logs
+# ==========================
+*.log
+
+# ==========================
+# Pytest / Coverage
+# ==========================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ==========================
+# Build Artifacts
+# ==========================
+build/
+dist/
+*.egg-info/
+
+# ==========================
+# AWS
+# ==========================
+.aws/
+
+# ==========================
+# Secrets & Keys
+# ==========================
+*.pem
+*.key
+*.crt
+
+# ==========================
+# Local Environment Files
+# ==========================
+.env.local
+.env.development
+.env.production

@@ -1,0 +1,1001 @@
+ENCOUNTER_ID,ENCOUNTER_START,ENCOUNTER_STOP,PATIENT_ID,ORGANIZATION_ID,PROVIDER_ID,PAYER_ID,ENCOUNTERCLASS,DESCRIPTION,BASE_ENCOUNTER_COST,TOTAL_CLAIM_COST,PAYER_COVERAGE,REASONDESCRIPTION,SYNTHEA_CITY
+23273645,2016-04-16 18:57:57,2016-04-16 21:45:57,2313038,1000414,3057514,1000002,ambulatory,Encounter for problem (procedure),71.63,451.61,416.61,Chronic kidney disease stage 4 (disorder),CLEVELAND
+23273883,1977-03-15 03:00:28,1977-03-19 14:44:28,2313039,1000393,3057493,1000008,inpatient,Encounter for problem,69.38,39882.36,0.0,Non-small cell carcinoma of lung  TNM stage 1 (disorder),CLEVELAND
+23273890,2017-08-17 03:46:00,2017-08-17 05:25:00,2313038,1000414,3057514,1000002,ambulatory,Postoperative follow-up visit (procedure),119.38,1155.92,1120.92,History of renal transplant (situation),CLEVELAND
+23273894,1977-03-29 03:00:28,1977-03-29 04:00:28,2313039,1000274,3057374,1000008,emergency,Emergency room admission (procedure),115.63,743.97,0.0,,CLEVELAND
+23273901,2018-09-26 22:57:57,2018-09-26 23:12:57,2313038,1000424,3057524,1000002,urgentcare,Urgent care clinic (environment),119.38,119.38,84.38,,CLEVELAND
+23274075,1978-04-25 06:30:28,1978-04-25 06:45:28,2313039,1000393,3057493,1000008,ambulatory,Encounter for problem (procedure),71.63,218.39,0.0,Chronic kidney disease stage 4 (disorder),CLEVELAND
+23274107,1978-07-13 16:56:28,1978-07-13 19:24:28,2313039,1000393,3057493,1000002,ambulatory,Encounter for problem (procedure),71.63,451.61,416.61,Chronic kidney disease stage 4 (disorder),CLEVELAND
+23274128,2023-05-22 16:09:10,2023-05-22 17:06:36,2313042,1000518,3057618,1000001,wellness,General examination of patient (procedure),111.12,739.46,739.46,,CLEVELAND
+25851567,2024-09-16 12:17:54,2024-09-16 12:55:17,1050053,1000832,3057932,1000058,ambulatory,Postoperative follow-up visit (procedure),113.77,627.87,502.3,Malignant neoplasm of breast (disorder),AUSTIN
+25851573,2012-06-05 08:44:20,2012-06-05 08:59:20,1050054,1000822,3057922,1000058,ambulatory,Encounter for problem,68.26,6408.59,5126.88,Malignant tumor of colon,AUSTIN
+25851706,2020-01-25 13:16:37,2020-01-25 16:18:37,1050057,1000856,3057956,1000059,ambulatory,Encounter for problem (procedure),68.26,1626.52,1626.52,Chronic kidney disease stage 4 (disorder),AUSTIN
+25851755,2021-03-16 09:23:37,2021-03-16 10:23:37,1050057,1000754,3057854,1000058,emergency,Emergency hospital admission for asthma,119.83,119.83,95.86,Asthma,AUSTIN
+25851775,1994-07-11 13:47:25,1994-07-11 14:02:25,1050059,1000820,3057920,1000013,ambulatory,Encounter for problem,68.26,68.26,0.0,Shellfish (substance),AUSTIN
+25851801,2020-07-19 09:47:25,2020-07-19 10:02:25,1050059,1000820,3057920,1000035,ambulatory,Prenatal visit,113.77,19453.6,19453.6,Normal pregnancy,AUSTIN
+25851889,2021-10-17 21:33:02,2021-10-17 21:48:02,1050062,1000836,3057936,1000012,ambulatory,Encounter for symptom,68.26,68.26,0.0,Viral sinusitis (disorder),AUSTIN
+25851951,2019-03-20 03:10:56,2019-03-20 03:42:50,1050063,1000830,3057930,1000058,urgentcare,Urgent care clinic (environment),113.77,1001.39,801.12,,AUSTIN
+25851955,2019-04-12 16:52:58,2019-04-12 21:14:36,1050063,1000550,3057650,1000058,ambulatory,Encounter for problem (procedure),68.26,1687.67,1350.14,Ischemic heart disease (disorder),AUSTIN
+25852001,2021-08-27 14:37:37,2021-08-27 14:59:33,1050065,1000754,3057854,1000108,ambulatory,Outpatient procedure,113.77,14887.09,14837.09,Allergy to substance (finding),AUSTIN
+25852004,2021-10-29 02:40:53,2021-10-29 02:55:53,1050065,1000754,3057854,1000108,ambulatory,Asthma follow-up,113.77,113.77,0.0,Childhood asthma,AUSTIN
+25852037,2023-07-02 10:46:58,2023-07-02 11:15:08,1050065,1000754,3057854,1000108,ambulatory,Outpatient procedure,113.77,11538.29,11488.29,Allergy to substance (finding),AUSTIN
+25852148,2021-01-06 07:55:13,2021-01-06 13:21:36,1050068,1000735,3057835,1000012,ambulatory,Encounter for check up (procedure),68.26,5723.36,4578.69,Gingivitis (disorder),AUSTIN
+25852584,2014-04-17 21:57:24,2014-04-18 03:44:01,1050083,1000550,3057650,1000058,ambulatory,Encounter for problem (procedure),68.26,1687.67,1350.14,Ischemic heart disease (disorder),AUSTIN
+25852594,2023-01-31 03:12:47,2023-01-31 03:43:30,1050082,1000588,3057688,1000059,ambulatory,Outpatient procedure,113.77,14675.61,14675.61,Allergy to substance (finding),AUSTIN
+25852705,1970-03-22 11:10:22,1970-03-22 15:17:35,1050085,1000561,3057661,1000013,ambulatory,Encounter for check up (procedure),68.26,3666.96,0.0,Gingivitis (disorder),AUSTIN
+25852760,2021-03-02 13:54:52,2021-03-02 18:30:17,1050079,1000701,3057801,1000058,ambulatory,Encounter for check up (procedure),68.26,4181.06,3344.85,Patient referral for dental care (procedure),AUSTIN
+25852861,2016-12-28 01:04:47,2016-12-28 03:13:47,1050076,1000783,3057883,1000059,ambulatory,Encounter for problem (procedure),68.26,1033.04,723.13,End-stage renal disease (disorder),AUSTIN
+25852874,2021-08-28 13:02:19,2021-08-28 13:55:38,1050088,1000664,3057764,1000058,outpatient,Encounter for check up (procedure),68.26,2129.27,1703.42,,AUSTIN
+25852949,2019-03-30 16:38:32,2019-03-30 17:34:26,1050091,1000814,3057914,1000035,wellness,General examination of patient (procedure),133.36,783.46,0.0,,AUSTIN
+25852958,2024-08-06 13:54:52,2024-08-06 20:25:45,1050079,1000701,3057801,1000058,ambulatory,Encounter for check up (procedure),68.26,6237.46,4989.97,Patient referral for dental care (procedure),AUSTIN
+25852980,2017-03-28 16:51:47,2017-03-28 19:29:47,1050076,1000783,3057883,1000059,ambulatory,Encounter for problem (procedure),68.26,479.71,479.71,End-stage renal disease (disorder),AUSTIN
+25852983,2017-04-03 23:27:47,2017-04-04 02:02:47,1050076,1000783,3057883,1000059,ambulatory,Encounter for problem (procedure),68.26,1626.52,1626.52,End-stage renal disease (disorder),AUSTIN
+25853037,2017-07-11 17:08:47,2017-07-11 20:16:47,1050076,1000783,3057883,1000059,ambulatory,Encounter for problem (procedure),68.26,1279.94,1279.94,End-stage renal disease (disorder),AUSTIN
+25853076,2023-09-19 23:17:09,2023-09-20 00:17:09,1050090,1000855,3057955,1000010,emergency,Emergency room admission (procedure),119.83,9216.14,7372.91,Laceration - injury (disorder),AUSTIN
+25853097,2022-01-01 16:38:32,2022-01-01 16:53:32,1050091,1000694,3057794,1000035,ambulatory,Prenatal initial visit,113.77,13214.01,13214.01,Normal pregnancy,AUSTIN
+25853135,2023-04-08 16:38:32,2023-04-08 17:14:51,1050091,1000814,3057914,1000035,wellness,General examination of patient (procedure),133.36,1567.27,0.0,,AUSTIN
+25853167,2004-10-28 04:55:42,2004-10-28 05:28:00,1050070,1000802,3057902,1000058,urgentcare,Urgent care clinic (environment),113.77,984.15,787.33,,AUSTIN
+25853170,2017-11-01 05:00:47,2017-11-01 08:54:47,1050076,1000783,3057883,1000059,ambulatory,Encounter for problem (procedure),68.26,552.07,552.07,End-stage renal disease (disorder),AUSTIN
+25853244,1980-10-09 01:16:09,1980-10-09 04:58:09,1050094,1000580,3057680,1000010,ambulatory,Encounter for problem (procedure),68.26,479.71,383.77,Chronic kidney disease stage 4 (disorder),AUSTIN
+25853436,2005-02-24 04:55:42,2005-02-24 05:49:19,1050070,1000802,3057902,1000058,urgentcare,Urgent care clinic (environment),113.77,1241.2,992.97,,AUSTIN
+25853456,2005-03-03 04:55:42,2005-03-03 05:10:42,1050070,1000783,3057883,1000058,outpatient,Encounter for check up (procedure),68.26,562.83,450.27,,AUSTIN
+25853495,2005-06-27 20:35:42,2005-06-27 23:49:42,1050070,1000856,3057956,1000058,ambulatory,Encounter for problem (procedure),68.26,952.16,761.73,,AUSTIN
+25853604,1982-07-04 04:42:09,1982-07-04 07:16:09,1050094,1000580,3057680,1000010,ambulatory,Encounter for problem (procedure),68.26,888.67,888.67,End-stage renal disease (disorder),AUSTIN
+25853661,2018-03-14 12:28:40,2018-03-14 12:43:40,1050100,1000594,3057694,1000012,wellness,Well child visit (procedure),133.36,1040.51,0.0,,AUSTIN
+25853675,1982-10-09 14:00:09,1982-10-09 16:35:09,1050094,1000580,3057680,1000010,ambulatory,Encounter for problem (procedure),68.26,479.71,383.77,End-stage renal disease (disorder),AUSTIN
+25853712,2019-11-24 17:07:09,2019-11-25 00:34:56,1050099,1000664,3057764,1000011,ambulatory,Encounter for check up (procedure),68.26,5723.36,5723.36,Gingivitis (disorder),AUSTIN
+25853756,2020-04-05 17:07:09,2020-04-05 17:48:35,1050099,1000664,3057764,1000012,outpatient,Encounter for check up (procedure),68.26,1314.45,1051.57,,AUSTIN
+25853758,2023-03-28 13:51:30,2023-03-28 14:06:30,1050098,1000624,3057724,1000012,outpatient,Consultation for treatment,113.77,113.77,91.02,Contraception care (regime/therapy),AUSTIN
+25853773,2020-08-02 17:07:09,2020-08-02 17:37:33,1050099,1000830,3057930,1000012,urgentcare,Urgent care clinic (environment),113.77,1102.91,882.34,,AUSTIN
+25853905,2021-07-04 20:06:09,2021-07-04 20:21:09,1050099,1000664,3057764,1000012,ambulatory,Encounter for problem (procedure),68.26,305.78,305.78,Chronic kidney disease stage 4 (disorder),AUSTIN
+25853919,2021-08-10 08:43:09,2021-08-10 10:57:09,1050099,1000664,3057764,1000012,ambulatory,Encounter for problem (procedure),68.26,711.18,711.18,Chronic kidney disease stage 4 (disorder),AUSTIN
+25854008,2022-01-27 00:16:09,2022-01-27 02:54:09,1050099,1000664,3057764,1000012,ambulatory,Encounter for problem (procedure),68.26,1481.97,1185.58,Chronic kidney disease stage 4 (disorder),AUSTIN
+25854133,2022-10-04 13:42:09,2022-10-04 15:50:09,1050099,1000664,3057764,1000012,ambulatory,Encounter for problem (procedure),68.26,479.71,479.71,Chronic kidney disease stage 4 (disorder),AUSTIN
+25854160,2021-08-20 12:40:05,2021-08-20 12:55:05,1050110,1000675,3057775,1000013,ambulatory,Prenatal visit,113.77,7824.14,0.0,Normal pregnancy,AUSTIN
+25854208,1973-04-10 17:01:47,1973-04-10 17:16:47,1050112,1000735,3057835,1000013,ambulatory,Encounter for problem,68.26,68.26,0.0,Allergy to substance (finding),AUSTIN
+25854231,2021-02-03 11:01:47,2021-02-03 14:23:21,1050112,1000735,3057835,1000059,ambulatory,Encounter for check up (procedure),68.26,3802.96,3802.96,Patient referral for dental care (procedure),AUSTIN
+25854359,2023-07-23 17:07:09,2023-07-23 17:52:02,1050099,1000664,3057764,1000012,outpatient,Encounter for check up (procedure),68.26,1057.4,1057.4,,AUSTIN
+65933224,1980-07-28 20:12:19,1980-07-28 23:15:19,1487084,1004418,3061518,1000106,ambulatory,Encounter for problem (procedure),68.94,626.88,0.0,End-stage renal disease (disorder),WASHINGTON DC
+65933227,1980-08-15 17:13:19,1980-08-15 21:00:19,1487084,1004418,3061518,1000106,ambulatory,Encounter for problem (procedure),68.94,518.03,0.0,End-stage renal disease (disorder),WASHINGTON DC
+65933245,1980-09-03 11:33:19,1980-09-03 15:15:19,1487084,1004418,3061518,1000106,ambulatory,Encounter for problem (procedure),68.94,518.03,0.0,End-stage renal disease (disorder),WASHINGTON DC
+65933248,1980-09-09 18:04:19,1980-09-09 21:03:19,1487084,1004418,3061518,1000106,ambulatory,Encounter for problem (procedure),68.94,1769.78,0.0,End-stage renal disease (disorder),WASHINGTON DC
+65933269,2021-11-29 11:57:04,2021-11-29 12:12:04,1487085,1004354,3061454,1000057,ambulatory,Follow-up encounter (procedure),68.94,68.94,0.0,Essential hypertension (disorder),WASHINGTON DC
+65933282,2023-06-07 04:39:53,2023-06-07 08:00:29,1487083,1004490,3061590,1000094,ambulatory,Encounter for check up (procedure),68.94,4746.94,3797.55,Patient referral for dental care (procedure),WASHINGTON DC
+65933301,1980-11-20 14:50:19,1980-11-20 18:06:19,1487084,1004418,3061518,1000106,ambulatory,Encounter for problem (procedure),68.94,1460.78,0.0,End-stage renal disease (disorder),WASHINGTON DC
+65933506,2022-06-25 00:56:02,2022-06-25 01:50:19,1487088,1004454,3061554,1000057,outpatient,Encounter for check up (procedure),68.94,925.69,925.69,,WASHINGTON DC
+65933510,1999-11-30 21:15:01,1999-11-30 21:56:31,1487086,1004243,3061343,1000094,wellness,General examination of patient (procedure),156.9,7983.22,6386.57,,WASHINGTON DC
+65933513,1999-12-14 21:15:01,1999-12-15 00:15:18,1487086,1004368,3061468,1000094,ambulatory,Encounter for check up (procedure),68.94,4162.19,3329.75,Patient referral for dental care (procedure),WASHINGTON DC
+65933632,2024-01-22 11:16:33,2024-01-22 11:49:42,1487087,1004394,3061494,1000094,urgentcare,Urgent care clinic (environment),114.9,1145.77,916.6,,WASHINGTON DC
+65933648,1983-02-25 17:13:19,1983-02-25 23:00:23,1487084,1004418,3061518,1000106,ambulatory,Encounter for check up (procedure),68.94,6501.19,0.0,Patient referral for dental care (procedure),WASHINGTON DC
+65933802,2020-03-13 16:03:32,2020-03-13 16:18:32,1487094,1004393,3061493,1000096,ambulatory,Prenatal visit (regime/therapy),114.9,28414.43,28414.43,Normal pregnancy (finding),WASHINGTON DC
+65933839,2012-12-21 03:25:53,2012-12-21 03:40:53,1487095,1004394,3061494,1000057,urgentcare,Urgent care clinic (environment),114.9,16564.67,16564.67,,WASHINGTON DC
+65933884,2016-09-09 03:25:53,2016-09-09 04:22:49,1487095,1004453,3061553,1000094,outpatient,Encounter for check up (procedure),68.94,19341.01,15472.8,,WASHINGTON DC
+65938101,2021-01-26 00:34:12,2021-01-26 00:49:12,1487098,1004318,3061418,1000094,urgentcare,Urgent care clinic (environment),114.9,337.96,270.36,,WASHINGTON DC
+65938182,2019-11-21 16:11:30,2019-11-21 16:43:19,1487100,1004418,3061518,1000057,outpatient,Encounter for check up (procedure),68.94,1066.64,639.98,,WASHINGTON DC
+65938338,2017-10-09 05:15:07,2017-10-09 06:07:17,1487105,1004457,3061557,1000057,wellness,General examination of patient (procedure),156.9,2047.15,0.0,,WASHINGTON DC
+65938406,2015-05-22 13:22:17,2015-05-22 13:59:41,1487107,1004325,3061425,1000057,wellness,General examination of patient (procedure),156.9,996.75,0.0,,WASHINGTON DC
+65938420,2016-04-11 15:13:13,2016-04-11 15:28:13,1487107,1004243,3061343,1000094,ambulatory,Telemedicine consultation with patient (procedure),114.9,114.9,91.92,Chronic congestive heart failure (disorder),WASHINGTON DC
+65938422,2016-04-14 15:13:13,2016-04-14 15:28:13,1487107,1004243,3061343,1000094,ambulatory,Telemedicine consultation with patient (procedure),114.9,114.9,91.92,Chronic congestive heart failure (disorder),WASHINGTON DC
+65938495,2018-11-21 15:56:11,2018-11-21 16:11:11,1487107,1004243,3061343,1000094,ambulatory,Telemedicine consultation with patient (procedure),114.9,114.9,91.92,Chronic congestive heart failure (disorder),WASHINGTON DC
+65938598,2022-04-04 12:02:59,2022-04-04 12:38:49,1487111,1004336,3061436,1000057,wellness,General examination of patient (procedure),156.9,2166.25,0.0,,WASHINGTON DC
+65938682,2023-08-28 05:10:37,2023-08-28 05:25:37,1487115,1004455,3061555,1000095,wellness,Well child visit (procedure),156.9,812.43,812.43,,WASHINGTON DC
+65938693,1970-01-10 10:12:57,1970-01-10 10:55:23,1487116,1004352,3061452,1000096,wellness,General examination of patient (procedure),156.9,1400.65,0.0,,WASHINGTON DC
+65938701,2015-01-29 12:39:10,2015-01-29 13:21:45,1487116,1004401,3061501,1000094,ambulatory,Encounter for check up (procedure),68.94,42454.22,33776.98,Screening for malignant neoplasm of colon (procedure),WASHINGTON DC
+65938801,2020-03-01 11:04:10,2020-03-01 11:19:10,1487121,1004385,3061485,1000115,ambulatory,Encounter for symptom (procedure),68.94,68.94,0.0,Viral sinusitis (disorder),WASHINGTON DC
+65938813,2017-10-14 10:12:57,2017-10-14 11:05:37,1487116,1004352,3061452,1000094,wellness,General examination of patient (procedure),156.9,1716.92,1373.54,,WASHINGTON DC
+65938875,2019-08-13 18:58:45,2019-08-13 19:32:46,1487122,1004417,3061517,1000094,wellness,General examination of patient (procedure),156.9,1100.71,694.82,,WASHINGTON DC
+65938887,2022-09-13 18:58:45,2022-09-13 21:47:25,1487122,1004417,3061517,1000094,ambulatory,Encounter for check up (procedure),68.94,4162.19,3329.75,Patient referral for dental care (procedure),WASHINGTON DC
+65938891,2023-06-06 18:58:45,2023-06-06 19:58:45,1487122,1004330,3061430,1000094,emergency,Emergency room admission (procedure),170.13,1270.31,1016.24,,WASHINGTON DC
+65938918,2024-04-23 02:14:35,2024-04-23 02:29:35,1487123,1004244,3061344,1000104,ambulatory,Encounter for check up (procedure),68.94,68.94,0.0,Fracture of ankle (disorder),WASHINGTON DC
+65939273,2021-05-16 16:02:17,2021-05-16 18:21:17,1487130,1004322,3061422,1000057,ambulatory,Encounter for problem (procedure),68.94,518.03,518.03,Chronic kidney disease stage 4 (disorder),WASHINGTON DC
+65939463,2022-10-22 04:12:57,2022-10-22 04:27:57,1487133,1004368,3061468,1000094,ambulatory,Encounter for symptom (procedure),68.94,68.94,55.15,Acute viral pharyngitis (disorder),WASHINGTON DC
+65939475,1998-06-23 21:15:01,1998-06-24 00:37:38,1487134,1004490,3061590,1000094,ambulatory,Encounter for check up (procedure),68.94,4162.19,3329.75,Patient referral for dental care (procedure),WASHINGTON DC
+65939518,2000-11-05 00:46:25,2000-11-05 01:04:29,1505860,1004324,3061424,1000103,outpatient,Patient encounter procedure (procedure),114.9,1617.13,1582.13,Contraception care (regime/therapy),WASHINGTON DC
+65939574,1999-05-30 10:45:01,1999-06-07 01:46:01,1487134,1004490,3061590,1000094,inpatient,Encounter for problem (procedure),102.08,120306.95,96245.56,Non-small cell carcinoma of lung  TNM stage 1 (disorder),WASHINGTON DC
+65939665,2019-07-04 00:36:20,2019-07-04 01:14:07,1505864,1004394,3061494,1000094,urgentcare,Urgent care clinic (environment),114.9,1170.24,936.18,,WASHINGTON DC
+65939732,2000-07-25 21:15:01,2000-08-13 09:23:01,1487134,1004490,3061590,1000094,inpatient,Encounter for problem (procedure),102.08,264521.19,211616.94,Non-small cell carcinoma of lung  TNM stage 1 (disorder),WASHINGTON DC
+65939754,2018-09-26 02:14:50,2018-09-26 02:52:22,1505865,1004455,3061555,1000095,wellness,General examination of patient (procedure),156.9,1536.65,1436.65,,WASHINGTON DC
+65939793,2020-10-01 14:51:58,2020-10-01 15:06:58,1505867,1004401,3061501,1000105,ambulatory,Encounter for symptom (procedure),68.94,68.94,0.0,Acute viral pharyngitis (disorder),WASHINGTON DC
+65939925,2022-03-05 04:17:11,2022-03-05 08:05:55,1505870,1004385,3061485,1000094,ambulatory,Encounter for check up (procedure),68.94,4746.94,3797.55,Patient referral for dental care (procedure),WASHINGTON DC
+65940000,2020-08-03 00:13:46,2020-08-03 03:24:07,1505874,1004331,3061431,1000115,ambulatory,Encounter for check up (procedure),68.94,4162.19,1272.69,Patient referral for dental care (procedure),WASHINGTON DC
+65940004,2021-06-15 02:01:31,2021-06-15 02:16:31,1505874,1004331,3061431,1000115,ambulatory,Encounter for check up (procedure),68.94,68.94,0.0,Closed fracture of hip (disorder),WASHINGTON DC
+65940052,2021-08-12 11:21:55,2021-08-12 12:21:55,1505873,1004330,3061430,1000095,emergency,Emergency room admission (procedure),170.13,6891.22,6841.22,Fracture of bone (disorder),WASHINGTON DC
+13818655,2012-07-05 14:07:42,2012-07-05 14:22:42,2135912,1000385,3057485,1000000,ambulatory,Encounter for symptom,71.63,71.63,57.3,Viral sinusitis (disorder),CLEVELAND
+13818679,2012-08-22 16:07:42,2012-08-22 17:03:21,2135912,1000244,3057344,1000000,urgentcare,Urgent care clinic (environment),119.38,527.58,422.06,,CLEVELAND
+13818712,2009-04-12 21:12:57,2009-04-13 00:04:57,2135905,1000408,3057508,1000000,ambulatory,Encounter for problem (procedure),71.63,1510.7,1208.56,End-stage renal disease (disorder),CLEVELAND
+13818737,2019-04-08 04:02:12,2019-04-08 05:04:25,2135915,1000219,3057319,1000002,ambulatory,Encounter for problem (procedure),71.63,479.83,444.83,Dependent drug abuse (disorder),CLEVELAND
+13818829,2013-01-23 03:40:42,2013-01-23 03:55:42,2135912,1000385,3057485,1000000,ambulatory,Encounter for problem (procedure),71.63,218.39,174.7,End-stage renal disease (disorder),CLEVELAND
+13818871,2013-03-05 03:46:42,2013-03-05 07:05:42,2135912,1000385,3057485,1000000,ambulatory,Encounter for problem (procedure),71.63,835.55,668.44,End-stage renal disease (disorder),CLEVELAND
+13827219,2010-02-27 22:56:57,2010-02-27 23:52:22,2135905,1000327,3057427,1000000,urgentcare,Urgent care clinic (environment),119.38,1009.16,807.32,,CLEVELAND
+13827393,2011-04-10 00:51:16,2011-04-10 04:45:16,2135919,1000379,3057479,1000008,ambulatory,Encounter for problem (procedure),71.63,1510.7,0.0,Chronic kidney disease stage 4 (disorder),CLEVELAND
+13827430,2023-09-11 04:02:12,2023-09-11 04:17:12,2135915,1000219,3057319,1000002,ambulatory,Encounter for problem,71.63,5064.08,5029.08,Malignant tumor of colon,CLEVELAND
+13827446,2024-02-12 04:02:12,2024-02-12 05:00:18,2135915,1000219,3057319,1000002,outpatient,Encounter for check up (procedure),71.63,1516.37,1481.37,,CLEVELAND
+13827537,2023-07-31 13:54:55,2023-07-31 14:10:30,2135921,1000421,3057521,1000001,ambulatory,Outpatient procedure,119.38,5942.9,5892.9,Allergy to substance (finding),CLEVELAND
+13827620,2012-03-05 09:45:16,2012-03-05 13:39:16,2135919,1000379,3057479,1000001,ambulatory,Encounter for problem (procedure),71.63,508.46,458.46,End-stage renal disease (disorder),CLEVELAND
+13827621,2012-03-13 03:17:16,2012-03-13 10:17:19,2135919,1000379,3057479,1000001,ambulatory,Encounter for check up (procedure),71.63,4561.83,4511.83,Gingivitis (disorder),CLEVELAND
+13827653,2012-05-15 10:49:16,2012-05-15 14:27:16,2135919,1000379,3057479,1000008,ambulatory,Encounter for problem (procedure),71.63,1510.7,0.0,End-stage renal disease (disorder),CLEVELAND
+13827731,2012-09-11 06:32:16,2012-09-11 06:47:16,2135919,1000379,3057479,1000001,ambulatory,Encounter for problem (procedure),71.63,218.39,168.39,End-stage renal disease (disorder),CLEVELAND
+13827795,2013-05-07 03:17:16,2013-05-07 07:00:18,2135919,1000379,3057479,1000008,ambulatory,Encounter for check up (procedure),71.63,2929.03,0.0,Patient referral for dental care (procedure),CLEVELAND
+13827852,2013-12-03 03:17:16,2013-12-03 07:11:16,2135919,1000379,3057479,1000001,ambulatory,Encounter for problem (procedure),71.63,451.61,401.61,End-stage renal disease (disorder),CLEVELAND
+13827901,2014-05-20 03:17:16,2014-05-20 05:45:15,2135919,1000379,3057479,1000001,ambulatory,Encounter for check up (procedure),71.63,2520.83,2470.83,Gingivitis (disorder),CLEVELAND
+13827913,2014-07-04 05:29:16,2014-07-04 08:52:16,2135919,1000379,3057479,1000008,ambulatory,Encounter for problem (procedure),71.63,1271.76,0.0,End-stage renal disease (disorder),CLEVELAND
+13827990,1982-03-02 13:09:51,1982-03-02 16:11:51,2135925,1000441,3057541,1000001,ambulatory,Encounter for problem (procedure),71.63,1510.7,1460.7,End-stage renal disease (disorder),CLEVELAND
+13828059,1991-01-14 04:53:56,1991-01-14 05:26:54,2135926,1000289,3057389,1000008,wellness,General examination of patient (procedure),111.12,1471.72,0.0,,CLEVELAND
+13828066,2014-04-14 04:53:56,2014-04-14 05:08:56,2135926,1000281,3057381,1000006,ambulatory,Follow-up encounter (procedure),71.63,71.63,42.98,Chronic pain (finding),CLEVELAND
+13828214,1996-04-08 04:02:12,1996-04-08 04:36:12,2135931,1000244,3057344,1000000,urgentcare,Urgent care clinic (environment),119.38,747.72,598.16,,CLEVELAND
+13828355,2005-03-27 23:39:35,2005-03-28 03:19:35,2135932,1000408,3057508,1000000,ambulatory,Encounter for problem (procedure),71.63,1253.1,1002.48,End-stage renal disease (disorder),CLEVELAND
+13828374,2005-04-07 21:08:35,2005-04-07 21:38:55,2135932,1000327,3057427,1000000,urgentcare,Urgent care clinic (environment),119.38,889.05,711.23,,CLEVELAND
+13828420,2006-09-22 08:14:06,2006-09-22 08:29:06,2135935,1000269,3057369,1000006,ambulatory,Prenatal visit,119.38,935.78,935.78,Blighted ovum,CLEVELAND
+13828629,2023-12-29 15:01:51,2023-12-29 15:16:51,2135938,1000408,3057508,1000004,outpatient,Consultation for treatment,119.38,119.38,0.0,Contraception care (regime/therapy),CLEVELAND
+13828635,1991-09-24 03:17:16,1991-09-24 04:03:34,2135939,1000401,3057501,1000001,wellness,General examination of patient (procedure),111.12,728.7,678.7,,CLEVELAND
+13828642,2006-11-13 10:02:38,2006-11-13 15:07:00,2135939,1000200,3057300,1000001,ambulatory,Encounter for problem (procedure),71.63,1357.46,1307.46,Ischemic heart disease (disorder),CLEVELAND
+13828668,2022-12-20 03:17:16,2022-12-20 03:58:54,2135939,1000401,3057501,1000002,wellness,General examination of patient (procedure),111.12,655.32,655.32,,CLEVELAND
+13828689,2003-11-12 16:07:42,2003-11-12 16:42:34,2135940,1000227,3057327,1000000,urgentcare,Urgent care clinic (environment),119.38,1561.32,1249.05,,CLEVELAND
+13828692,2003-12-03 16:07:42,2003-12-03 16:22:42,2135940,1000514,3057614,1000000,ambulatory,Encounter for symptom,71.63,71.63,57.3,Acute bacterial sinusitis (disorder),CLEVELAND
+13828717,2023-12-10 16:38:12,2023-12-10 16:53:12,2135941,1000212,3057312,1000034,ambulatory,Encounter for symptom,71.63,71.63,50.14,Viral sinusitis (disorder),CLEVELAND
+13828801,2016-11-08 11:15:31,2016-11-08 11:30:31,2135944,1000408,3057508,1000000,ambulatory,Encounter for symptom,71.63,71.63,57.3,Acute viral pharyngitis (disorder),CLEVELAND
+13828808,2018-06-16 05:15:31,2018-06-16 08:02:27,2135944,1000408,3057508,1000000,ambulatory,Encounter for check up (procedure),71.63,2520.83,2016.66,Gingivitis (disorder),CLEVELAND
+13828809,2018-06-18 08:17:01,2018-06-18 08:36:43,2135944,1000408,3057508,1000000,ambulatory,Follow-up encounter (procedure),71.63,479.83,383.86,Loss of teeth (disorder),CLEVELAND
+13829008,1992-03-20 06:28:51,1992-03-20 09:33:51,2135950,1000326,3057426,1000001,ambulatory,Encounter for problem (procedure),71.63,552.96,502.96,Chronic kidney disease stage 4 (disorder),CLEVELAND
+13829037,1992-06-09 09:44:51,1992-06-09 12:10:51,2135950,1000326,3057426,1000001,ambulatory,Encounter for problem (procedure),71.63,892.25,842.25,Chronic kidney disease stage 4 (disorder),CLEVELAND
+13829117,1993-02-21 03:25:51,1993-02-21 06:12:51,2135950,1000326,3057426,1000001,ambulatory,Encounter for problem (procedure),71.63,451.61,401.61,End-stage renal disease (disorder),CLEVELAND
+13829126,1993-03-18 03:52:51,1993-03-18 07:03:51,2135950,1000326,3057426,1000001,ambulatory,Encounter for problem (procedure),71.63,1453.57,1403.57,End-stage renal disease (disorder),CLEVELAND
+13829192,1993-10-29 19:07:51,1993-10-29 22:59:51,2135950,1000326,3057426,1000002,ambulatory,Encounter for problem (procedure),71.63,1510.7,1475.7,End-stage renal disease (disorder),CLEVELAND
+13829284,1994-10-05 08:02:51,1994-10-05 10:58:51,2135950,1000326,3057426,1000002,ambulatory,Encounter for problem (procedure),71.63,451.61,416.61,End-stage renal disease (disorder),CLEVELAND
+13829472,1996-08-15 02:04:51,1996-08-15 04:32:51,2135950,1000326,3057426,1000002,ambulatory,Encounter for problem (procedure),71.63,451.61,416.61,End-stage renal disease (disorder),CLEVELAND
+13829484,1996-11-04 03:59:12,1996-11-04 05:27:04,2135950,1000326,3057426,1000002,ambulatory,Postoperative follow-up visit (procedure),119.38,1155.92,1120.92,History of renal transplant (situation),CLEVELAND
+13829580,2023-04-13 10:14:00,2023-04-13 11:08:21,2135954,1000408,3057508,1000002,ambulatory,Encounter for check up,71.63,31340.05,31305.05,Screening for malignant neoplasm of colon (procedure),CLEVELAND
+13829748,2020-10-03 13:05:35,2020-10-03 13:37:05,2135960,1000519,3057619,1000002,ambulatory,Outpatient procedure,119.38,14679.31,14644.31,Allergy to substance (finding),CLEVELAND
+33650453,2022-07-20 07:52:16,2022-07-20 08:45:06,2029828,1001634,3058734,1000073,urgentcare,Urgent care clinic (environment),119.05,1343.43,1074.75,,CHICAGO
+33650529,2024-03-29 00:26:56,2024-03-29 01:21:55,2029832,1001991,3059091,1000073,wellness,General examination of patient (procedure),131.5,926.5,554.8,,CHICAGO
+33650597,2021-07-03 17:31:12,2021-07-03 18:27:28,2029835,1001266,3058366,1000037,outpatient,Encounter for check up (procedure),71.43,722.3,0.0,,CHICAGO
+33658814,1985-05-29 21:53:40,1985-05-29 22:37:14,2029836,1001317,3058417,1000021,wellness,General examination of patient (procedure),131.5,917.02,767.02,,CHICAGO
+33658847,2021-06-09 21:53:40,2021-06-09 22:49:22,2029836,1001317,3058417,1000021,wellness,General examination of patient (procedure),131.5,926.5,926.5,,CHICAGO
+33658914,1974-10-15 11:01:58,1974-10-15 13:14:58,2029837,1002234,3059334,1000037,ambulatory,Encounter for problem (procedure),71.43,1667.5,1667.5,Chronic kidney disease stage 4 (disorder),CHICAGO
+33658918,1974-10-21 16:13:58,1974-10-21 18:56:58,2029837,1002234,3059334,1000037,ambulatory,Encounter for problem (procedure),71.43,1426.34,1426.34,Chronic kidney disease stage 4 (disorder),CHICAGO
+33659027,1975-05-28 17:41:58,1975-05-28 20:35:58,2029837,1002234,3059334,1000037,ambulatory,Encounter for problem (procedure),71.43,499.04,499.04,End-stage renal disease (disorder),CHICAGO
+33659105,1976-02-05 10:52:58,1976-02-05 13:06:58,2029837,1002234,3059334,1000037,ambulatory,Encounter for problem (procedure),71.43,492.86,492.86,End-stage renal disease (disorder),CHICAGO
+33659376,1977-07-19 20:52:58,1977-07-19 23:50:58,2029837,1002234,3059334,1000037,ambulatory,Encounter for problem (procedure),71.43,727.2,0.0,End-stage renal disease (disorder),CHICAGO
+33659444,2012-12-03 20:53:45,2012-12-03 23:41:45,2029846,1001288,3058388,1000051,ambulatory,Encounter for problem (procedure),71.43,795.48,0.0,End-stage renal disease (disorder),CHICAGO
+33659483,1977-09-27 20:25:58,1977-09-27 22:42:58,2029837,1002234,3059334,1000037,ambulatory,Encounter for problem (procedure),71.43,1667.5,1667.5,End-stage renal disease (disorder),CHICAGO
+33659570,2013-08-05 22:41:45,2013-08-06 01:39:45,2029846,1001288,3058388,1000051,ambulatory,Encounter for problem (procedure),71.43,492.86,0.0,End-stage renal disease (disorder),CHICAGO
+33659618,1978-03-22 22:06:58,1978-03-23 00:50:58,2029837,1002234,3059334,1000037,ambulatory,Encounter for problem (procedure),71.43,1667.5,1667.5,End-stage renal disease (disorder),CHICAGO
+33659899,2015-03-27 00:28:45,2015-03-27 03:35:45,2029846,1001288,3058388,1000051,ambulatory,Encounter for problem (procedure),71.43,492.86,0.0,End-stage renal disease (disorder),CHICAGO
+33659929,2015-07-24 19:24:45,2015-07-24 19:39:45,2029846,1001288,3058388,1000051,ambulatory,Encounter for problem (procedure),71.43,226.15,0.0,End-stage renal disease (disorder),CHICAGO
+33659977,2016-03-07 21:08:45,2016-03-08 00:32:45,2029846,1001288,3058388,1000051,ambulatory,Encounter for problem (procedure),71.43,492.86,0.0,End-stage renal disease (disorder),CHICAGO
+33659984,2016-04-04 00:44:45,2016-04-04 04:12:45,2029846,1001288,3058388,1000051,ambulatory,Encounter for problem (procedure),71.43,560.06,0.0,End-stage renal disease (disorder),CHICAGO
+33660051,2016-02-06 10:02:46,2016-02-06 10:38:16,2029850,1001631,3058731,1000073,wellness,General examination of patient (procedure),131.5,1166.44,933.16,,CHICAGO
+33660059,2016-10-18 14:37:45,2016-10-18 17:23:05,2029846,1001288,3058388,1000051,ambulatory,Encounter for check up (procedure),71.43,3048.33,0.0,Patient referral for dental care (procedure),CHICAGO
+33660149,2021-09-11 10:02:46,2021-09-11 10:33:25,2029850,1001837,3058937,1000073,outpatient,Encounter for check up (procedure),71.43,970.37,776.3,,CHICAGO
+33660152,2021-11-20 10:02:46,2021-11-20 16:37:22,2029850,1001837,3058937,1000073,ambulatory,Encounter for check up (procedure),71.43,5529.08,4423.26,Gingivitis (disorder),CHICAGO
+33660206,2024-01-14 21:02:46,2024-01-14 21:17:46,2029850,1001837,3058937,1000073,ambulatory,Encounter for symptom,71.43,71.43,57.14,Viral sinusitis (disorder),CHICAGO
+33660263,2021-05-27 19:18:42,2021-05-27 19:33:42,2029856,1001403,3058503,1000119,outpatient,Administration of vaccine to produce active immunity (procedure),119.05,255.05,204.04,,CHICAGO
+33660305,2021-04-06 17:37:52,2021-04-06 18:32:01,2029859,1001433,3058533,1000073,wellness,General examination of patient (procedure),131.5,1289.86,845.49,,CHICAGO
+33660353,2021-01-11 18:33:22,2021-01-11 22:18:42,2029860,1001705,3058805,1000021,ambulatory,Encounter for check up (procedure),71.43,4040.63,3990.63,Patient referral for dental care (procedure),CHICAGO
+33660384,2024-10-14 23:20:46,2024-10-14 23:35:46,2029862,1001549,3058649,1000023,wellness,Well child visit (procedure),131.5,267.5,0.0,,CHICAGO
+33660523,2023-12-27 20:45:50,2023-12-27 21:02:41,2029865,1001966,3059066,1000073,wellness,Well child visit (procedure),131.5,763.65,610.92,,CHICAGO
+33660535,2020-09-24 05:14:00,2020-09-24 08:33:26,2029866,1001240,3058340,1000119,ambulatory,Encounter for check up (procedure),71.43,3544.48,2570.41,Patient referral for dental care (procedure),CHICAGO
+33660573,2024-03-16 00:08:19,2024-03-16 00:23:19,2029867,1001235,3058335,1000021,wellness,Well child visit (procedure),131.5,267.5,167.5,,CHICAGO
+33660585,2003-07-08 14:37:45,2003-07-08 14:52:45,2029869,1001356,3058456,1000051,ambulatory,Prenatal visit,119.05,7440.58,0.0,Normal pregnancy,CHICAGO
+33660624,2006-10-23 12:24:07,2006-10-26 21:33:07,2029869,1001356,3058456,1000073,inpatient,Encounter for problem,71.22,37130.14,29704.11,Non-small cell carcinoma of lung  TNM stage 1 (disorder),CHICAGO
+33660638,2020-07-09 09:10:38,2020-07-09 09:25:38,2029870,1001729,3058829,1000021,ambulatory,Encounter for symptom,71.43,71.43,0.0,Viral sinusitis (disorder),CHICAGO
+33660735,1997-05-20 13:42:11,1997-05-20 13:57:11,2029874,1001967,3059067,1000074,outpatient,Patient encounter procedure,119.05,3437.07,2405.95,Contraception care (regime/therapy),CHICAGO
+33660798,2023-12-28 19:17:08,2023-12-28 19:32:08,2029876,1001507,3058607,1000074,ambulatory,Encounter for symptom,71.43,71.43,50.0,Viral sinusitis (disorder),CHICAGO
+33660809,2021-06-04 05:19:32,2021-06-04 05:34:32,2029877,1001932,3059032,1000021,outpatient,Administration of vaccine to produce active immunity (procedure),119.05,255.05,105.05,,CHICAGO
+33660866,2023-06-12 15:21:29,2023-06-12 18:50:01,2029880,1001740,3058840,1000060,ambulatory,Encounter for check up (procedure),71.43,3544.48,237.12,Gingivitis (disorder),CHICAGO
+33660879,1948-10-07 08:09:58,1948-10-07 09:01:49,2029881,1001252,3058352,1000022,wellness,General examination of patient (procedure),131.5,1910.67,1875.67,,CHICAGO
+33660974,2013-01-13 12:31:36,2013-01-13 13:14:04,2029883,1002234,3059334,1000074,outpatient,Encounter for check up (procedure),71.43,1019.27,1019.27,,CHICAGO
+33661108,2013-11-30 18:27:36,2013-11-30 21:10:36,2029883,1002234,3059334,1000037,ambulatory,Encounter for problem (procedure),71.43,492.86,492.86,End-stage renal disease (disorder),CHICAGO
+33661361,2018-11-14 00:57:32,2018-11-14 01:12:32,2029891,1001740,3058840,1000037,outpatient,Consultation for treatment,119.05,119.05,0.0,Contraception care (regime/therapy),CHICAGO
+33661491,2023-11-25 04:26:39,2023-11-25 07:44:50,2029886,1001837,3058937,1000037,ambulatory,Encounter for check up (procedure),71.43,4040.63,4040.63,Patient referral for dental care (procedure),CHICAGO
+33661658,2015-11-08 12:31:36,2015-11-08 15:08:36,2029883,1002234,3059334,1000024,ambulatory,Encounter for problem (procedure),71.43,492.86,492.86,End-stage renal disease (disorder),CHICAGO
+33661673,1994-11-29 16:43:11,1994-11-29 16:58:11,2029889,1002039,3059139,1000037,ambulatory,Encounter for problem (procedure),71.43,226.15,226.15,End-stage renal disease (disorder),CHICAGO
+33661936,1995-12-12 13:42:11,1995-12-12 14:20:24,2029889,1002039,3059139,1000037,outpatient,Encounter for check up (procedure),71.43,902.2,902.2,,CHICAGO
+33662042,2017-03-05 12:31:36,2017-03-05 13:53:49,2029883,1002234,3059334,1000024,ambulatory,Postoperative follow-up visit (procedure),119.05,1343.43,1343.43,History of renal transplant (situation),CHICAGO
+33662100,2015-10-15 20:08:00,2015-10-15 20:38:12,2029901,1001852,3058952,1000021,urgentcare,Urgent care clinic (environment),119.05,836.69,786.69,,CHICAGO
+14001669,1989-08-13 10:16:39,1989-08-13 12:47:39,2353364,1000394,3057494,1000008,ambulatory,Encounter for problem (procedure),71.63,451.61,0.0,End-stage renal disease (disorder),CLEVELAND
+14001684,1989-10-10 18:27:39,1989-10-10 22:18:39,2353364,1000394,3057494,1000008,ambulatory,Encounter for problem (procedure),71.63,563.36,0.0,End-stage renal disease (disorder),CLEVELAND
+14001877,2024-03-12 12:25:08,2024-03-12 12:40:08,2353370,1000421,3057521,1000000,ambulatory,Encounter for symptom,71.63,80.26,64.2,Sinusitis (disorder),CLEVELAND
+14001993,1990-11-12 06:47:59,1990-11-12 10:39:41,2353373,1000219,3057319,1000000,ambulatory,Encounter for check up (procedure),71.63,2520.83,2016.66,Gingivitis (disorder),CLEVELAND
+14002176,2020-02-19 18:24:30,2020-02-19 20:26:30,2353376,1000317,3057417,1000000,ambulatory,Encounter for problem (procedure),71.63,610.26,488.2,Chronic kidney disease stage 4 (disorder),CLEVELAND
+14002205,2022-04-05 19:05:51,2022-04-05 19:58:51,2353377,1000382,3057482,1000001,wellness,General examination of patient (procedure),111.12,728.7,728.7,,CLEVELAND
+14002218,2022-09-05 16:20:19,2022-09-05 16:35:19,2353375,1000269,3057369,1000034,outpatient,Consultation for treatment,119.38,119.38,83.57,Contraception care (regime/therapy),CLEVELAND
+14002300,2020-07-01 19:52:30,2020-07-01 21:55:30,2353376,1000317,3057417,1000000,ambulatory,Encounter for problem (procedure),71.63,661.36,529.08,Chronic kidney disease stage 4 (disorder),CLEVELAND
+14002467,2021-09-05 16:01:30,2021-09-05 16:50:16,2353376,1000369,3057469,1000000,urgentcare,Urgent care clinic (environment),119.38,805.06,805.06,,CLEVELAND
+14002533,2022-02-06 16:01:30,2022-02-06 18:04:30,2353376,1000317,3057417,1000000,ambulatory,Encounter for problem (procedure),71.63,1214.98,971.98,End-stage renal disease (disorder),CLEVELAND
+14002744,2023-09-20 19:14:30,2023-09-20 21:58:30,2353376,1000317,3057417,1000000,ambulatory,Encounter for problem (procedure),71.63,451.61,451.61,End-stage renal disease (disorder),CLEVELAND
+14002958,2020-11-02 13:55:00,2020-11-02 14:10:00,2353387,1000408,3057508,1000001,ambulatory,Encounter for symptom,71.63,71.63,0.0,Acute viral pharyngitis (disorder),CLEVELAND
+14002969,2013-06-18 22:43:39,2013-07-07 15:22:39,2353384,1000219,3057319,1000000,inpatient,Encounter for problem,69.38,137490.8,109992.63,Non-small cell carcinoma of lung  TNM stage 1 (disorder),CLEVELAND
+14003121,2024-08-11 16:01:30,2024-08-11 18:41:30,2353376,1000317,3057417,1000000,ambulatory,Encounter for problem (procedure),71.63,605.92,605.92,End-stage renal disease (disorder),CLEVELAND
+14003197,2022-05-19 11:00:07,2022-05-19 11:41:54,2353390,1000312,3057412,1000001,wellness,General examination of patient (procedure),111.12,1107.65,1107.65,,CLEVELAND
+14003205,2020-02-22 23:09:43,2020-02-23 00:28:36,2353389,1000405,3057505,1000034,ambulatory,Encounter for problem (procedure),71.63,479.83,0.0,Dependent drug abuse (disorder),CLEVELAND
+14003319,2024-06-15 13:23:53,2024-06-15 13:38:53,2353393,1000328,3057428,1000007,wellness,Well child visit (procedure),111.12,1093.77,0.0,,CLEVELAND
+14003330,2022-08-22 07:14:11,2022-08-22 07:29:11,2353394,1000326,3057426,1000000,ambulatory,Follow-up encounter,71.63,218.39,174.7,Hyperlipidemia,CLEVELAND
+14003355,2000-11-11 22:23:53,2000-11-11 23:23:53,2353396,1000301,3057401,1000001,emergency,Emergency treatment (procedure),115.63,9177.42,9127.42,Impacted molars,CLEVELAND
+14003376,2003-03-02 22:23:53,2003-03-02 22:38:53,2353396,1000353,3057453,1000001,ambulatory,Prenatal visit,119.38,7080.97,7030.97,Normal pregnancy,CLEVELAND
+14003377,2003-03-13 22:23:53,2003-03-13 23:23:53,2353396,1000301,3057401,1000001,emergency,Emergency treatment (procedure),115.63,115.63,65.63,Chronic intractable migraine without aura,CLEVELAND
+14003399,2022-08-19 17:18:22,2022-08-19 18:08:24,2353397,1000382,3057482,1000001,wellness,General examination of patient (procedure),111.12,1255.8,1155.8,,CLEVELAND
+14003512,2021-02-04 21:29:39,2021-02-04 21:44:39,2353402,1000265,3057365,1000007,ambulatory,Encounter for symptom,71.63,71.63,0.0,Viral sinusitis (disorder),CLEVELAND
+14003550,2020-07-10 06:47:59,2020-07-10 07:02:59,2353403,1000219,3057319,1000000,ambulatory,Follow-up encounter,71.63,218.39,0.0,Hyperlipidemia,CLEVELAND
+14003598,2024-06-04 21:51:44,2024-06-04 22:48:03,2353404,1000360,3057460,1000001,wellness,General examination of patient (procedure),111.12,958.89,958.89,,CLEVELAND
+14003613,2014-01-31 13:27:04,2014-01-31 13:42:04,2353406,1000343,3057443,1000006,outpatient,Encounter for problem (procedure),71.63,71.63,0.0,Chronic pain (finding),CLEVELAND
+14003743,2024-06-23 22:23:53,2024-06-23 23:05:50,2353407,1000424,3057524,1000001,urgentcare,Urgent care clinic (environment),119.38,1228.97,1178.97,,CLEVELAND
+14003899,2023-07-15 04:21:38,2023-07-15 04:36:38,2353414,1000505,3057605,1000002,home,Home visit (procedure),114.1,376.77,341.77,Transition from acute care to home-health care (finding),CLEVELAND
+14003903,2023-07-18 04:21:38,2023-07-18 04:36:38,2353414,1000505,3057605,1000002,home,Home visit (procedure),114.1,318.2,283.2,Transition from acute care to home-health care (finding),CLEVELAND
+14003945,2023-04-08 11:54:28,2023-04-08 12:27:48,2353415,1000408,3057508,1000000,outpatient,Encounter for check up (procedure),71.63,626.59,501.26,,CLEVELAND
+14003983,2017-07-31 08:15:46,2017-07-31 08:50:33,2353420,1000327,3057427,1000008,urgentcare,Urgent care clinic (environment),119.38,663.58,0.0,,CLEVELAND
+14004006,2023-02-24 05:27:02,2023-02-24 06:56:44,2353420,1000297,3057397,1000008,ambulatory,Encounter for problem (procedure),71.63,479.83,0.0,Dependent drug abuse (disorder),CLEVELAND
+14004166,2020-12-29 15:49:42,2020-12-29 16:04:42,2353426,1000421,3057521,1000001,outpatient,Encounter for check up (procedure),71.63,422.49,372.49,,CLEVELAND
+14004193,2024-06-11 15:49:42,2024-06-11 19:12:28,2353426,1000421,3057521,1000001,ambulatory,Encounter for check up (procedure),71.63,3337.23,3287.23,Patient referral for dental care (procedure),CLEVELAND
+14004210,2024-07-29 10:25:42,2024-07-29 10:40:42,2353426,1000421,3057521,1000001,ambulatory,Encounter for problem (procedure),71.63,218.39,168.39,Chronic kidney disease stage 4 (disorder),CLEVELAND
+14004338,1999-02-15 05:05:39,1999-02-15 05:57:09,2353430,1000255,3057355,1000000,wellness,General examination of patient (procedure),111.12,1432.6,963.2,,CLEVELAND
+14004402,2022-05-07 20:26:42,2022-05-07 21:24:16,2353431,1000408,3057508,1000000,outpatient,Encounter for check up (procedure),71.63,1442.99,1154.38,,CLEVELAND
+14004495,1981-07-26 13:43:59,1981-07-26 14:37:53,2353434,1000316,3057416,1000001,wellness,General examination of patient (procedure),111.12,655.32,605.32,,CLEVELAND
+14004580,2023-09-05 01:04:18,2023-09-05 01:19:18,2353433,1000424,3057524,1000000,urgentcare,Urgent care clinic (environment),119.38,834.29,667.42,,CLEVELAND
+14004833,2020-01-09 23:38:44,2020-01-10 01:03:18,2353441,1000508,3057608,1000001,ambulatory,Encounter for problem (procedure),71.63,479.83,429.83,Dependent drug abuse (disorder),CLEVELAND
+14004849,2022-10-12 01:38:09,2022-10-12 03:38:09,2353441,1000446,3057546,1000002,emergency,Emergency room admission (procedure),115.63,115.63,80.63,Drug overdose,CLEVELAND
+14004877,1991-10-28 13:24:34,1991-10-28 13:52:34,2353442,1000326,3057426,1000008,ambulatory,Outpatient procedure,119.38,4965.07,0.0,Allergy to substance (finding),CLEVELAND
+14004888,1992-05-09 17:41:43,1992-05-09 18:22:14,2353442,1000326,3057426,1000008,ambulatory,Outpatient procedure,119.38,4965.07,0.0,Allergy to substance (finding),CLEVELAND
+14005066,2006-03-10 11:04:47,2006-03-10 11:19:47,2353445,1000200,3057300,1000002,ambulatory,Telemedicine consultation with patient,119.38,119.38,84.38,Chronic congestive heart failure (disorder),CLEVELAND
+14005169,2003-05-26 05:05:39,2003-05-26 05:47:20,2353449,1000410,3057510,1000000,wellness,General examination of patient (procedure),111.12,1011.46,624.52,,CLEVELAND
+14005235,2004-03-01 05:05:39,2004-03-01 11:51:55,2353449,1000414,3057514,1000000,ambulatory,Encounter for check up (procedure),71.63,4561.83,3649.46,Patient referral for dental care (procedure),CLEVELAND
+14005240,2004-03-20 16:23:39,2004-03-20 18:47:39,2353449,1000414,3057514,1000000,ambulatory,Encounter for problem (procedure),71.63,1510.7,1208.56,End-stage renal disease (disorder),CLEVELAND
+56318002,2018-11-16 11:49:23,2018-11-16 12:04:23,1197457,1003769,3060869,1000110,ambulatory,Telemedicine consultation with patient,136.7,136.7,109.36,Chronic congestive heart failure (disorder),SAN FRANCISCO
+56318013,1995-02-15 15:29:26,1995-02-15 16:20:40,1197458,1003854,3060954,1000110,wellness,General examination of patient (procedure),146.76,1688.57,1165.18,,SAN FRANCISCO
+56318097,2019-03-02 11:49:23,2019-03-02 12:04:23,1197457,1003769,3060869,1000110,ambulatory,Telemedicine consultation with patient,136.7,136.7,109.36,Chronic congestive heart failure (disorder),SAN FRANCISCO
+56318170,2021-05-23 11:30:00,2021-05-23 12:30:00,1197457,1003813,3060913,1000110,emergency,Emergency room admission (procedure),166.97,7722.16,6177.73,Laceration - injury (disorder),SAN FRANCISCO
+56318186,2023-10-23 16:05:37,2023-10-23 16:20:37,1197459,1003831,3060931,1000110,home,Home visit (procedure),163.57,463.82,371.06,Transition from acute care to home-health care (finding),SAN FRANCISCO
+56318265,2021-08-09 10:28:43,2021-08-09 10:43:43,1197457,1003769,3060869,1000110,ambulatory,Telemedicine consultation with patient,136.7,136.7,109.36,Chronic congestive heart failure (disorder),SAN FRANCISCO
+56318298,2000-10-11 06:20:09,2000-10-11 06:56:57,1197462,1003795,3060895,1000110,wellness,General examination of patient (procedure),146.76,6840.64,5472.5,,SAN FRANCISCO
+56318517,2019-05-18 10:50:56,2019-05-18 11:47:50,1197467,1003841,3060941,1000110,outpatient,Encounter for check up (procedure),82.02,810.65,648.52,,SAN FRANCISCO
+56318528,2020-02-28 18:38:54,2020-02-28 21:15:20,1197466,1003887,3060987,1000110,ambulatory,Encounter for check up (procedure),82.02,4285.52,3428.42,Patient referral for dental care (procedure),SAN FRANCISCO
+56318591,2022-03-10 16:06:27,2022-03-17 08:03:27,1197470,1003915,3061015,1000117,inpatient,Non-urgent orthopedic admission,166.97,10915.52,8723.56,Rupture of patellar tendon,SAN FRANCISCO
+56318623,2024-09-26 11:41:26,2024-09-26 14:10:26,1197458,1003812,3060912,1000110,ambulatory,Encounter for problem (procedure),82.02,1941.25,1553.0,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+56318665,1972-03-13 13:22:43,1972-03-13 14:21:50,1197471,1003887,3060987,1000110,outpatient,Encounter for check up (procedure),82.02,1358.63,901.97,,SAN FRANCISCO
+56318703,1982-10-25 13:22:43,1982-10-25 17:17:43,1197471,1003887,3060987,1000110,ambulatory,Encounter for problem (procedure),82.02,1952.03,1952.03,End-stage renal disease (disorder),SAN FRANCISCO
+56318718,2021-12-17 18:38:54,2021-12-17 21:39:40,1197466,1003887,3060987,1000110,ambulatory,Encounter for check up (procedure),82.02,4285.52,3428.42,Patient referral for dental care (procedure),SAN FRANCISCO
+56318730,1983-01-02 18:03:43,1983-01-02 20:10:43,1197471,1003887,3060987,1000110,ambulatory,Encounter for problem (procedure),82.02,1035.04,1035.04,End-stage renal disease (disorder),SAN FRANCISCO
+56318759,2022-11-03 04:31:59,2022-11-03 08:13:59,1197463,1003927,3061027,1000100,ambulatory,Encounter for problem (procedure),82.02,1952.03,1902.03,,SAN FRANCISCO
+56318860,2024-01-17 21:43:00,2024-01-17 21:58:00,1197473,1003791,3060891,1000033,ambulatory,Prenatal visit,136.7,15877.82,0.0,Normal pregnancy,SAN FRANCISCO
+56318956,2023-05-21 22:00:59,2023-05-22 00:07:59,1197463,1003927,3061027,1000100,ambulatory,Encounter for problem (procedure),82.02,1303.93,1303.93,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+56319104,2023-07-24 09:04:48,2023-07-24 09:19:48,1197475,1003911,3061011,1000111,ambulatory,Encounter for check up,82.02,82.02,0.0,Concussion with no loss of consciousness,SAN FRANCISCO
+56319140,2020-03-24 06:20:20,2020-03-24 07:05:36,1197477,1003795,3060895,1000090,wellness,General examination of patient (procedure),146.76,883.26,706.61,,SAN FRANCISCO
+56319144,2019-12-18 06:20:09,2019-12-18 10:06:39,1197478,1003806,3060906,1000110,ambulatory,Encounter for check up (procedure),82.02,3685.02,2948.02,Gingivitis (disorder),SAN FRANCISCO
+56319176,1984-02-19 20:05:43,1984-02-19 23:09:43,1197471,1003887,3060987,1000110,ambulatory,Encounter for problem (procedure),82.02,722.7,578.16,End-stage renal disease (disorder),SAN FRANCISCO
+56319188,1991-11-05 09:44:27,1991-11-05 11:22:32,1197479,1003794,3060894,1000033,ambulatory,Encounter for problem (procedure),82.02,1883.52,0.0,Loss of teeth (disorder),SAN FRANCISCO
+56331580,1984-09-10 13:22:43,1984-09-10 14:22:43,1197471,1003906,3061006,1000110,emergency,Emergency room admission (procedure),166.97,1367.97,1367.97,,SAN FRANCISCO
+56331624,1985-04-18 15:51:43,1985-04-18 19:28:43,1197471,1003887,3060987,1000089,ambulatory,Encounter for problem (procedure),82.02,1952.03,1917.03,End-stage renal disease (disorder),SAN FRANCISCO
+56331720,1986-05-22 16:31:43,1986-05-22 18:44:43,1197471,1003887,3060987,1000089,ambulatory,Encounter for problem (procedure),82.02,575.78,540.78,End-stage renal disease (disorder),SAN FRANCISCO
+56331730,1986-07-07 13:22:43,1986-07-07 16:51:43,1197471,1003887,3060987,1000089,ambulatory,Encounter for problem (procedure),82.02,575.78,540.78,End-stage renal disease (disorder),SAN FRANCISCO
+56331752,1986-10-12 20:46:43,1986-10-12 23:39:43,1197471,1003887,3060987,1000089,ambulatory,Encounter for problem (procedure),82.02,575.78,540.78,End-stage renal disease (disorder),SAN FRANCISCO
+56331814,1968-08-07 02:56:53,1968-08-07 03:52:52,1197481,1003863,3060963,1000090,wellness,General examination of patient (procedure),146.76,1303.44,0.0,,SAN FRANCISCO
+56331819,1984-08-29 02:56:53,1984-08-29 03:50:41,1197481,1003863,3060963,1000090,wellness,General examination of patient (procedure),146.76,1003.19,0.0,,SAN FRANCISCO
+56331932,2023-03-14 21:52:41,2023-03-14 22:07:41,1197483,1003791,3060891,1000112,outpatient,Consultation for treatment,136.7,136.7,95.69,Contraception care (regime/therapy),SAN FRANCISCO
+56331966,2022-08-31 02:56:53,2022-08-31 03:54:17,1197481,1003893,3060993,1000110,urgentcare,Urgent care clinic (environment),136.7,1817.42,1453.92,,SAN FRANCISCO
+56331998,2019-02-11 08:58:19,2019-02-11 09:13:19,1197485,1003791,3060891,1000112,ambulatory,Follow-up encounter,82.02,321.88,0.0,Hyperlipidemia,SAN FRANCISCO
+56332084,1992-05-05 07:22:58,1992-05-05 11:09:58,1197487,1003920,3061020,1000112,ambulatory,Encounter for problem (procedure),82.02,575.78,575.78,End-stage renal disease (disorder),SAN FRANCISCO
+56332121,2023-04-26 02:56:53,2023-04-26 03:31:53,1197481,1003794,3060894,1000110,outpatient,Encounter for check up (procedure),82.02,1762.74,1410.18,,SAN FRANCISCO
+56332214,2020-05-25 21:22:30,2020-05-25 22:22:30,1197490,1003787,3060887,1000111,emergency,Emergency room admission (procedure),166.97,1307.58,0.0,,SAN FRANCISCO
+56332287,1993-03-15 20:13:58,1993-03-15 23:52:58,1197487,1003920,3061020,1000112,ambulatory,Encounter for problem (procedure),82.02,766.39,766.39,End-stage renal disease (disorder),SAN FRANCISCO
+56332289,1993-03-30 07:22:58,1993-03-30 08:13:03,1197487,1003920,3061020,1000112,ambulatory,Outpatient procedure,136.7,18924.74,10789.12,Allergy to substance (finding),SAN FRANCISCO
+56332410,1994-02-14 12:00:58,1994-02-14 15:15:58,1197487,1003920,3061020,1000112,ambulatory,Encounter for problem (procedure),82.02,709.98,709.98,End-stage renal disease (disorder),SAN FRANCISCO
+56332535,2024-08-07 02:56:53,2024-08-07 03:27:21,1197481,1003893,3060993,1000110,urgentcare,Urgent care clinic (environment),136.7,1817.42,1453.92,,SAN FRANCISCO
+56332625,1995-11-14 07:22:58,1995-11-14 08:08:24,1197487,1003893,3060993,1000112,urgentcare,Urgent care clinic (environment),136.7,737.2,737.2,,SAN FRANCISCO
+56332641,1995-12-15 11:11:58,1995-12-15 13:20:58,1197487,1003920,3061020,1000112,ambulatory,Encounter for problem (procedure),82.02,1588.38,1588.38,End-stage renal disease (disorder),SAN FRANCISCO
+56332739,2021-03-23 09:44:27,2021-03-23 09:59:27,1197494,1003920,3061020,1000110,outpatient,Administration of vaccine to produce active immunity (procedure),136.7,272.7,218.16,,SAN FRANCISCO
+56332745,2022-06-12 09:44:27,2022-06-12 10:44:27,1197494,1003909,3061009,1000110,emergency,Emergency hospital admission (procedure),100.18,100.18,80.14,Chronic pain,SAN FRANCISCO
+56332764,2022-01-16 07:45:08,2022-01-16 08:00:08,1197497,1003790,3060890,1000100,wellness,Well child visit (procedure),146.76,747.26,747.26,,SAN FRANCISCO
+56332772,2023-06-27 09:44:27,2023-06-27 13:10:57,1197494,1003920,3061020,1000110,ambulatory,Encounter for check up (procedure),82.02,4285.52,3428.42,Patient referral for dental care (procedure),SAN FRANCISCO
+56332795,2021-05-01 04:52:10,2021-05-01 05:07:10,1197498,1003915,3061015,1000050,ambulatory,Prenatal visit,136.7,20397.64,20397.64,Normal pregnancy,SAN FRANCISCO
+46336625,2001-10-15 06:45:18,2001-10-15 07:19:00,1863821,1002715,3059815,1000077,wellness,General examination of patient (procedure),124.16,1236.07,0.0,,DETROIT
+46336628,2019-07-15 06:45:18,2019-07-15 07:16:13,1863821,1002304,3059404,1000061,outpatient,Encounter for check up (procedure),69.06,719.67,575.73,,DETROIT
+46336716,2020-01-25 06:31:39,2020-01-25 07:17:22,1863824,1002324,3059424,1000025,wellness,General examination of patient (procedure),124.16,828.39,828.39,,DETROIT
+46336740,2018-11-03 18:57:07,2018-11-03 21:50:07,1863825,1002574,3059674,1000025,ambulatory,Encounter for problem (procedure),69.06,1464.98,1464.98,Chronic kidney disease stage 4 (disorder),DETROIT
+46336742,2020-06-26 06:31:39,2020-06-26 06:46:39,1863824,1002703,3059803,1000025,ambulatory,Encounter for symptom,69.06,69.06,19.06,Viral sinusitis (disorder),DETROIT
+46336744,2018-11-10 00:19:07,2018-11-10 02:20:07,1863825,1002574,3059674,1000025,ambulatory,Encounter for problem (procedure),69.06,1602.65,1602.65,Chronic kidney disease stage 4 (disorder),DETROIT
+46336791,2019-02-27 12:12:07,2019-02-27 14:45:07,1863825,1002574,3059674,1000025,ambulatory,Encounter for problem (procedure),69.06,619.04,569.04,Chronic kidney disease stage 4 (disorder),DETROIT
+46336859,2019-09-16 00:57:07,2019-09-16 01:32:31,1863825,1002300,3059400,1000025,urgentcare,Urgent care clinic (environment),115.1,848.09,798.09,,DETROIT
+46336979,2021-04-06 16:44:00,2021-04-06 16:59:00,1863827,1002574,3059674,1000061,ambulatory,Encounter for problem (procedure),69.06,69.06,55.25,Posttraumatic stress disorder,DETROIT
+46337085,2020-05-09 22:39:07,2020-05-10 01:07:07,1863825,1002574,3059674,1000061,ambulatory,Encounter for problem (procedure),69.06,473.99,473.99,Chronic kidney disease stage 4 (disorder),DETROIT
+46337133,2022-07-21 21:44:00,2022-07-21 21:59:00,1863827,1002574,3059674,1000061,virtual,Telephone encounter (procedure),75.0,75.0,60.0,Posttraumatic stress disorder,DETROIT
+46337217,2021-07-09 01:46:28,2021-07-09 03:50:28,1863825,1002367,3059467,1000052,emergency,Emergency room admission (procedure),123.06,14525.76,14490.76,Fracture of bone (disorder),DETROIT
+46337375,2023-05-22 00:57:07,2023-05-27 13:50:07,1863825,1002574,3059674,1000052,inpatient,Encounter for problem,73.83,43185.5,43150.5,Non-small cell carcinoma of lung  TNM stage 1 (disorder),DETROIT
+46337415,2021-08-18 15:06:24,2021-08-18 15:59:12,1863834,1002304,3059404,1000077,ambulatory,Follow-up encounter (procedure),69.06,554.91,0.0,Loss of teeth (disorder),DETROIT
+46337440,2019-03-23 03:42:53,2019-03-23 03:57:53,1863835,1002521,3059621,1000076,ambulatory,Follow-up encounter,69.06,233.82,0.0,Hyperlipidemia,DETROIT
+46337505,2006-06-21 03:09:29,2006-06-21 03:24:29,1863837,1002605,3059705,1000025,ambulatory,Encounter for symptom,69.06,77.56,27.56,Acute bacterial sinusitis (disorder),DETROIT
+46337590,1953-01-17 02:25:20,1953-01-17 02:40:20,1863838,1002640,3059740,1000077,ambulatory,Encounter for symptom,69.06,77.56,0.0,Sinusitis (disorder),DETROIT
+46337669,2014-02-06 17:41:56,2014-02-06 17:56:56,1863842,1002304,3059404,1000025,outpatient,Encounter for problem (procedure),69.06,69.06,19.06,Chronic pain (finding),DETROIT
+46337674,2015-08-27 00:42:35,2015-08-27 01:32:30,1863841,1002304,3059404,1000061,ambulatory,Encounter for check up,69.06,15675.82,12354.26,Screening for malignant neoplasm of colon (procedure),DETROIT
+46337725,2018-03-14 01:45:29,2018-03-14 02:16:49,1863841,1002304,3059404,1000061,ambulatory,Encounter for check up,69.06,11782.26,9425.81,Polyp of colon,DETROIT
+46337730,2023-11-04 12:23:10,2023-11-04 12:38:10,1863840,1002304,3059404,1000052,ambulatory,Encounter for symptom,69.06,69.06,34.06,Viral sinusitis (disorder),DETROIT
+46337790,2007-10-16 16:33:21,2007-10-16 17:24:39,1863844,1002323,3059423,1000052,wellness,General examination of patient (procedure),124.16,918.61,918.61,,DETROIT
+46337859,2023-11-10 14:06:22,2023-11-10 15:11:54,1863845,1002497,3059597,1000052,ambulatory,Encounter for problem (procedure),69.06,554.91,519.91,Dependent drug abuse (disorder),DETROIT
+46337861,2024-01-09 16:36:00,2024-01-09 17:47:49,1863845,1002497,3059597,1000052,ambulatory,Encounter for problem (procedure),69.06,554.91,519.91,Dependent drug abuse (disorder),DETROIT
+46337913,2023-07-24 18:07:15,2023-07-24 19:07:15,1863844,1002323,3059423,1000061,emergency,Emergency room admission (procedure),123.06,123.06,98.45,Burn injury (morphologic abnormality),DETROIT
+46338073,2024-09-15 02:36:45,2024-09-15 02:51:45,1863853,1002345,3059445,1000027,wellness,Well child visit (procedure),124.16,736.72,0.0,,DETROIT
+46338096,2022-05-02 14:29:04,2022-05-02 14:44:04,1863852,1002487,3059587,1000061,ambulatory,Follow-up encounter,69.06,233.82,187.05,Hyperlipidemia,DETROIT
+46338109,2023-02-20 14:29:04,2023-02-20 15:27:43,1863852,1002466,3059566,1000061,urgentcare,Urgent care clinic (environment),115.1,848.09,678.46,,DETROIT
+46338272,2021-01-02 17:45:46,2021-01-02 18:36:38,1863859,1002525,3059625,1000025,ambulatory,Encounter for symptom,69.06,2012.46,1962.46,Acute infective cystitis (disorder),DETROIT
+46338327,1993-09-12 22:11:19,1993-09-12 23:03:49,1863861,1002708,3059808,1000038,wellness,General examination of patient (procedure),124.16,828.39,0.0,,DETROIT
+46338384,2022-11-16 01:10:26,2022-11-16 01:25:26,1863862,1002497,3059597,1000075,outpatient,Consultation for treatment,115.1,115.1,92.08,Contraception care (regime/therapy),DETROIT
+46338464,2021-12-30 11:26:39,2021-12-30 14:31:29,1863860,1002588,3059688,1000052,ambulatory,Encounter for check up (procedure),69.06,2984.16,2949.16,Gingivitis (disorder),DETROIT
+46338475,2022-06-23 11:26:39,2022-06-23 11:41:39,1863860,1002588,3059688,1000052,outpatient,Encounter for check up (procedure),69.06,233.82,198.82,,DETROIT
+46338735,2002-05-08 07:48:31,2002-05-08 08:03:31,1863869,1002703,3059803,1000025,ambulatory,Follow-up encounter (procedure),69.06,69.06,19.06,Essential hypertension (disorder),DETROIT
+46338788,2023-03-08 21:05:27,2023-03-08 23:52:43,1863867,1002304,3059404,1000027,ambulatory,Encounter for check up (procedure),69.06,3470.01,2429.04,Gingivitis (disorder),DETROIT
+46342911,2023-07-24 15:19:07,2023-07-24 15:34:07,1863870,1002487,3059587,1000038,ambulatory,Prenatal visit,115.1,10343.23,2549.54,Normal pregnancy,DETROIT
+46342998,2014-07-19 13:36:20,2014-07-19 13:51:20,1863866,1002521,3059621,1000061,ambulatory,Encounter for problem (procedure),69.06,233.82,187.05,End-stage renal disease (disorder),DETROIT
+46343030,2014-10-22 12:04:20,2014-10-22 15:38:20,1863866,1002521,3059621,1000061,ambulatory,Encounter for problem (procedure),69.06,473.99,379.19,End-stage renal disease (disorder),DETROIT
+46343045,2014-12-19 19:19:20,2014-12-19 22:45:20,1863866,1002521,3059621,1000061,ambulatory,Encounter for problem (procedure),69.06,737.58,590.07,End-stage renal disease (disorder),DETROIT
+46343126,2015-08-22 11:25:20,2015-08-22 13:40:20,1863866,1002521,3059621,1000061,ambulatory,Encounter for problem (procedure),69.06,473.99,379.19,End-stage renal disease (disorder),DETROIT
+46343277,2016-07-02 11:25:20,2016-07-02 12:13:16,1863866,1002521,3059621,1000061,outpatient,Encounter for check up (procedure),69.06,1123.14,898.51,,DETROIT
+46343319,2016-12-02 17:23:20,2016-12-02 19:30:20,1863866,1002521,3059621,1000061,ambulatory,Encounter for problem (procedure),69.06,473.99,379.19,End-stage renal disease (disorder),DETROIT
+46343410,2017-10-10 14:02:20,2017-10-10 17:27:20,1863866,1002521,3059621,1000061,ambulatory,Encounter for problem (procedure),69.06,473.99,379.19,End-stage renal disease (disorder),DETROIT
+46343436,2024-06-15 06:14:23,2024-06-15 06:30:41,1863879,1002527,3059627,1000025,wellness,Well child visit (procedure),124.16,882.01,782.01,,DETROIT
+46343476,2021-08-08 20:15:43,2021-08-08 23:39:31,1863880,1002525,3059625,1000026,ambulatory,Encounter for check up (procedure),69.06,3955.86,0.0,Patient referral for dental care (procedure),DETROIT
+46343501,2023-11-20 12:19:16,2023-11-20 12:34:16,1863878,1002487,3059587,1000025,ambulatory,Prenatal visit,115.1,7549.1,7499.1,Normal pregnancy,DETROIT
+46343553,2022-04-24 22:11:19,2022-04-24 22:26:19,1863881,1002419,3059519,1000061,urgentcare,Urgent care clinic (environment),115.1,279.86,223.88,,DETROIT
+25292104,1999-12-15 22:15:37,1999-12-15 23:13:31,1243482,1000585,3057685,1000013,wellness,General examination of patient (procedure),133.36,783.46,0.0,,AUSTIN
+25292111,2023-11-19 01:44:04,2023-11-19 02:17:32,1243481,1000771,3057871,1000010,ambulatory,Patient encounter procedure (procedure),113.77,5391.31,4313.05,Chronic pain (finding),AUSTIN
+25292189,2023-12-26 04:15:46,2023-12-26 04:30:46,1243484,1000589,3057689,1000013,ambulatory,Prenatal visit,113.77,7046.59,0.0,Normal pregnancy,AUSTIN
+25292411,2022-11-23 12:16:25,2022-11-23 15:46:22,1243486,1000783,3057883,1000010,ambulatory,Encounter for check up (procedure),68.26,3666.96,2933.57,Patient referral for dental care (procedure),AUSTIN
+25292477,2021-01-26 17:48:52,2021-01-26 18:34:01,1243492,1000820,3057920,1000059,ambulatory,Patient encounter procedure (procedure),113.77,14704.22,7406.52,Chronic pain (finding),AUSTIN
+25292612,2024-06-08 13:30:13,2024-06-08 13:45:13,1243497,1000735,3057835,1000058,outpatient,Consultation for treatment,113.77,1796.1,1436.88,Contraception care (regime/therapy),AUSTIN
+25292630,2021-07-22 12:34:17,2021-07-22 12:49:17,1243498,1000589,3057689,1000071,outpatient,Administration of vaccine to produce active immunity (procedure),113.77,249.77,0.0,,AUSTIN
+25292636,2015-11-20 00:56:01,2015-11-20 01:43:59,1243499,1000797,3057897,1000071,wellness,General examination of patient (procedure),133.36,2020.27,0.0,,AUSTIN
+25292684,2020-11-10 20:30:46,2020-11-10 20:45:46,1243500,1000822,3057922,1000013,outpatient,Patient encounter procedure,113.77,5348.9,0.0,Contraception care (regime/therapy),AUSTIN
+25292710,2001-02-12 21:54:12,2001-02-17 04:58:12,1243494,1000783,3057883,1000058,inpatient,Encounter for problem,71.9,31760.11,25408.1,Non-small cell carcinoma of lung  TNM stage 1 (disorder),AUSTIN
+25292717,2022-04-19 20:30:46,2022-04-19 21:01:08,1243500,1000822,3057922,1000013,outpatient,Encounter for check up (procedure),68.26,938.64,0.0,,AUSTIN
+25292748,2022-10-18 20:30:46,2022-10-18 21:11:37,1243500,1000712,3057812,1000013,urgentcare,Urgent care clinic (environment),113.77,1241.2,0.0,,AUSTIN
+25292774,2020-12-18 09:47:42,2020-12-18 10:02:42,1243503,1000804,3057904,1000010,wellness,Well child visit (procedure),133.36,1821.17,290.54,,AUSTIN
+25292795,2021-01-15 09:47:42,2021-01-15 10:32:01,1243503,1000701,3057801,1000010,ambulatory,Encounter for symptom (procedure),68.26,306.84,245.48,Suspected COVID-19,AUSTIN
+25292814,2022-01-07 09:47:42,2022-01-07 16:35:52,1243503,1000701,3057801,1000010,ambulatory,Encounter for check up (procedure),68.26,5859.36,4687.49,Gingivitis (disorder),AUSTIN
+25293061,2022-07-16 01:02:07,2022-07-16 01:17:07,1243515,1000809,3057909,1000071,ambulatory,Prenatal visit,113.77,15082.89,15082.89,Normal pregnancy,AUSTIN
+25293094,2023-01-14 01:53:39,2023-01-14 02:08:39,1243514,1000664,3057764,1000012,ambulatory,Prenatal visit,113.77,15662.45,15662.45,Normal pregnancy,AUSTIN
+25293248,2017-09-30 19:43:56,2017-09-30 20:39:47,1243523,1000587,3057687,1000058,wellness,General examination of patient (procedure),133.36,16764.34,13411.47,,AUSTIN
+25293267,2024-08-29 13:40:44,2024-08-29 14:19:29,1243524,1000814,3057914,1000058,wellness,General examination of patient (procedure),133.36,2427.28,1941.83,,AUSTIN
+25293272,2017-07-09 23:29:20,2017-07-10 00:04:26,1243525,1000695,3057795,1000035,wellness,General examination of patient (procedure),133.36,1278.03,0.0,,AUSTIN
+25293348,1957-10-02 20:07:54,1957-10-02 20:22:54,1243529,1000820,3057920,1000058,ambulatory,Encounter for symptom,68.26,582.36,465.89,Childhood asthma,AUSTIN
+25293351,2024-02-25 03:29:05,2024-02-25 03:44:05,1243528,1000668,3057768,1000010,outpatient,Consultation for treatment,113.77,1434.5,1147.6,Contraception care (regime/therapy),AUSTIN
+25293370,2014-03-25 19:46:15,2014-03-25 20:01:15,1243530,1000589,3057689,1000071,ambulatory,Follow-up encounter (procedure),68.26,68.26,40.96,Chronic pain (finding),AUSTIN
+25293424,2019-11-26 06:06:52,2019-11-26 11:54:52,1243535,1000561,3057661,1000012,ambulatory,Encounter for check up (procedure),68.26,5723.36,4578.69,Patient referral for dental care (procedure),AUSTIN
+25293465,2009-09-22 20:41:13,2009-09-22 21:35:41,1243536,1000598,3057698,1000058,ambulatory,Encounter for symptom (procedure),68.26,1096.46,877.17,Sleep disorder (disorder),AUSTIN
+25293472,2015-11-23 20:41:13,2015-11-23 21:26:05,1243536,1000805,3057905,1000058,wellness,General examination of patient (procedure),133.36,18123.63,14498.91,,AUSTIN
+25293546,2022-03-21 13:01:45,2022-03-21 15:50:54,1243537,1000809,3057909,1000058,ambulatory,Encounter for check up (procedure),68.26,3666.96,2933.57,Patient referral for dental care (procedure),AUSTIN
+25293583,1965-09-06 23:32:02,1965-09-07 00:11:16,1243540,1000686,3057786,1000058,wellness,General examination of patient (procedure),133.36,1838.85,1471.08,,AUSTIN
+25293664,2020-08-20 12:30:06,2020-08-20 13:13:13,1243544,1000734,3057834,1000012,wellness,General examination of patient (procedure),133.36,904.51,0.0,,AUSTIN
+25293665,2024-05-26 12:45:37,2024-05-26 13:00:37,1243543,1000836,3057936,1000035,ambulatory,Encounter for symptom,68.26,68.26,0.0,Viral sinusitis (disorder),AUSTIN
+25293722,2024-04-05 13:24:14,2024-04-05 13:39:14,1243547,1000822,3057922,1000013,ambulatory,Encounter for symptom,68.26,377.98,0.0,Acute bronchitis (disorder),AUSTIN
+25293777,2022-05-09 02:07:44,2022-05-09 02:22:44,1243550,1000589,3057689,1000010,outpatient,Encounter for check up (procedure),68.26,582.36,465.89,,AUSTIN
+25293870,2021-05-23 20:30:27,2021-05-23 21:34:54,1243556,1000852,3057952,1000071,outpatient,Patient encounter procedure,113.77,5089.21,0.0,Contraception care (regime/therapy),AUSTIN
+25293888,2022-02-06 20:30:27,2022-02-06 20:45:27,1243556,1000635,3057735,1000071,ambulatory,Prenatal visit,113.77,10323.07,10323.07,Normal pregnancy,AUSTIN
+25293895,1997-10-26 08:24:25,1997-10-26 09:14:48,1243557,1000799,3057899,1000058,wellness,General examination of patient (procedure),133.36,9495.43,7596.35,,AUSTIN
+25293901,1998-09-27 08:24:25,1998-09-27 09:45:25,1243557,1000774,3057874,1000058,outpatient,Patient encounter procedure,113.77,6867.01,5398.22,Sterilization requested (situation),AUSTIN
+25298152,2021-10-25 05:40:35,2021-10-25 13:43:35,1243562,1000684,3057784,1000012,ambulatory,Encounter for check up (procedure),68.26,6237.46,4989.97,Patient referral for dental care (procedure),AUSTIN
+25298193,2021-09-26 21:42:02,2021-09-26 21:58:04,1243563,1000820,3057920,1000058,outpatient,Patient encounter procedure,113.77,1548.47,1238.78,Contraception care (regime/therapy),AUSTIN
+25298243,2012-01-24 03:08:58,2012-01-24 03:23:58,1243565,1000660,3057760,1000035,wellness,Well child visit (procedure),133.36,269.36,0.0,,AUSTIN
+25298304,2022-09-09 03:04:24,2022-09-09 03:19:24,1243568,1000821,3057921,1000011,wellness,Well child visit (procedure),133.36,813.36,0.0,,AUSTIN
+25298392,2022-09-19 03:46:56,2022-09-19 04:01:56,1243571,1000802,3057902,1000012,urgentcare,Urgent care clinic (environment),113.77,370.82,296.66,,AUSTIN
+25298439,2019-11-17 00:35:17,2019-11-17 04:34:28,1243575,1000822,3057922,1000035,ambulatory,Encounter for check up (procedure),68.26,4695.16,1133.27,Patient referral for dental care (procedure),AUSTIN
+25298461,2009-09-12 21:00:57,2009-09-12 21:31:02,1243577,1000783,3057883,1000059,wellness,General examination of patient (procedure),133.36,1168.46,0.0,,AUSTIN
+25298489,2014-02-05 23:32:02,2014-02-05 23:47:02,1243578,1000633,3057733,1000058,outpatient,Encounter for problem (procedure),68.26,68.26,54.61,Chronic pain (finding),AUSTIN
+25298518,2021-08-28 20:45:22,2021-08-28 21:00:22,1243579,1000668,3057768,1000012,outpatient,Administration of vaccine to produce active immunity (procedure),113.77,249.77,199.82,,AUSTIN
+25298622,2020-11-02 23:32:02,2020-11-02 23:47:02,1243578,1000633,3057733,1000058,outpatient,Encounter for check up (procedure),68.26,305.78,244.63,,AUSTIN
+25298749,2019-06-23 08:24:25,2019-06-27 08:39:25,1243583,1000783,3057883,1000058,snf,Admission to skilled nursing facility (procedure),130.03,5271.03,4030.42,Patient transfer to skilled nursing facility (procedure),AUSTIN
+42455783,2020-01-14 10:59:25,2020-01-14 11:16:32,1045102,1001932,3059032,1000073,ambulatory,Screening surveillance (regime/therapy),119.05,198.43,158.74,Malignant neoplasm of breast (disorder),CHICAGO
+42455815,2023-06-16 07:25:28,2023-06-16 10:43:17,1045102,1001932,3059032,1000022,ambulatory,Encounter for check up (procedure),71.43,3048.33,3013.33,Patient referral for dental care (procedure),CHICAGO
+42455817,2023-09-28 14:50:26,2023-09-28 15:06:50,1045102,1001932,3059032,1000022,ambulatory,Screening surveillance (regime/therapy),119.05,329.41,294.41,Malignant neoplasm of breast (disorder),CHICAGO
+42456003,2010-08-28 20:26:29,2010-08-28 21:00:10,1045106,1002080,3059180,1000060,outpatient,Encounter for check up (procedure),71.43,722.3,722.3,,CHICAGO
+42456111,2000-06-12 16:26:33,2000-06-12 17:22:05,1045107,1001588,3058688,1000023,wellness,General examination of patient (procedure),131.5,763.65,0.0,,CHICAGO
+42456385,1967-12-06 01:49:00,1967-12-11 08:26:13,1045105,1001356,3058456,1000037,inpatient,Admission to surgical transplant department (procedure),118.71,4520.08,4520.08,Awaiting transplantation of kidney (situation),CHICAGO
+42456457,2022-07-09 12:29:54,2022-07-09 12:44:54,1045111,1002234,3059334,1000021,outpatient,Patient encounter procedure,119.05,4437.18,4387.18,Contraception care (regime/therapy),CHICAGO
+42456461,2023-07-08 12:29:54,2023-07-08 12:44:54,1045111,1002234,3059334,1000021,outpatient,Patient encounter procedure,119.05,1393.66,1343.66,Contraception care (regime/therapy),CHICAGO
+42456472,2020-01-21 15:56:40,2020-01-21 18:48:40,1045101,1002004,3059104,1000051,ambulatory,Encounter for problem (procedure),71.43,680.68,0.0,End-stage renal disease (disorder),CHICAGO
+42456513,2020-06-30 09:05:40,2020-06-30 12:18:40,1045101,1002004,3059104,1000073,ambulatory,Encounter for problem (procedure),71.43,834.57,667.65,End-stage renal disease (disorder),CHICAGO
+42456616,2009-12-31 23:58:42,2010-01-01 00:33:43,1045112,1001211,3058311,1000023,wellness,General examination of patient (procedure),131.5,1512.82,0.0,,CHICAGO
+42456691,2004-06-19 01:12:22,2004-06-19 03:45:22,1045116,1001680,3058780,1000037,ambulatory,Encounter for problem (procedure),71.43,492.86,492.86,Chronic kidney disease stage 4 (disorder),CHICAGO
+42456710,2019-11-23 07:32:17,2019-11-23 11:27:17,1045115,1001356,3058456,1000073,ambulatory,Encounter for problem (procedure),71.43,545.43,436.34,Chronic kidney disease stage 4 (disorder),CHICAGO
+42456980,2020-10-15 09:36:17,2020-10-15 09:51:17,1045115,1001356,3058456,1000073,ambulatory,Encounter for problem (procedure),71.43,226.15,180.92,Chronic kidney disease stage 4 (disorder),CHICAGO
+42457073,2020-06-11 20:07:33,2020-06-11 22:28:33,1045118,1001602,3058702,1000023,ambulatory,Encounter for problem (procedure),71.43,899.37,899.37,End-stage renal disease (disorder),CHICAGO
+42457110,2020-07-29 09:36:33,2020-07-29 13:23:33,1045118,1001602,3058702,1000023,ambulatory,Encounter for problem (procedure),71.43,492.86,492.86,End-stage renal disease (disorder),CHICAGO
+42457169,2020-08-07 19:47:33,2020-08-07 22:32:33,1045118,1001602,3058702,1000023,ambulatory,Encounter for problem (procedure),71.43,1667.5,1667.5,End-stage renal disease (disorder),CHICAGO
+42457215,2020-11-02 16:26:33,2020-11-02 19:11:33,1045118,1001602,3058702,1000023,ambulatory,Encounter for problem (procedure),71.43,1076.35,1076.35,End-stage renal disease (disorder),CHICAGO
+42457220,2021-06-28 22:10:17,2021-06-29 01:10:17,1045115,1001356,3058456,1000073,ambulatory,Encounter for problem (procedure),71.43,1667.5,1334.0,Chronic kidney disease stage 4 (disorder),CHICAGO
+42457280,2019-10-24 20:42:23,2019-10-24 21:35:49,1045122,1001680,3058780,1000024,wellness,General examination of patient (procedure),131.5,1225.08,0.0,,CHICAGO
+42457307,2021-04-08 23:17:33,2021-04-09 03:14:33,1045118,1001602,3058702,1000023,ambulatory,Encounter for problem (procedure),71.43,492.86,492.86,End-stage renal disease (disorder),CHICAGO
+42457352,2021-10-21 01:00:33,2021-10-21 04:13:33,1045118,1001602,3058702,1000023,ambulatory,Encounter for problem (procedure),71.43,492.86,492.86,End-stage renal disease (disorder),CHICAGO
+42457548,2022-05-06 14:32:17,2022-05-06 17:25:17,1045115,1001356,3058456,1000073,ambulatory,Encounter for problem (procedure),71.43,923.2,923.2,Chronic kidney disease stage 4 (disorder),CHICAGO
+42457619,2022-02-14 01:25:33,2022-02-14 01:40:33,1045118,1001602,3058702,1000023,ambulatory,Encounter for problem (procedure),71.43,226.15,226.15,End-stage renal disease (disorder),CHICAGO
+42457683,2021-02-21 22:14:57,2021-02-21 23:14:57,1045128,1001215,3058315,1000023,emergency,Emergency hospital admission for asthma,118.71,118.71,0.0,Childhood asthma,CHICAGO
+42457761,2022-12-20 23:40:17,2022-12-21 02:04:17,1045115,1001356,3058456,1000073,ambulatory,Encounter for problem (procedure),71.43,492.86,394.28,Chronic kidney disease stage 4 (disorder),CHICAGO
+42457775,2023-01-30 10:51:17,2023-01-30 13:57:17,1045115,1001356,3058456,1000073,ambulatory,Encounter for problem (procedure),71.43,1667.5,1334.0,Chronic kidney disease stage 4 (disorder),CHICAGO
+42457879,2018-11-26 07:02:36,2018-11-26 07:17:36,1045130,1001837,3058937,1000022,ambulatory,Encounter for symptom,71.43,80.24,45.24,Acute bacterial sinusitis (disorder),CHICAGO
+42457892,2020-12-27 10:55:52,2020-12-27 12:14:00,1045130,1001837,3058937,1000021,ambulatory,Encounter for problem (procedure),71.43,567.58,517.58,Dependent drug abuse (disorder),CHICAGO
+42457924,2023-11-11 17:34:22,2023-11-11 17:49:22,1045132,1001602,3058702,1000073,ambulatory,Encounter for symptom,71.43,71.43,0.0,Viral sinusitis (disorder),CHICAGO
+42458092,2019-10-18 11:54:09,2019-10-18 12:09:09,1045137,1001304,3058404,1000021,ambulatory,Follow-up encounter,71.43,226.15,176.15,Hyperlipidemia,CHICAGO
+42458118,2001-08-25 11:06:21,2001-08-25 11:53:13,1045138,1002109,3059209,1000051,outpatient,Encounter for check up (procedure),71.43,722.3,0.0,,CHICAGO
+42458120,2015-01-24 11:06:21,2015-01-24 11:53:23,1045138,1002109,3059209,1000037,outpatient,Encounter for check up (procedure),71.43,722.3,433.39,,CHICAGO
+42458258,2018-08-27 05:03:02,2018-08-27 05:34:37,1045143,1001748,3058848,1000073,wellness,General examination of patient (procedure),131.5,1158.58,797.61,,CHICAGO
+42458285,2020-04-25 11:06:21,2020-04-25 11:58:08,1045138,1002109,3059209,1000037,outpatient,Encounter for check up (procedure),71.43,970.37,970.37,,CHICAGO
+42458291,2020-05-09 11:06:21,2020-05-09 14:15:24,1045138,1002109,3059209,1000037,ambulatory,Encounter for check up (procedure),71.43,4040.63,4040.63,Gingivitis (disorder),CHICAGO
+42458296,2020-01-02 07:32:21,2020-01-02 07:47:21,1045142,1001634,3058734,1000073,urgentcare,Urgent care clinic (environment),119.05,777.67,622.14,,CHICAGO
+42458323,2020-08-24 17:44:33,2020-08-24 19:47:35,1045138,1002109,3059209,1000037,ambulatory,Encounter for problem (procedure),71.43,2328.03,0.0,Human immunodeficiency virus infection (disorder),CHICAGO
+42458347,2023-02-04 23:02:21,2023-02-04 23:17:21,1045144,1001633,3058733,1000060,ambulatory,Prenatal visit,119.05,13047.96,13047.96,Normal pregnancy,CHICAGO
+42458378,2020-03-19 07:32:21,2020-03-19 09:51:21,1045142,1001809,3058909,1000073,ambulatory,Encounter for problem (procedure),71.43,492.86,394.28,Chronic kidney disease stage 4 (disorder),CHICAGO
+42458432,2020-05-02 16:56:21,2020-05-02 19:43:21,1045142,1001809,3058909,1000073,ambulatory,Encounter for problem (procedure),71.43,492.86,394.28,Chronic kidney disease stage 4 (disorder),CHICAGO
+42458445,2023-12-22 07:03:02,2023-12-22 07:18:02,1045143,1001837,3058937,1000073,ambulatory,Encounter for symptom,71.43,71.43,57.14,Acute viral pharyngitis (disorder),CHICAGO
+42458592,2021-06-14 07:08:21,2021-06-14 10:52:21,1045142,1001809,3058909,1000073,ambulatory,Encounter for problem (procedure),71.43,492.86,492.86,Chronic kidney disease stage 4 (disorder),CHICAGO
+42458701,2022-04-19 18:16:21,2022-04-19 20:28:21,1045142,1001809,3058909,1000073,ambulatory,Encounter for problem (procedure),71.43,492.86,394.28,Chronic kidney disease stage 4 (disorder),CHICAGO
+42458879,2020-12-21 01:34:21,2020-12-21 02:36:06,1045153,1001921,3059021,1000037,ambulatory,Encounter for problem (procedure),71.43,567.58,0.0,Dependent drug abuse (disorder),CHICAGO
+25298802,2022-08-07 15:23:02,2022-08-07 19:00:36,1243586,1000820,3057920,1000011,ambulatory,Encounter for check up (procedure),68.26,4181.06,272.21,Patient referral for dental care (procedure),AUSTIN
+25298812,2023-03-06 23:32:02,2023-03-07 00:30:43,1243578,1000655,3057755,1000058,urgentcare,Urgent care clinic (environment),113.77,1458.24,1166.6,,AUSTIN
+25298889,2022-05-07 12:43:49,2022-05-07 16:34:32,1243589,1000836,3057936,1000035,ambulatory,Encounter for check up (procedure),68.26,3666.96,181.08,Gingivitis (disorder),AUSTIN
+25298989,2023-08-28 23:32:02,2023-08-29 02:35:27,1243578,1000691,3057791,1000058,ambulatory,Encounter for check up (procedure),68.26,3666.96,2933.57,Gingivitis (disorder),AUSTIN
+25299159,2024-04-26 20:18:08,2024-05-03 20:18:08,1243595,1000735,3057835,1000013,inpatient,Drug rehabilitation and detoxification,119.83,119.83,0.0,Dependent drug abuse (disorder),AUSTIN
+25299327,2022-11-05 16:23:46,2022-11-05 16:43:05,1243601,1000844,3057944,1000108,ambulatory,Encounter for symptom,68.26,10452.51,10402.51,Acute bronchitis (disorder),AUSTIN
+25299345,2024-09-27 10:41:12,2024-09-27 11:30:46,1243599,1000677,3057777,1000012,wellness,General examination of patient (procedure),133.36,919.46,0.0,,AUSTIN
+25299476,2010-12-31 18:05:37,2010-12-31 18:20:37,1243608,1000701,3057801,1000012,ambulatory,Encounter for problem,68.26,68.26,9.02,Localized  primary osteoarthritis of the hand,AUSTIN
+25299527,2020-12-05 02:56:50,2020-12-05 03:11:50,1243609,1000587,3057687,1000108,wellness,Well child visit (procedure),133.36,783.46,783.46,,AUSTIN
+25299551,1999-08-26 18:00:43,1999-08-26 20:21:43,1243604,1000580,3057680,1000058,ambulatory,Encounter for problem (procedure),68.26,479.71,383.77,Chronic kidney disease stage 4 (disorder),AUSTIN
+25299616,1999-11-08 15:32:43,1999-11-08 17:42:43,1243604,1000580,3057680,1000058,ambulatory,Encounter for problem (procedure),68.26,479.71,383.77,End-stage renal disease (disorder),AUSTIN
+25299636,2024-07-10 05:37:53,2024-07-10 06:37:53,1243611,1000754,3057854,1000010,emergency,Emergency room admission (procedure),119.83,119.83,95.86,Sprain (morphologic abnormality),AUSTIN
+25299750,2001-07-09 15:32:43,2001-07-09 18:01:43,1243604,1000580,3057680,1000011,ambulatory,Encounter for problem (procedure),68.26,479.71,479.71,End-stage renal disease (disorder),AUSTIN
+25299771,2010-12-04 23:42:57,2010-12-05 00:25:03,1243612,1000589,3057689,1000058,outpatient,Encounter for check up (procedure),68.26,1273.62,1018.9,,AUSTIN
+25299787,2001-09-30 20:10:43,2001-09-30 23:36:43,1243604,1000580,3057680,1000011,ambulatory,Encounter for problem (procedure),68.26,657.28,657.28,End-stage renal disease (disorder),AUSTIN
+25299805,2021-04-24 23:42:57,2021-04-24 23:57:57,1243612,1000589,3057689,1000012,outpatient,Encounter for check up (procedure),68.26,562.83,450.27,,AUSTIN
+25299819,2021-07-24 23:42:57,2021-07-24 23:57:57,1243612,1000686,3057786,1000012,wellness,General examination of patient (procedure),133.36,370.88,296.71,,AUSTIN
+25299833,2021-10-31 00:51:27,2021-10-31 01:32:37,1243612,1000589,3057689,1000012,ambulatory,Follow-up encounter (procedure),68.26,582.36,582.36,Loss of teeth (disorder),AUSTIN
+25299836,2022-03-26 23:42:57,2022-03-27 02:30:42,1243612,1000589,3057689,1000058,ambulatory,Encounter for check up (procedure),68.26,3152.86,2522.29,Patient referral for dental care (procedure),AUSTIN
+25299919,2022-02-08 15:24:57,2022-02-08 19:22:51,1243613,1000834,3057934,1000011,ambulatory,Encounter for check up (procedure),68.26,4695.16,0.0,Gingivitis (disorder),AUSTIN
+25300010,1999-01-01 06:52:53,1999-01-01 07:55:01,1243615,1000783,3057883,1000071,ambulatory,Encounter for symptom,68.26,140.17,84.1,Posttraumatic stress disorder,AUSTIN
+25300012,2003-07-28 15:32:43,2003-07-28 15:47:43,1243604,1000631,3057731,1000011,urgentcare,Urgent care clinic (environment),113.77,370.82,370.82,,AUSTIN
+25300042,2003-09-29 15:32:43,2003-09-29 16:29:27,1243604,1000580,3057680,1000011,outpatient,Encounter for check up (procedure),68.26,1253.74,1253.74,,AUSTIN
+25300197,2020-03-16 15:31:10,2020-03-16 18:34:31,1243619,1000820,3057920,1000059,ambulatory,Encounter for check up (procedure),68.26,3666.96,233.19,Gingivitis (disorder),AUSTIN
+25300283,1998-02-08 12:41:34,1998-02-08 13:03:33,1243620,1000732,3057832,1000009,outpatient,Consultation for treatment,113.77,4773.72,4738.72,Contraception care (regime/therapy),AUSTIN
+25300470,2023-07-03 04:11:45,2023-07-03 05:04:07,1243618,1000676,3057776,1000058,outpatient,Encounter for check up (procedure),68.26,1074.64,859.72,,AUSTIN
+25300493,2021-08-23 18:12:53,2021-08-23 21:19:53,1243615,1000783,3057883,1000058,ambulatory,Encounter for problem (procedure),68.26,479.71,383.77,Chronic kidney disease stage 4 (disorder),AUSTIN
+25300581,2021-12-19 16:05:53,2021-12-19 19:06:53,1243615,1000783,3057883,1000058,ambulatory,Encounter for problem (procedure),68.26,751.53,601.23,Chronic kidney disease stage 4 (disorder),AUSTIN
+25300597,2021-04-30 04:37:08,2021-04-30 04:52:08,1243625,1000624,3057724,1000059,outpatient,Administration of vaccine to produce active immunity (procedure),113.77,249.77,0.0,,AUSTIN
+25300634,2024-02-04 11:59:38,2024-02-04 12:14:38,1243626,1000648,3057748,1000058,wellness,Well child visit (procedure),133.36,1286.11,842.49,,AUSTIN
+25300662,2010-09-07 02:23:29,2010-09-07 05:59:31,1243623,1000647,3057747,1000058,ambulatory,Encounter for check up (procedure),68.26,3666.96,3666.96,Gingivitis (disorder),AUSTIN
+25300672,1997-07-23 18:15:27,1997-07-23 19:00:22,1243627,1000567,3057667,1000013,outpatient,Encounter for check up (procedure),68.26,955.88,0.0,,AUSTIN
+25300708,2007-06-16 21:14:27,2007-06-16 23:33:27,1243627,1000567,3057667,1000058,ambulatory,Encounter for problem (procedure),68.26,577.74,462.19,End-stage renal disease (disorder),AUSTIN
+25300935,2008-04-23 18:15:27,2008-04-23 18:59:17,1243627,1000567,3057667,1000058,outpatient,Encounter for check up (procedure),68.26,1232.46,985.97,,AUSTIN
+25300941,2020-02-22 12:32:37,2020-02-22 12:47:37,1243630,1000805,3057905,1000012,wellness,Well child visit (procedure),133.36,946.12,0.0,,AUSTIN
+25300983,2019-10-08 09:10:45,2019-10-08 09:41:37,1243631,1000646,3057746,1000058,wellness,General examination of patient (procedure),133.36,1930.42,1357.94,,AUSTIN
+25300984,2023-03-20 13:57:53,2023-03-20 17:36:53,1243615,1000783,3057883,1000058,ambulatory,Encounter for problem (procedure),68.26,889.18,711.35,Chronic kidney disease stage 4 (disorder),AUSTIN
+25301018,2021-10-19 09:10:45,2021-10-19 10:00:37,1243631,1000698,3057798,1000059,outpatient,Encounter for check up (procedure),68.26,1094.17,0.0,,AUSTIN
+25301048,2023-05-06 14:45:53,2023-05-06 18:12:53,1243615,1000783,3057883,1000058,ambulatory,Encounter for problem (procedure),68.26,990.99,792.79,Chronic kidney disease stage 4 (disorder),AUSTIN
+25301074,2023-07-20 14:18:53,2023-07-20 17:13:53,1243615,1000783,3057883,1000058,ambulatory,Encounter for problem (procedure),68.26,576.27,576.27,Chronic kidney disease stage 4 (disorder),AUSTIN
+25301125,2023-11-16 12:46:53,2023-11-16 16:31:53,1243615,1000783,3057883,1000058,ambulatory,Encounter for problem (procedure),68.26,826.55,826.55,Chronic kidney disease stage 4 (disorder),AUSTIN
+25301153,2022-10-06 09:10:45,2022-10-06 09:25:45,1243631,1000698,3057798,1000009,ambulatory,Encounter for symptom,68.26,68.26,33.26,Sinusitis (disorder),AUSTIN
+25301245,2008-12-24 00:09:27,2008-12-24 02:21:27,1243627,1000567,3057667,1000058,ambulatory,Encounter for problem (procedure),68.26,985.82,788.66,End-stage renal disease (disorder),AUSTIN
+25301252,2021-04-01 10:02:52,2021-04-01 10:17:52,1243633,1000580,3057680,1000012,outpatient,Administration of vaccine to produce active immunity (procedure),113.77,249.77,0.0,,AUSTIN
+25301280,2019-06-08 13:01:08,2019-06-08 13:51:39,1243634,1000601,3057701,1000059,wellness,General examination of patient (procedure),133.36,1148.93,0.0,,AUSTIN
+25301282,2009-02-07 02:59:27,2009-02-07 05:42:27,1243627,1000567,3057667,1000058,ambulatory,Encounter for problem (procedure),68.26,873.86,699.09,End-stage renal disease (disorder),AUSTIN
+25301398,2024-07-12 10:31:53,2024-07-12 10:46:53,1243615,1000783,3057883,1000058,ambulatory,Encounter for problem (procedure),68.26,305.78,244.63,Chronic kidney disease stage 4 (disorder),AUSTIN
+46343588,2022-07-31 22:11:19,2022-08-01 01:05:00,1863881,1002347,3059447,1000061,ambulatory,Encounter for check up (procedure),69.06,3470.01,2776.01,Patient referral for dental care (procedure),DETROIT
+46343650,2019-09-09 20:11:25,2019-09-09 20:47:49,1863884,1002519,3059619,1000076,wellness,General examination of patient (procedure),124.16,828.39,0.0,,DETROIT
+46343652,2020-09-14 20:11:25,2020-09-14 20:47:12,1863884,1002519,3059619,1000076,wellness,General examination of patient (procedure),124.16,1005.82,0.0,,DETROIT
+46343689,1994-06-13 07:48:31,1994-06-13 08:27:15,1863885,1002502,3059602,1000025,wellness,General examination of patient (procedure),124.16,1136.99,986.99,,DETROIT
+46343696,2006-05-18 00:40:14,2006-05-18 02:15:00,1863885,1002497,3059597,1000025,outpatient,Encounter for problem,69.06,5028.3,4978.3,Non-small cell carcinoma of lung  TNM stage 1 (disorder),DETROIT
+46343753,2020-05-07 15:33:57,2020-05-07 15:48:57,1863888,1002640,3059740,1000026,outpatient,Consultation for treatment,115.1,115.1,69.06,Contraception care (regime/therapy),DETROIT
+46343763,2021-06-21 15:20:08,2021-06-21 15:35:08,1863888,1002640,3059740,1000026,outpatient,Administration of vaccine to produce active immunity (procedure),115.1,251.1,150.66,,DETROIT
+46343818,2021-04-25 05:00:04,2021-04-25 05:15:04,1863890,1002640,3059740,1000076,outpatient,Administration of vaccine to produce active immunity (procedure),115.1,251.1,0.0,,DETROIT
+46343860,2005-11-14 20:29:59,2005-11-14 20:44:59,1863891,1002487,3059587,1000052,ambulatory,Encounter for problem (procedure),69.06,233.82,198.82,,DETROIT
+46343937,1995-10-24 22:21:40,1995-10-24 22:55:55,1863895,1002530,3059630,1000077,urgentcare,Urgent care clinic (environment),115.1,872.95,0.0,,DETROIT
+46343951,2023-04-05 12:34:48,2023-04-05 13:23:18,1863892,1002637,3059737,1000076,wellness,General examination of patient (procedure),124.16,1234.89,0.0,,DETROIT
+46343958,2010-05-11 06:53:00,2010-05-23 10:45:00,1863885,1002497,3059597,1000025,inpatient,Encounter for problem,73.83,142473.3,142423.3,Non-small cell carcinoma of lung  TNM stage 1 (disorder),DETROIT
+46343962,2023-04-26 12:34:48,2023-04-26 15:19:38,1863892,1002497,3059597,1000076,ambulatory,Encounter for check up (procedure),69.06,3470.01,1657.23,Gingivitis (disorder),DETROIT
+46344062,2021-04-15 11:09:57,2021-04-15 11:24:57,1863898,1002527,3059627,1000039,wellness,Well child visit (procedure),124.16,794.63,635.71,,DETROIT
+46344139,1965-10-02 11:25:20,1965-10-02 12:15:47,1863902,1002708,3059808,1000077,wellness,General examination of patient (procedure),124.16,746.01,0.0,,DETROIT
+46344147,2007-10-06 11:25:20,2007-10-06 12:20:11,1863902,1002708,3059808,1000076,wellness,General examination of patient (procedure),124.16,5448.87,3814.22,,DETROIT
+46344189,2023-10-17 08:24:43,2023-10-17 12:24:43,1863902,1002463,3059563,1000061,emergency,Emergency room admission (procedure),123.06,123.06,0.0,Drug overdose,DETROIT
+46344254,2023-08-17 15:32:04,2023-08-17 18:15:13,1863904,1002703,3059803,1000076,ambulatory,Encounter for check up (procedure),69.06,3470.01,2429.04,Gingivitis (disorder),DETROIT
+46344269,2024-07-11 15:32:04,2024-07-11 21:00:49,1863904,1002703,3059803,1000076,ambulatory,Encounter for check up (procedure),69.06,4927.56,3449.34,Patient referral for dental care (procedure),DETROIT
+46344394,2020-03-26 10:56:44,2020-03-26 11:15:08,1863908,1002703,3059803,1000025,outpatient,Patient encounter procedure,115.1,5107.74,5057.74,Contraception care (regime/therapy),DETROIT
+46344420,2023-10-12 10:56:44,2023-10-12 11:14:02,1863908,1002703,3059803,1000025,outpatient,Patient encounter procedure,115.1,1363.25,1213.25,Contraception care (regime/therapy),DETROIT
+46344488,2013-12-11 21:26:35,2013-12-11 22:19:00,1863910,1002435,3059535,1000025,wellness,General examination of patient (procedure),124.16,988.93,888.93,,DETROIT
+46344911,2013-08-14 09:14:24,2013-08-14 10:07:25,1863921,1002541,3059641,1000025,outpatient,Encounter for check up (procedure),69.06,1170.63,1020.63,,DETROIT
+46345000,2019-04-24 09:14:24,2019-04-24 10:08:35,1863921,1002375,3059475,1000025,urgentcare,Urgent care clinic (environment),115.1,1052.47,1002.47,,DETROIT
+46345001,2019-05-01 09:14:24,2019-05-01 09:29:24,1863921,1002541,3059641,1000025,outpatient,Encounter for check up (procedure),69.06,311.98,261.98,,DETROIT
+46345077,2019-11-25 01:37:24,2019-11-25 04:05:24,1863921,1002522,3059622,1000025,ambulatory,Encounter for problem (procedure),69.06,896.62,846.62,End-stage renal disease (disorder),DETROIT
+46345127,2021-02-12 16:42:50,2021-02-12 16:57:50,1863922,1002574,3059674,1000052,outpatient,Encounter for check up (procedure),69.06,233.82,198.82,,DETROIT
+46345202,2020-07-27 05:03:24,2020-07-27 08:31:24,1863921,1002522,3059622,1000077,ambulatory,Encounter for problem (procedure),69.06,473.99,0.0,End-stage renal disease (disorder),DETROIT
+46345221,2020-09-30 09:14:24,2020-09-30 10:10:27,1863921,1002541,3059641,1000025,outpatient,Encounter for check up (procedure),69.06,805.58,755.58,,DETROIT
+46345365,2022-03-11 16:42:50,2022-03-11 17:14:24,1863922,1002574,3059674,1000025,outpatient,Encounter for check up (procedure),69.06,1237.74,1187.74,,DETROIT
+46345369,2021-07-10 11:46:24,2021-07-10 14:36:24,1863921,1002522,3059622,1000077,ambulatory,Encounter for problem (procedure),69.06,1602.65,0.0,End-stage renal disease (disorder),DETROIT
+46345404,1967-04-04 05:03:03,1967-04-04 05:43:53,1863924,1002574,3059674,1000061,outpatient,Encounter for check up (procedure),69.06,802.05,641.63,,DETROIT
+46345601,2007-06-17 11:23:57,2007-06-17 14:19:57,1863927,1002640,3059740,1000025,ambulatory,Encounter for problem (procedure),69.06,473.99,423.99,End-stage renal disease (disorder),DETROIT
+46345622,2022-12-30 16:42:50,2022-12-30 17:23:12,1863922,1002574,3059674,1000052,outpatient,Encounter for check up (procedure),69.06,884.43,849.43,,DETROIT
+46345640,2007-09-24 23:19:57,2007-09-25 00:19:57,1863927,1002367,3059467,1000025,emergency,Emergency room admission (procedure),123.06,123.06,73.06,,DETROIT
+46345654,2007-11-27 01:48:57,2007-11-27 02:03:57,1863927,1002640,3059740,1000027,ambulatory,Encounter for problem (procedure),69.06,233.82,0.0,End-stage renal disease (disorder),DETROIT
+46346128,2011-02-07 23:19:57,2011-02-08 00:17:24,1863927,1002640,3059740,1000027,outpatient,Encounter for check up (procedure),69.06,1608.99,1608.99,,DETROIT
+46346211,2024-04-18 07:31:24,2024-04-18 07:51:56,1863932,1002458,3059558,1000025,wellness,Well child visit (procedure),124.16,746.01,646.01,,DETROIT
+46346247,2021-07-31 03:40:26,2021-07-31 03:55:26,1863934,1002412,3059512,1000038,outpatient,Administration of vaccine to produce active immunity (procedure),115.1,251.1,251.1,,DETROIT
+46346336,2005-08-22 22:28:07,2005-08-22 22:43:07,1863936,1002513,3059613,1000025,ambulatory,Encounter for problem (procedure),69.06,233.82,183.82,End-stage renal disease (disorder),DETROIT
+46346371,2011-07-31 01:03:50,2011-07-31 01:18:50,1863938,1002497,3059597,1000038,ambulatory,Encounter for symptom,69.06,554.91,0.0,Childhood asthma,DETROIT
+46346432,2006-03-03 16:41:07,2006-03-04 01:20:55,1863936,1002513,3059613,1000025,ambulatory,Encounter for check up (procedure),69.06,7842.66,7792.66,Patient referral for dental care (procedure),DETROIT
+46346528,2017-08-20 19:27:23,2017-08-20 23:14:23,1863937,1002347,3059447,1000076,ambulatory,Encounter for problem (procedure),69.06,817.84,817.84,End-stage renal disease (disorder),DETROIT
+46346669,2007-06-08 16:41:07,2007-06-08 17:20:01,1863936,1002556,3059656,1000025,urgentcare,Urgent care clinic (environment),115.1,1015.43,965.43,,DETROIT
+46346710,2018-10-03 02:05:23,2018-10-03 04:31:23,1863937,1002347,3059447,1000076,ambulatory,Encounter for problem (procedure),69.06,473.99,331.79,End-stage renal disease (disorder),DETROIT
+46346781,2008-07-18 19:21:07,2008-07-18 19:36:07,1863936,1002513,3059613,1000077,ambulatory,Encounter for problem (procedure),69.06,233.82,0.0,End-stage renal disease (disorder),DETROIT
+46346983,2019-10-15 06:49:23,2019-10-15 09:45:23,1863937,1002347,3059447,1000039,ambulatory,Encounter for problem (procedure),69.06,820.48,656.39,End-stage renal disease (disorder),DETROIT
+17308154,1982-08-03 02:24:39,1982-08-03 02:39:39,1986249,1000333,3057433,1000001,ambulatory,Encounter for problem (procedure),71.63,218.39,168.39,Chronic kidney disease stage 4 (disorder),CLEVELAND
+17308296,1983-06-13 23:52:39,1983-06-14 03:30:35,1986249,1000333,3057433,1000001,ambulatory,Encounter for check up (procedure),71.63,3337.23,3287.23,Patient referral for dental care (procedure),CLEVELAND
+17308298,1983-06-21 03:45:39,1983-06-21 04:00:39,1986249,1000333,3057433,1000001,ambulatory,Encounter for problem (procedure),71.63,218.39,168.39,Chronic kidney disease stage 4 (disorder),CLEVELAND
+17308445,1967-08-14 02:59:34,1967-08-14 03:14:34,1986258,1000414,3057514,1000008,ambulatory,Follow-up encounter,71.63,71.63,0.0,Hyperlipidemia,CLEVELAND
+17308483,1984-03-06 01:55:39,1984-03-06 02:10:39,1986249,1000333,3057433,1000001,ambulatory,Encounter for problem (procedure),71.63,218.39,168.39,End-stage renal disease (disorder),CLEVELAND
+17308553,2022-09-16 12:23:40,2022-09-16 13:16:24,1986255,1000326,3057426,1000001,outpatient,Encounter for check up (procedure),71.63,553.21,503.21,,CLEVELAND
+17308639,2022-12-16 12:23:40,2022-12-16 13:21:14,1986255,1000326,3057426,1000001,outpatient,Encounter for check up (procedure),71.63,479.83,429.83,,CLEVELAND
+17308655,1990-06-25 02:59:34,1990-06-25 03:14:34,1986258,1000276,3057376,1000000,wellness,Death Certification,111.12,184.5,147.6,Chronic congestive heart failure (disorder),CLEVELAND
+17308656,1984-10-22 23:52:39,1984-10-23 00:07:39,1986249,1000244,3057344,1000001,urgentcare,Urgent care clinic (environment),119.38,841.7,791.7,,CLEVELAND
+17308730,2023-05-18 13:02:38,2023-05-18 13:17:38,1986261,1000529,3057629,1000001,ambulatory,Encounter for symptom,71.63,71.63,21.63,Viral sinusitis (disorder),CLEVELAND
+17308767,1962-01-10 07:17:59,1962-01-10 07:32:59,1986260,1000369,3057469,1000008,urgentcare,Urgent care clinic (environment),119.38,119.38,0.0,,CLEVELAND
+17308814,2023-08-07 15:21:40,2023-08-07 18:27:40,1986255,1000326,3057426,1000001,ambulatory,Encounter for problem (procedure),71.63,451.61,401.61,End-stage renal disease (disorder),CLEVELAND
+17308877,1962-09-15 11:06:59,1962-09-15 13:14:59,1986260,1000219,3057319,1000001,ambulatory,Encounter for problem (procedure),71.63,451.61,401.61,End-stage renal disease (disorder),CLEVELAND
+17308909,1962-12-26 07:17:59,1962-12-26 07:49:09,1986260,1000219,3057319,1000008,wellness,General examination of patient (procedure),111.12,1258.98,0.0,,CLEVELAND
+17308940,1963-04-04 11:27:59,1963-04-04 13:38:59,1986260,1000219,3057319,1000008,ambulatory,Encounter for problem (procedure),71.63,451.61,0.0,End-stage renal disease (disorder),CLEVELAND
+17308943,1963-04-13 19:28:59,1963-04-13 21:53:59,1986260,1000219,3057319,1000008,ambulatory,Encounter for problem (procedure),71.63,1113.42,0.0,End-stage renal disease (disorder),CLEVELAND
+17309023,1963-11-20 07:17:59,1963-11-20 13:34:13,1986260,1000219,3057319,1000008,ambulatory,Encounter for check up (procedure),71.63,4561.83,0.0,Gingivitis (disorder),CLEVELAND
+17309024,1963-11-27 07:17:59,1963-11-27 10:01:59,1986260,1000219,3057319,1000008,ambulatory,Encounter for problem (procedure),71.63,1510.7,0.0,End-stage renal disease (disorder),CLEVELAND
+17329568,1964-05-21 02:09:59,1964-05-21 05:23:59,1986260,1000219,3057319,1000001,ambulatory,Encounter for problem (procedure),71.63,1091.6,941.6,End-stage renal disease (disorder),CLEVELAND
+17329602,2013-10-02 22:48:04,2013-10-03 01:51:04,1986263,1000408,3057508,1000001,ambulatory,Encounter for problem (procedure),71.63,451.61,401.61,Chronic kidney disease stage 4 (disorder),CLEVELAND
+17329630,1994-07-30 08:35:10,1994-07-30 09:29:46,1986265,1000382,3057482,1000008,wellness,General examination of patient (procedure),111.12,1006.18,0.0,,CLEVELAND
+17329771,2014-11-06 19:00:04,2014-11-06 21:38:04,1986263,1000408,3057508,1000001,ambulatory,Encounter for problem (procedure),71.63,950.59,950.59,Chronic kidney disease stage 4 (disorder),CLEVELAND
+17329782,2014-11-16 05:06:04,2014-11-16 08:23:04,1986263,1000408,3057508,1000001,ambulatory,Encounter for problem (procedure),71.63,1510.7,1510.7,Chronic kidney disease stage 4 (disorder),CLEVELAND
+17329988,2016-01-17 07:49:04,2016-01-17 10:39:04,1986263,1000408,3057508,1000001,ambulatory,Encounter for problem (procedure),71.63,900.43,850.43,Chronic kidney disease stage 4 (disorder),CLEVELAND
+17329993,2016-01-31 16:29:04,2016-01-31 18:32:04,1986263,1000408,3057508,1000001,ambulatory,Encounter for problem (procedure),71.63,774.02,724.02,Chronic kidney disease stage 4 (disorder),CLEVELAND
+17330214,2023-08-08 18:09:02,2023-08-08 18:24:02,1986270,1000326,3057426,1000001,ambulatory,Follow-up encounter,71.63,218.39,168.39,Hyperlipidemia,CLEVELAND
+17330243,2019-02-10 15:32:06,2019-02-10 16:22:01,1986273,1000269,3057369,1000034,outpatient,Encounter for check up (procedure),71.63,953.91,953.91,,CLEVELAND
+17330397,2021-02-10 18:42:06,2021-02-10 20:45:06,1986273,1000428,3057528,1000034,ambulatory,Encounter for problem (procedure),71.63,721.04,721.04,Chronic kidney disease stage 4 (disorder),CLEVELAND
+17330549,2023-02-17 15:32:06,2023-02-17 16:02:06,1986273,1000200,3057300,1000000,ambulatory,Encounter for problem,71.63,749.05,599.23,Chronic congestive heart failure (disorder),CLEVELAND
+17330661,1993-12-17 09:59:34,1993-12-17 10:14:34,1986278,1000213,3057313,1000000,ambulatory,Encounter for symptom,71.63,80.26,64.2,Sinusitis (disorder),CLEVELAND
+17330700,1984-10-06 07:33:19,1984-10-07 07:33:19,1986280,1000213,3057313,1000001,inpatient,Admission to surgical department,115.63,5343.75,5293.75,Sterilization requested (situation),CLEVELAND
+17330776,2010-03-28 01:35:43,2010-03-28 04:53:43,1986280,1000213,3057313,1000001,ambulatory,Encounter for problem (procedure),71.63,1252.98,1202.98,,CLEVELAND
+17330802,1992-09-20 14:56:39,1992-09-20 18:01:39,1986281,1000219,3057319,1000000,ambulatory,Encounter for problem (procedure),71.63,451.61,451.61,Chronic kidney disease stage 4 (disorder),CLEVELAND
+17330858,2011-08-26 13:56:32,2011-08-26 17:51:32,1986282,1000529,3057629,1000000,ambulatory,Encounter for problem (procedure),71.63,996.54,797.23,End-stage renal disease (disorder),CLEVELAND
+17330901,2010-09-15 01:37:43,2010-09-15 04:08:43,1986280,1000213,3057313,1000008,ambulatory,Encounter for problem (procedure),71.63,451.61,0.0,End-stage renal disease (disorder),CLEVELAND
+17330976,1993-03-15 23:52:39,1993-03-16 00:31:28,1986281,1000369,3057469,1000000,urgentcare,Urgent care clinic (environment),119.38,805.06,644.04,,CLEVELAND
+17331021,2012-01-20 17:22:32,2012-01-20 17:37:32,1986282,1000529,3057629,1000000,ambulatory,Encounter for problem (procedure),71.63,218.39,174.7,End-stage renal disease (disorder),CLEVELAND
+17331064,2012-03-08 00:53:32,2012-03-08 04:03:32,1986282,1000529,3057629,1000000,ambulatory,Encounter for problem (procedure),71.63,1510.7,1208.56,End-stage renal disease (disorder),CLEVELAND
+17331208,2008-02-26 08:46:05,2008-02-26 09:13:42,1986285,1000376,3057476,1000003,wellness,Well child visit (procedure),111.12,791.32,0.0,,CLEVELAND
+17331214,1969-11-02 16:30:59,1969-11-02 16:45:59,1986286,1000326,3057426,1000006,ambulatory,Encounter for problem,71.63,71.63,0.0,Contact dermatitis,CLEVELAND
+17331325,2012-12-14 13:56:32,2012-12-14 14:40:00,1986282,1000244,3057344,1000000,urgentcare,Urgent care clinic (environment),119.38,527.58,422.06,,CLEVELAND
+17331341,2013-03-01 13:56:32,2013-03-01 16:39:32,1986282,1000529,3057629,1000000,ambulatory,Encounter for problem (procedure),71.63,451.61,361.28,End-stage renal disease (disorder),CLEVELAND
+17331371,2012-03-21 18:25:43,2012-03-21 20:41:43,1986280,1000213,3057313,1000001,ambulatory,Encounter for problem (procedure),71.63,1510.7,1460.7,End-stage renal disease (disorder),CLEVELAND
+17331372,2021-10-23 05:47:33,2021-10-23 06:17:00,1986287,1000379,3057479,1000002,ambulatory,Encounter for check up,71.63,15206.42,15171.42,Screening for malignant neoplasm of colon (procedure),CLEVELAND
+17331374,2023-11-18 06:18:40,2023-11-18 06:47:35,1986286,1000326,3057426,1000000,ambulatory,Encounter for check up,71.63,12875.8,10300.64,Screening for malignant neoplasm of colon (procedure),CLEVELAND
+17331428,2013-08-16 13:56:32,2013-08-16 14:29:23,1986282,1000244,3057344,1000000,urgentcare,Urgent care clinic (environment),119.38,527.58,422.06,,CLEVELAND
+44891080,2023-03-10 21:37:56,2023-03-10 22:50:51,1378165,1001627,3058727,1000119,ambulatory,Postoperative follow-up visit (procedure),119.05,1343.43,191.52,History of renal transplant (situation),CHICAGO
+44891256,1999-04-05 07:13:36,1999-04-05 08:13:36,1378174,1001201,3058301,1000073,emergency,Emergency room admission (procedure),118.71,769.58,615.67,,CHICAGO
+44891365,2008-02-13 18:15:02,2008-02-13 20:43:02,1378179,1002026,3059126,1000119,ambulatory,Encounter for problem (procedure),71.43,492.86,492.86,End-stage renal disease (disorder),CHICAGO
+44891393,2024-06-13 11:18:48,2024-06-13 11:59:31,1378180,1002110,3059210,1000060,urgentcare,Urgent care clinic (environment),119.05,1320.6,0.0,,CHICAGO
+44891417,2008-06-14 11:26:02,2008-06-14 15:09:02,1378179,1002026,3059126,1000119,ambulatory,Encounter for problem (procedure),71.43,492.86,394.28,End-stage renal disease (disorder),CHICAGO
+44891435,2008-07-27 09:03:02,2008-07-27 12:00:02,1378179,1002026,3059126,1000119,ambulatory,Encounter for problem (procedure),71.43,703.92,563.13,End-stage renal disease (disorder),CHICAGO
+44891519,2024-01-24 16:32:05,2024-01-24 16:47:05,1378183,1001356,3058456,1000051,ambulatory,Encounter for symptom,71.43,71.43,0.0,Viral sinusitis (disorder),CHICAGO
+44891555,2009-10-17 11:26:02,2009-10-17 12:02:37,1378179,1001944,3059044,1000073,urgentcare,Urgent care clinic (environment),119.05,1011.58,809.27,,CHICAGO
+44891562,2000-07-30 11:51:36,2000-07-30 15:06:36,1378174,1002109,3059209,1000073,ambulatory,Encounter for problem (procedure),71.43,800.07,640.05,End-stage renal disease (disorder),CHICAGO
+44891659,2002-11-23 07:13:36,2002-11-23 08:52:36,1378174,1001201,3058301,1000073,emergency,Emergency room admission (procedure),118.71,1111.01,888.81,Fracture of bone (disorder),CHICAGO
+44891827,2011-01-17 22:01:14,2011-01-18 01:45:14,1378195,1001240,3058340,1000023,ambulatory,Encounter for problem (procedure),71.43,492.86,295.72,End-stage renal disease (disorder),CHICAGO
+44891903,2011-08-28 05:02:14,2011-08-28 07:23:14,1378195,1001240,3058340,1000023,ambulatory,Encounter for problem (procedure),71.43,1640.29,1640.29,End-stage renal disease (disorder),CHICAGO
+44891956,2012-02-13 16:08:14,2012-02-13 18:51:14,1378195,1001240,3058340,1000023,ambulatory,Encounter for problem (procedure),71.43,1667.5,1667.5,End-stage renal disease (disorder),CHICAGO
+44891974,2007-04-03 20:20:10,2007-04-03 21:17:05,1378197,1001389,3058489,1000074,wellness,General examination of patient (procedure),131.5,849.14,0.0,,CHICAGO
+44892112,2021-06-21 05:58:40,2021-06-21 09:27:37,1378199,1001941,3059041,1000119,ambulatory,Encounter for check up (procedure),71.43,3544.48,2835.58,Gingivitis (disorder),CHICAGO
+44892120,2021-09-28 20:58:40,2021-09-28 21:13:40,1378199,1001941,3059041,1000119,ambulatory,Encounter for symptom,71.43,71.43,57.14,Sinusitis (disorder),CHICAGO
+44892187,2013-05-12 09:14:14,2013-05-12 12:15:14,1378195,1001240,3058340,1000023,ambulatory,Encounter for problem (procedure),71.43,1055.8,1055.8,End-stage renal disease (disorder),CHICAGO
+44892295,2020-05-03 10:33:05,2020-05-03 14:32:44,1378201,1002004,3059104,1000073,ambulatory,Encounter for check up (procedure),71.43,4536.78,3629.42,Gingivitis (disorder),CHICAGO
+44892334,2005-08-03 19:08:40,2005-08-03 19:23:40,1378203,1001500,3058600,1000051,ambulatory,Encounter for symptom,71.43,80.24,0.0,Sinusitis (disorder),CHICAGO
+44892502,2024-05-14 17:45:37,2024-05-14 18:24:27,1378206,1001554,3058654,1000024,urgentcare,Urgent care clinic (environment),119.05,1095.35,1095.35,,CHICAGO
+44892519,2020-08-07 08:09:02,2020-08-07 08:43:13,1378209,1002020,3059120,1000119,wellness,General examination of patient (procedure),131.5,926.5,0.0,,CHICAGO
+44892580,1995-08-21 07:13:36,1995-08-21 08:10:11,1378211,1001635,3058735,1000073,wellness,General examination of patient (procedure),131.5,9959.62,7967.69,,CHICAGO
+44892800,2020-02-05 16:08:14,2020-02-05 16:23:14,1378222,1002103,3059203,1000060,ambulatory,Follow-up encounter,71.43,226.15,0.0,Hyperlipidemia,CHICAGO
+44892851,2021-10-25 01:31:22,2021-10-25 02:26:55,1378225,1001209,3058309,1000021,wellness,General examination of patient (procedure),131.5,1232.86,1132.86,,CHICAGO
+44892935,2021-06-16 19:18:35,2021-06-16 19:54:14,1378228,1001719,3058819,1000073,ambulatory,Encounter for check up,71.43,6081.26,4865.0,Screening for malignant neoplasm of colon (procedure),CHICAGO
+44892943,2024-01-28 05:10:59,2024-01-28 05:25:59,1378227,1001229,3058329,1000024,wellness,Well child visit (procedure),131.5,1047.67,0.0,,CHICAGO
+44893009,2021-03-22 02:51:28,2021-03-22 03:06:28,1378229,1001316,3058416,1000021,outpatient,Administration of vaccine to produce active immunity (procedure),119.05,255.05,205.05,,CHICAGO
+44893056,2014-02-02 17:14:13,2014-02-02 17:29:13,1378231,1002234,3059334,1000023,outpatient,Encounter for problem (procedure),71.43,71.43,42.86,Chronic pain (finding),CHICAGO
+44893091,2023-04-14 09:08:07,2023-04-14 09:23:07,1378232,1002002,3059102,1000021,wellness,Well child visit (procedure),131.5,1098.49,998.49,,CHICAGO
+44893095,2021-04-12 13:43:46,2021-04-12 13:58:46,1378230,1001859,3058959,1000023,outpatient,Administration of vaccine to produce active immunity (procedure),119.05,255.05,0.0,,CHICAGO
+44905411,2005-05-19 16:45:48,2005-05-19 17:04:26,1378234,1001633,3058733,1000051,outpatient,Patient encounter procedure,119.05,2470.95,0.0,Contraception care (regime/therapy),CHICAGO
+44905497,2024-03-05 23:32:56,2024-03-06 02:43:05,1378237,1002234,3059334,1000023,ambulatory,Encounter for check up (procedure),71.43,3544.48,0.0,Patient referral for dental care (procedure),CHICAGO
+44905594,2021-03-01 07:13:36,2021-03-01 07:28:36,1378241,1001507,3058607,1000073,outpatient,Administration of vaccine to produce active immunity (procedure),119.05,255.05,204.04,,CHICAGO
+44905685,2021-01-11 06:30:31,2021-01-11 06:45:31,1378245,1002277,3059377,1000060,ambulatory,Encounter for symptom,71.43,71.43,0.0,Viral sinusitis (disorder),CHICAGO
+44905697,2023-01-26 01:47:56,2023-01-26 02:32:27,1378244,1001670,3058770,1000021,wellness,General examination of patient (procedure),131.5,1243.8,1212.51,,CHICAGO
+44905699,2023-04-24 02:30:31,2023-04-24 03:15:08,1378245,1001601,3058701,1000060,wellness,General examination of patient (procedure),131.5,1461.33,0.0,,CHICAGO
+44905705,2024-05-13 02:30:31,2024-05-13 06:24:43,1378245,1002277,3059377,1000060,ambulatory,Encounter for check up (procedure),71.43,3544.48,0.0,Patient referral for dental care (procedure),CHICAGO
+44905796,1988-12-30 14:46:11,1988-12-30 15:01:11,1378247,1002007,3059107,1000073,ambulatory,Encounter for problem,71.43,71.43,57.14,Malignant neoplasm of breast (disorder),CHICAGO
+44905860,1972-03-30 16:45:48,1972-03-30 17:05:38,1378251,1001787,3058887,1000051,wellness,Well child visit (procedure),131.5,841.01,0.0,,CHICAGO
+44905970,2019-11-29 21:06:41,2019-11-29 21:48:35,1378254,1001483,3058583,1000051,wellness,General examination of patient (procedure),131.5,1274.51,0.0,,CHICAGO
+44906119,2024-01-12 21:06:41,2024-01-13 00:20:55,1378254,1001837,3058937,1000051,ambulatory,Encounter for check up (procedure),71.43,3544.48,0.0,Patient referral for dental care (procedure),CHICAGO
+44906126,2020-07-15 18:34:48,2020-07-15 21:29:48,1378251,1001837,3058937,1000051,ambulatory,Encounter for problem (procedure),71.43,492.86,0.0,Chronic kidney disease stage 4 (disorder),CHICAGO
+44906128,2020-07-22 00:34:48,2020-07-22 02:43:48,1378251,1001837,3058937,1000051,ambulatory,Encounter for problem (procedure),71.43,1667.5,0.0,Chronic kidney disease stage 4 (disorder),CHICAGO
+44906296,2024-01-07 11:10:48,2024-01-07 12:00:25,1378258,1001889,3058989,1000024,wellness,General examination of patient (procedure),131.5,763.65,0.0,,CHICAGO
+44906325,2021-05-04 12:37:48,2021-05-04 16:17:48,1378251,1001837,3058937,1000073,ambulatory,Encounter for problem (procedure),71.43,492.86,394.28,Chronic kidney disease stage 4 (disorder),CHICAGO
+44906381,2024-05-18 23:01:29,2024-05-18 23:49:02,1378246,1002110,3059210,1000022,urgentcare,Urgent care clinic (environment),119.05,1499.78,1464.78,,CHICAGO
+44906391,2021-09-28 03:59:48,2021-09-28 07:34:48,1378251,1001837,3058937,1000073,ambulatory,Encounter for problem (procedure),71.43,492.86,394.28,Chronic kidney disease stage 4 (disorder),CHICAGO
+61412793,2004-07-01 23:16:46,2004-07-02 02:51:46,1282145,1004188,3061288,1000113,ambulatory,Encounter for problem (procedure),64.08,460.43,368.34,End-stage renal disease (disorder),TAMPA
+61412798,2023-10-21 12:00:15,2023-10-21 18:05:01,1282144,1003936,3061036,1000113,ambulatory,Encounter for check up (procedure),64.08,6838.43,5470.74,Gingivitis (disorder),TAMPA
+61412810,2004-08-13 00:16:46,2004-08-13 03:35:46,1282145,1004188,3061288,1000113,ambulatory,Encounter for problem (procedure),64.08,1565.15,1252.12,End-stage renal disease (disorder),TAMPA
+61412860,2006-07-21 16:39:46,2006-07-21 17:29:31,1282145,1004149,3061249,1000113,wellness,General examination of patient (procedure),163.63,1192.4,953.92,,TAMPA
+61412870,1974-12-08 06:43:29,1974-12-08 06:58:29,1282149,1003936,3061036,1000102,ambulatory,Follow-up encounter (procedure),64.08,64.08,0.0,Hyperlipidemia (disorder),TAMPA
+61412883,2007-07-27 16:39:46,2007-07-27 17:16:46,1282145,1004149,3061249,1000113,wellness,General examination of patient (procedure),163.63,2285.64,1828.51,,TAMPA
+61412896,2020-09-14 22:58:04,2020-09-15 02:31:20,1282148,1004035,3061135,1000092,ambulatory,Encounter for check up (procedure),64.08,4990.88,738.21,Gingivitis (disorder),TAMPA
+61412956,2021-06-27 07:25:35,2021-06-27 07:40:35,1282151,1004040,3061140,1000102,ambulatory,Prenatal visit (regime/therapy),106.81,7795.51,0.0,Normal pregnancy (finding),TAMPA
+61413120,2021-03-08 07:08:37,2021-03-08 08:29:31,1282155,1004216,3061316,1000113,ambulatory,Encounter for problem (procedure),64.08,2197.88,1758.3,Anemia (disorder),TAMPA
+61413215,1985-07-30 00:51:39,1985-07-30 01:23:45,1282160,1004100,3061200,1000114,ambulatory,Encounter for problem (procedure),64.08,956.85,906.85,End-stage renal disease (disorder),TAMPA
+61413244,1985-10-30 12:36:39,1985-10-30 16:06:39,1282160,1004100,3061200,1000114,ambulatory,Encounter for problem (procedure),64.08,520.3,470.3,End-stage renal disease (disorder),TAMPA
+61413402,1986-04-26 15:09:39,1986-04-26 17:19:39,1282160,1004100,3061200,1000114,ambulatory,Encounter for problem (procedure),64.08,800.83,750.83,End-stage renal disease (disorder),TAMPA
+61413412,1998-04-08 22:17:58,1998-04-08 22:32:58,1282159,1003987,3061087,1000102,ambulatory,Encounter for problem (procedure),64.08,341.0,0.0,End-stage renal disease (disorder),TAMPA
+61413502,1986-07-26 15:16:39,1986-07-26 17:40:39,1282160,1004100,3061200,1000114,ambulatory,Encounter for problem (procedure),64.08,666.36,616.36,End-stage renal disease (disorder),TAMPA
+61413570,1998-09-16 19:30:58,1998-09-16 23:10:58,1282159,1003987,3061087,1000114,ambulatory,Encounter for problem (procedure),64.08,545.04,495.04,End-stage renal disease (disorder),TAMPA
+61413609,1986-10-28 17:56:39,1986-10-28 20:29:39,1282160,1004100,3061200,1000114,ambulatory,Encounter for problem (procedure),64.08,460.43,410.43,End-stage renal disease (disorder),TAMPA
+61413676,1999-07-07 19:30:58,1999-07-07 22:55:58,1282159,1003987,3061087,1000093,ambulatory,Encounter for problem (procedure),64.08,694.61,0.0,End-stage renal disease (disorder),TAMPA
+61413709,1999-07-31 22:11:58,1999-08-01 01:44:58,1282159,1003987,3061087,1000093,ambulatory,Encounter for problem (procedure),64.08,460.43,322.3,End-stage renal disease (disorder),TAMPA
+61413811,2000-02-21 15:43:58,2000-02-21 18:16:58,1282159,1003987,3061087,1000093,ambulatory,Encounter for problem (procedure),64.08,460.43,460.43,End-stage renal disease (disorder),TAMPA
+61413951,1987-06-21 11:49:39,1987-06-21 14:18:39,1282160,1004100,3061200,1000092,ambulatory,Encounter for problem (procedure),64.08,1565.15,939.09,End-stage renal disease (disorder),TAMPA
+61413959,2023-09-03 19:00:42,2023-09-03 20:00:42,1282165,1004241,3061341,1000113,emergency,Emergency room admission (procedure),108.86,1449.52,1159.62,,TAMPA
+61414016,2001-07-18 19:30:58,2001-07-18 19:51:00,1282159,1003987,3061087,1000092,outpatient,Patient encounter procedure (procedure),106.81,13296.02,7977.62,Contraception care (regime/therapy),TAMPA
+61414045,2024-02-08 14:04:42,2024-02-08 18:01:00,1282170,1004013,3061113,1000102,ambulatory,Encounter for check up (procedure),64.08,4990.88,0.0,Patient referral for dental care (procedure),TAMPA
+61414149,1988-03-22 19:05:39,1988-03-22 22:25:39,1282160,1004100,3061200,1000092,ambulatory,Encounter for problem (procedure),64.08,460.43,460.43,End-stage renal disease (disorder),TAMPA
+61414311,2022-09-18 01:08:39,2022-09-18 01:23:39,1282169,1003991,3061091,1000093,urgentcare,Urgent care clinic (environment),106.81,383.73,383.73,,TAMPA
+61414343,2012-02-20 21:02:26,2012-02-20 21:17:26,1282175,1004216,3061316,1000056,ambulatory,Encounter for symptom (procedure),64.08,64.08,0.0,Perennial allergic rhinitis with seasonal variation (disorder),TAMPA
+61414389,2022-12-28 04:39:48,2022-12-28 05:08:46,1282175,1004216,3061316,1000056,ambulatory,Outpatient procedure (procedure),106.81,29349.52,13953.31,Allergy to substance (finding),TAMPA
+61414508,2022-12-15 06:47:10,2022-12-15 07:02:10,1282178,1003987,3061087,1000093,ambulatory,Encounter for symptom (procedure),64.08,64.08,0.0,Viral sinusitis (disorder),TAMPA
+61414558,2023-03-14 18:13:34,2023-03-14 18:28:34,1282179,1004105,3061205,1000101,ambulatory,Follow-up encounter (procedure),64.08,64.08,51.26,Essential hypertension (disorder),TAMPA
+61414657,2024-05-21 00:51:39,2024-05-21 01:49:29,1282182,1004105,3061205,1000092,ambulatory,Encounter for symptom (procedure),64.08,1295.78,1295.78,Sleep disorder (disorder),TAMPA
+61414859,2024-06-18 18:34:46,2024-06-19 18:34:46,1282193,1003987,3061087,1000092,inpatient,Admission to surgical department (procedure),108.86,7606.81,907.69,Sterilization requested (situation),TAMPA
+61414910,2013-12-07 00:52:01,2013-12-08 15:51:11,1282197,1004100,3061200,1000093,ambulatory,Periodic reevaluation and management of healthy individual (procedure),106.81,6092.31,1114.62,Screening for malignant neoplasm of breast (procedure),TAMPA
+61415004,2021-10-12 18:31:10,2021-10-12 18:46:10,1282203,1004207,3061307,1000093,outpatient,Administration of vaccine to produce active immunity (procedure),106.81,242.81,169.97,,TAMPA
+61415040,2020-03-29 11:40:54,2020-03-29 12:21:36,1282204,1004000,3061100,1000113,wellness,General examination of patient (procedure),163.63,1527.88,1222.3,,TAMPA
+61415044,2023-07-18 18:31:10,2023-07-18 18:46:10,1282203,1004242,3061342,1000101,wellness,Well child visit (procedure),163.63,1497.86,31.89,,TAMPA
+61415068,2023-12-25 13:27:39,2023-12-25 13:43:37,1282202,1004233,3061333,1000113,wellness,Well child visit (procedure),163.63,1112.06,889.64,,TAMPA
+61415150,2020-11-23 08:12:47,2020-11-23 09:46:39,1282208,1003987,3061087,1000102,ambulatory,Encounter for symptom (procedure),64.08,342.27,0.0,Suspected disease caused by Severe acute respiratory coronavirus 2 (situation),TAMPA
+61415186,2017-01-08 01:55:17,2017-01-08 02:10:17,1282210,1003987,3061087,1000113,ambulatory,Prenatal visit (regime/therapy),106.81,1338.51,1070.81,Blighted ovum (disorder),TAMPA
+61415297,1990-11-30 16:39:46,1990-11-30 17:25:57,1282213,1004216,3061316,1000113,outpatient,Encounter for check up (procedure),64.08,1849.62,1479.7,,TAMPA
+61415313,2022-02-09 11:40:05,2022-02-09 11:55:05,1282214,1003968,3061068,1000093,ambulatory,Encounter for symptom (procedure),64.08,4990.88,2975.04,Acute viral pharyngitis (disorder),TAMPA
+61415361,1999-09-15 14:08:48,1999-09-15 14:48:39,1282216,1004179,3061279,1000092,wellness,General examination of patient (procedure),163.63,1990.24,0.0,,TAMPA
+61415407,1992-09-25 16:39:46,1992-09-25 19:44:00,1282213,1004216,3061316,1000113,ambulatory,Encounter for check up (procedure),64.08,3759.18,3007.34,Gingivitis (disorder),TAMPA
+61415442,1980-06-07 22:00:24,1980-06-07 23:21:42,1282218,1004171,3061271,1000102,emergency,Emergency room admission (procedure),108.86,6191.56,0.0,Seizure disorder (disorder),TAMPA
+61415514,2007-05-22 01:27:06,2007-05-22 03:23:28,1282220,1004031,3061131,1000056,emergency,Emergency room admission (procedure),108.86,2572.26,1020.97,Fracture of mandible (disorder),TAMPA
+61415591,2021-01-17 00:43:36,2021-01-17 00:58:36,1282219,1004216,3061316,1000113,ambulatory,Encounter for symptom (procedure),64.08,64.08,51.26,Acute bacterial sinusitis (disorder),TAMPA
+61415673,1994-08-24 14:08:48,1994-08-24 14:55:43,1282224,1003936,3061036,1000093,outpatient,Encounter for check up (procedure),64.08,1652.49,0.0,,TAMPA
+44906461,2021-12-15 04:52:48,2021-12-15 07:16:48,1378251,1001837,3058937,1000073,ambulatory,Encounter for problem (procedure),71.43,492.86,394.28,Chronic kidney disease stage 4 (disorder),CHICAGO
+44906496,2023-05-29 02:18:39,2023-05-29 02:33:39,1378262,1002099,3059199,1000023,ambulatory,Prenatal visit,119.05,21557.4,21557.4,Normal pregnancy,CHICAGO
+44906627,2022-07-05 15:20:48,2022-07-05 15:35:48,1378251,1001837,3058937,1000073,ambulatory,Encounter for problem (procedure),71.43,226.15,180.92,Chronic kidney disease stage 4 (disorder),CHICAGO
+44906733,2021-03-25 22:09:34,2021-03-25 22:41:06,1378267,1001802,3058902,1000021,wellness,General examination of patient (procedure),131.5,1249.01,1149.01,,CHICAGO
+44906776,2024-04-11 22:09:34,2024-04-12 05:33:29,1378267,1001398,3058498,1000021,ambulatory,Encounter for check up (procedure),71.43,6025.23,5975.23,Gingivitis (disorder),CHICAGO
+44906814,2021-11-29 03:12:15,2021-11-29 03:54:29,1378268,1001705,3058805,1000021,ambulatory,Outpatient procedure,119.05,6008.78,5958.78,Allergy to substance (finding),CHICAGO
+44906817,2022-02-17 05:05:21,2022-02-17 05:48:19,1378268,1001705,3058805,1000021,ambulatory,Outpatient procedure,119.05,6008.78,5958.78,Allergy to substance (finding),CHICAGO
+44906976,2023-12-08 06:53:48,2023-12-08 09:03:48,1378251,1001837,3058937,1000073,ambulatory,Encounter for problem (procedure),71.43,878.04,702.43,Chronic kidney disease stage 4 (disorder),CHICAGO
+44906981,2023-12-23 19:31:48,2023-12-23 23:18:48,1378251,1001837,3058937,1000073,ambulatory,Encounter for problem (procedure),71.43,1667.5,1334.0,Chronic kidney disease stage 4 (disorder),CHICAGO
+44906993,2021-03-13 13:10:09,2021-03-13 13:29:23,1378271,1001198,3058298,1000119,outpatient,Patient encounter procedure,119.05,1393.66,1063.46,Contraception care (regime/therapy),CHICAGO
+44907034,2024-02-14 02:52:48,2024-02-14 06:44:48,1378251,1001837,3058937,1000073,ambulatory,Encounter for problem (procedure),71.43,492.86,394.28,Chronic kidney disease stage 4 (disorder),CHICAGO
+44907052,2020-02-23 04:15:44,2020-02-23 04:30:44,1378272,1001347,3058447,1000073,ambulatory,Office Visit,71.43,71.43,57.14,Alzheimer's disease (disorder),CHICAGO
+44907089,2024-06-05 15:37:48,2024-06-05 17:51:48,1378251,1001837,3058937,1000073,ambulatory,Encounter for problem (procedure),71.43,880.51,704.4,Chronic kidney disease stage 4 (disorder),CHICAGO
+44907329,2024-01-22 15:53:06,2024-01-22 20:00:50,1378278,1001837,3058937,1000021,ambulatory,Encounter for check up (procedure),71.43,4040.63,3990.63,Gingivitis (disorder),CHICAGO
+44907403,2024-05-13 00:48:44,2024-05-13 01:03:44,1378280,1001837,3058937,1000074,ambulatory,Patient-initiated encounter,71.43,5085.18,3559.62,Normal pregnancy,CHICAGO
+44907429,2023-07-08 11:43:47,2023-07-08 11:58:47,1378282,1001941,3059041,1000024,outpatient,Encounter for symptom,71.43,71.43,57.14,Otitis media,CHICAGO
+44907435,2020-01-28 04:49:20,2020-01-28 05:04:20,1378283,1001275,3058375,1000037,wellness,Well child visit (procedure),131.5,267.5,151.57,,CHICAGO
+44907501,2022-05-09 18:12:08,2022-05-09 18:27:37,1378286,1002004,3059104,1000037,outpatient,Patient encounter procedure,119.05,2666.28,1599.77,Contraception care (regime/therapy),CHICAGO
+44907525,1979-08-11 13:52:14,1979-08-11 14:36:47,1378288,1001795,3058895,1000021,wellness,General examination of patient (procedure),131.5,1755.95,1605.95,,CHICAGO
+44907542,2021-03-09 16:03:55,2021-03-10 16:03:55,1378288,1001837,3058937,1000021,inpatient,Drug rehabilitation and detoxification,118.71,118.71,68.71,Dependent drug abuse (disorder),CHICAGO
+44907780,2023-04-13 15:38:44,2023-04-13 15:53:44,1378299,1001403,3058503,1000051,outpatient,Encounter for check up (procedure),71.43,1071.86,0.0,,CHICAGO
+44907822,2021-01-19 11:47:51,2021-01-19 12:29:16,1378301,1002004,3059104,1000073,ambulatory,Outpatient procedure,119.05,23677.98,18755.98,Allergy to substance (finding),CHICAGO
+44907884,2020-03-25 16:11:44,2020-03-25 22:14:15,1378303,1001592,3058692,1000060,ambulatory,Encounter for check up (procedure),71.43,5529.08,1159.7,Gingivitis (disorder),CHICAGO
+44907959,2007-03-18 10:33:05,2007-03-18 11:08:20,1378306,1001377,3058477,1000073,wellness,General examination of patient (procedure),131.5,17266.24,13813.0,,CHICAGO
+44908086,2024-09-04 20:52:08,2024-09-05 00:24:37,1378310,1001553,3058653,1000074,ambulatory,Encounter for check up (procedure),71.43,4040.63,2828.4,Gingivitis (disorder),CHICAGO
+44908089,2017-09-11 16:14:16,2017-09-11 17:04:06,1378311,1001253,3058353,1000023,wellness,General examination of patient (procedure),131.5,763.65,458.19,,CHICAGO
+44908106,2021-10-18 16:14:16,2021-10-18 19:36:14,1378311,1002026,3059126,1000023,ambulatory,Encounter for check up (procedure),71.43,4040.63,4040.63,Gingivitis (disorder),CHICAGO
+44908237,2019-05-17 22:12:42,2019-05-17 22:27:42,1378316,1002103,3059203,1000023,outpatient,Consultation for treatment,119.05,119.05,0.0,Contraception care (regime/therapy),CHICAGO
+44908240,2021-01-08 07:17:27,2021-01-08 07:43:00,1378316,1002277,3059377,1000023,ambulatory,Encounter for check up,71.43,23316.65,11397.96,Screening for malignant neoplasm of colon (procedure),CHICAGO
+44908285,2020-06-13 18:49:31,2020-06-13 19:41:57,1378317,1002110,3059210,1000022,urgentcare,Urgent care clinic (environment),119.05,924.64,889.64,,CHICAGO
+44908295,2020-08-01 18:49:31,2020-08-01 22:29:29,1378317,1001398,3058498,1000022,ambulatory,Encounter for check up (procedure),71.43,4040.63,4005.63,Patient referral for dental care (procedure),CHICAGO
+44908402,2021-03-13 18:49:31,2021-03-13 22:42:38,1378317,1001398,3058498,1000021,ambulatory,Encounter for check up (procedure),71.43,4536.78,4486.78,Patient referral for dental care (procedure),CHICAGO
+44908440,2022-04-16 18:49:31,2022-04-16 19:37:30,1378317,1002110,3059210,1000021,urgentcare,Urgent care clinic (environment),119.05,924.64,874.64,,CHICAGO
+44908447,2022-07-02 18:49:31,2022-07-02 19:39:24,1378317,1001602,3058702,1000021,outpatient,Encounter for check up (procedure),71.43,1869.32,1819.32,,CHICAGO
+44908546,2006-09-01 12:38:28,2006-09-01 13:38:28,1378322,1001649,3058749,1000021,emergency,Emergency treatment (procedure),118.71,118.71,68.71,Chronic intractable migraine without aura,CHICAGO
+44908584,2024-01-23 17:08:38,2024-01-23 20:55:23,1378323,1001705,3058805,1000021,ambulatory,Encounter for check up (procedure),71.43,4040.63,3990.63,Patient referral for dental care (procedure),CHICAGO
+44908592,2024-01-20 18:49:31,2024-01-20 22:36:31,1378317,1001398,3058498,1000022,ambulatory,Encounter for problem (procedure),71.43,492.86,457.86,Chronic kidney disease stage 4 (disorder),CHICAGO
+44908662,2020-01-28 20:27:33,2020-01-28 23:35:22,1378324,1001834,3058934,1000073,ambulatory,Encounter for check up (procedure),71.43,3544.48,2835.58,Patient referral for dental care (procedure),CHICAGO
+44908679,2022-04-05 20:27:33,2022-04-05 21:12:32,1378324,1001317,3058417,1000073,wellness,General examination of patient (procedure),131.5,1526.96,1221.57,,CHICAGO
+44908726,2021-03-30 09:56:03,2021-03-30 10:11:03,1378325,1002004,3059104,1000021,outpatient,Administration of vaccine to produce active immunity (procedure),119.05,255.05,205.05,,CHICAGO
+44908759,2011-12-02 18:18:28,2011-12-02 19:11:14,1378327,1001284,3058384,1000037,wellness,General examination of patient (procedure),131.5,1054.37,0.0,,CHICAGO
+44908766,2021-05-13 05:47:59,2021-05-13 06:02:59,1378326,1001288,3058388,1000074,outpatient,Consultation for treatment,119.05,119.05,83.34,Contraception care (regime/therapy),CHICAGO
+44908827,2020-01-14 01:52:38,2020-01-14 02:07:38,1378330,1001834,3058934,1000021,ambulatory,Encounter for symptom,71.43,2644.21,2494.21,Acute viral pharyngitis (disorder),CHICAGO
+44908853,2011-09-26 02:02:53,2011-09-26 05:55:50,1378328,1001507,3058607,1000073,ambulatory,Encounter for check up (procedure),71.43,3544.48,2835.58,Gingivitis (disorder),CHICAGO
+44909177,1982-07-22 22:28:44,1982-07-23 02:09:44,1378335,1001592,3058692,1000073,ambulatory,Encounter for problem (procedure),71.43,492.86,394.28,End-stage renal disease (disorder),CHICAGO
+44909260,2022-05-24 00:08:56,2022-05-24 02:53:47,1378336,1001705,3058805,1000021,ambulatory,Encounter for check up (procedure),71.43,3544.48,3494.48,Patient referral for dental care (procedure),CHICAGO
+44909347,1983-09-07 08:07:44,1983-09-07 10:45:44,1378335,1001592,3058692,1000073,ambulatory,Encounter for problem (procedure),71.43,1667.5,1667.5,End-stage renal disease (disorder),CHICAGO
+42954250,1947-03-16 16:45:21,1947-03-16 18:50:21,2341992,1002245,3059345,1000051,ambulatory,Encounter for problem (procedure),71.43,1169.2,0.0,End-stage renal disease (disorder),CHICAGO
+42954286,2011-10-12 05:23:01,2011-10-12 08:50:01,2341993,1001592,3058692,1000024,ambulatory,Encounter for problem (procedure),71.43,492.86,492.86,End-stage renal disease (disorder),CHICAGO
+42954299,1987-12-16 16:22:20,1987-12-16 16:37:20,2341998,1001618,3058718,1000119,wellness,Well child visit (procedure),131.5,1026.82,0.0,,CHICAGO
+42954366,1947-08-31 01:11:21,1947-08-31 04:52:21,2341992,1002245,3059345,1000051,ambulatory,Encounter for problem (procedure),71.43,492.86,0.0,End-stage renal disease (disorder),CHICAGO
+42954402,1947-11-10 14:01:21,1947-11-10 16:03:21,2341992,1002245,3059345,1000051,ambulatory,Encounter for problem (procedure),71.43,492.86,0.0,End-stage renal disease (disorder),CHICAGO
+42954473,1948-04-08 18:18:21,1948-04-08 18:33:21,2341992,1002245,3059345,1000051,ambulatory,Encounter for problem (procedure),71.43,226.15,0.0,End-stage renal disease (disorder),CHICAGO
+42954575,2023-05-19 21:55:29,2023-05-19 22:10:29,2341996,1001944,3059044,1000022,urgentcare,Urgent care clinic (environment),119.05,273.77,238.77,,CHICAGO
+42954728,2012-10-30 12:04:01,2012-10-30 15:52:01,2341993,1001592,3058692,1000024,ambulatory,Encounter for problem (procedure),71.43,492.86,492.86,End-stage renal disease (disorder),CHICAGO
+42954735,2021-08-17 07:43:20,2021-08-17 07:58:20,2342000,1002247,3059347,1000023,ambulatory,Patient-initiated encounter,71.43,5904.51,5904.51,Normal pregnancy,CHICAGO
+42954777,2024-09-30 18:08:20,2024-09-30 18:23:20,2342001,1001913,3059013,1000023,wellness,Well child visit (procedure),131.5,267.5,0.0,,CHICAGO
+42954868,2014-03-16 20:47:40,2014-03-16 21:02:40,2342005,1001859,3058959,1000021,ambulatory,Follow-up encounter (procedure),71.43,71.43,21.43,Chronic pain (finding),CHICAGO
+42955006,2020-02-07 08:43:36,2020-02-07 08:58:36,2342010,1002103,3059203,1000037,ambulatory,Encounter for problem (procedure),71.43,226.15,0.0,Chronic kidney disease stage 4 (disorder),CHICAGO
+42955007,2020-02-10 08:43:36,2020-02-10 10:44:36,2342010,1002103,3059203,1000037,ambulatory,Encounter for problem (procedure),71.43,935.75,0.0,Chronic kidney disease stage 4 (disorder),CHICAGO
+42955050,2020-05-01 15:56:36,2020-05-01 18:28:36,2342010,1002103,3059203,1000037,ambulatory,Encounter for problem (procedure),71.43,1667.5,1667.5,Chronic kidney disease stage 4 (disorder),CHICAGO
+42955205,1987-09-08 03:41:24,1987-09-08 03:56:24,2342012,1001507,3058607,1000051,ambulatory,Prenatal visit,119.05,9325.84,0.0,Normal pregnancy,CHICAGO
+42955270,2022-01-03 00:00:36,2022-01-03 03:55:36,2342010,1002103,3059203,1000037,ambulatory,Encounter for problem (procedure),71.43,492.86,492.86,Chronic kidney disease stage 4 (disorder),CHICAGO
+42955297,1989-04-18 03:41:24,1989-04-18 03:56:24,2342012,1001507,3058607,1000051,ambulatory,Postnatal visit,119.05,1111.35,0.0,,CHICAGO
+42955320,2023-02-26 10:53:20,2023-02-26 11:08:20,2342013,1001571,3058671,1000021,outpatient,Encounter for check up (procedure),71.43,951.65,901.65,,CHICAGO
+42955330,2022-03-27 18:15:36,2022-03-27 18:30:36,2342010,1002103,3059203,1000074,ambulatory,Encounter for problem (procedure),71.43,226.15,226.15,Chronic kidney disease stage 4 (disorder),CHICAGO
+42955461,2004-01-28 02:13:21,2004-01-28 02:46:58,2342019,1001847,3058947,1000051,ambulatory,Encounter for problem (procedure),71.43,722.3,0.0,,CHICAGO
+42955464,2006-06-10 02:13:21,2006-06-10 02:52:57,2342019,1001556,3058656,1000024,wellness,General examination of patient (procedure),131.5,782.37,625.9,,CHICAGO
+42971882,2020-03-06 19:44:43,2020-03-06 22:50:37,2342021,1002248,3059348,1000023,ambulatory,Encounter for check up (procedure),71.43,3048.33,0.0,Patient referral for dental care (procedure),CHICAGO
+42971883,2020-07-23 18:40:38,2020-07-23 20:03:17,2342020,1001413,3058513,1000023,ambulatory,Encounter for symptom (procedure),71.43,230.31,0.0,Suspected COVID-19,CHICAGO
+42971898,2021-09-04 09:40:38,2021-09-04 09:55:38,2342020,1001413,3058513,1000023,ambulatory,Encounter for symptom,71.43,594.36,0.0,Acute bronchitis (disorder),CHICAGO
+42971948,2006-12-25 18:24:21,2006-12-25 21:27:21,2342019,1001847,3058947,1000024,ambulatory,Encounter for problem (procedure),71.43,492.86,492.86,End-stage renal disease (disorder),CHICAGO
+42972041,2020-09-21 03:06:26,2020-09-21 03:21:26,2342025,1002277,3059377,1000060,outpatient,Encounter for problem (procedure),71.43,71.43,0.0,Chronic pain (finding),CHICAGO
+42972080,2020-06-07 00:05:45,2020-06-07 00:20:45,2342023,1001725,3058825,1000051,urgentcare,Urgent care clinic (environment),119.05,409.77,0.0,,CHICAGO
+42972089,2010-02-27 02:13:21,2010-03-15 02:28:21,2342019,1002217,3059317,1000073,hospice,Admission to hospice (procedure),108.17,10527.32,8235.46,End-stage renal disease (disorder),CHICAGO
+42972151,1989-09-11 08:37:05,1989-09-11 08:52:05,2342027,1001705,3058805,1000051,ambulatory,Encounter for symptom,71.43,2042.75,0.0,Acute viral pharyngitis (disorder),CHICAGO
+42972163,1993-12-28 22:11:05,1993-12-28 23:11:05,2342027,1001637,3058737,1000051,emergency,Emergency room admission (procedure),118.71,118.71,0.0,Gunshot wound (disorder),CHICAGO
+42972288,2024-02-04 00:05:45,2024-02-04 01:05:45,2342023,1001755,3058855,1000021,emergency,Emergency room admission (procedure),118.71,769.58,719.58,,CHICAGO
+42972309,2024-07-07 00:05:45,2024-07-07 00:58:46,2342023,1001725,3058825,1000051,urgentcare,Urgent care clinic (environment),119.05,769.92,0.0,,CHICAGO
+42972396,1988-11-22 03:41:24,1988-11-22 06:51:24,2342031,1001553,3058653,1000051,ambulatory,Encounter for problem (procedure),71.43,921.85,0.0,End-stage renal disease (disorder),CHICAGO
+42972497,2023-12-20 08:41:09,2023-12-20 08:56:09,2342034,1001579,3058679,1000023,ambulatory,Prenatal visit,119.05,5621.9,5621.9,Normal pregnancy,CHICAGO
+42972529,2012-10-09 13:50:52,2012-10-09 14:26:13,2342035,1001630,3058730,1000037,wellness,General examination of patient (procedure),131.5,841.01,0.0,,CHICAGO
+42972640,2003-08-02 19:34:01,2003-08-02 20:21:32,2342039,1001763,3058863,1000073,wellness,General examination of patient (procedure),131.5,1198.5,772.4,,CHICAGO
+42972657,2021-05-27 20:37:05,2021-05-27 20:52:05,2342038,1001347,3058447,1000074,outpatient,Administration of vaccine to produce active immunity (procedure),119.05,255.05,178.54,,CHICAGO
+42972670,2020-10-10 19:34:01,2020-10-10 21:20:09,2342039,1001196,3058296,1000073,ambulatory,Follow-up encounter (procedure),71.43,9128.74,7303.0,Abnormal findings diagnostic imaging heart+coronary circulat (finding),CHICAGO
+42972674,1990-04-10 03:41:24,1990-04-10 04:41:24,2342031,1001888,3058988,1000051,emergency,Emergency room admission (procedure),118.71,118.71,0.0,,CHICAGO
+42972698,2021-10-16 19:34:01,2021-10-16 19:49:01,2342039,1001383,3058483,1000073,outpatient,Administration of vaccine to produce active immunity (procedure),119.05,255.05,204.04,,CHICAGO
+42972754,2017-07-31 10:49:24,2017-07-31 11:37:44,2342041,1001253,3058353,1000021,wellness,General examination of patient (procedure),131.5,1081.22,1081.22,,CHICAGO
+42972783,1991-03-26 03:41:24,1991-03-26 03:56:24,2342031,1001852,3058952,1000051,urgentcare,Urgent care clinic (environment),119.05,423.77,0.0,,CHICAGO
+42972790,1991-05-14 03:41:24,1991-05-14 04:27:51,2342031,1001852,3058952,1000051,urgentcare,Urgent care clinic (environment),119.05,615.2,0.0,,CHICAGO
+42972858,1992-09-01 03:41:24,1992-09-01 04:41:24,2342031,1001888,3058988,1000051,emergency,Emergency room admission (procedure),118.71,862.93,0.0,,CHICAGO
+42973000,2014-07-08 06:30:11,2014-07-08 07:20:17,2342046,1002021,3059121,1000073,wellness,General examination of patient (procedure),131.5,1097.21,754.82,,CHICAGO
+42973013,1992-09-19 02:13:21,1992-09-19 03:00:48,2342047,1002038,3059138,1000051,wellness,General examination of patient (procedure),131.5,926.5,0.0,,CHICAGO
+42973153,2022-04-03 21:52:00,2022-04-03 22:07:00,2342053,1001938,3059038,1000073,ambulatory,Office Visit,71.43,71.43,57.14,Alzheimer's disease (disorder),CHICAGO
+58802931,1937-03-23 09:46:37,1937-03-23 10:19:44,1446153,1003857,3060957,1000033,wellness,General examination of patient (procedure),146.76,1521.18,0.0,,SAN FRANCISCO
+58803006,2006-08-23 03:46:49,2006-08-23 04:01:49,1446157,1003812,3060912,1000090,ambulatory,Encounter for problem,82.02,201.95,201.95,Anemia (disorder),SAN FRANCISCO
+58803042,2023-01-13 23:22:29,2023-01-14 08:13:49,1446156,1003930,3061030,1000112,ambulatory,Encounter for check up (procedure),82.02,9690.02,5278.57,Gingivitis (disorder),SAN FRANCISCO
+58803241,2023-07-12 21:56:06,2023-07-13 01:12:53,1446162,1003798,3060898,1000110,ambulatory,Encounter for check up (procedure),82.02,3685.02,2948.02,Patient referral for dental care (procedure),SAN FRANCISCO
+58803245,2023-10-04 21:56:06,2023-10-04 22:11:06,1446162,1003885,3060985,1000110,outpatient,Encounter for check up (procedure),82.02,1442.42,1153.93,,SAN FRANCISCO
+58803254,2020-06-24 12:16:48,2020-06-24 13:00:49,1446165,1003861,3060961,1000110,wellness,General examination of patient (procedure),146.76,1362.98,1090.37,,SAN FRANCISCO
+58803297,2024-08-21 21:56:06,2024-08-21 22:31:21,1446162,1003893,3060993,1000110,urgentcare,Urgent care clinic (environment),136.7,2013.81,1611.04,,SAN FRANCISCO
+58803305,2024-09-17 23:15:31,2024-09-17 23:30:31,1446160,1003794,3060894,1000110,ambulatory,Prenatal visit,136.7,15558.99,12447.2,Normal pregnancy,SAN FRANCISCO
+58803438,2023-10-13 11:53:14,2023-10-13 12:47:11,1446170,1003930,3061030,1000111,outpatient,Encounter for check up (procedure),82.02,1328.62,0.0,,SAN FRANCISCO
+58803538,1947-12-30 09:46:37,1947-12-30 13:41:37,1446167,1003911,3061011,1000100,ambulatory,Encounter for problem (procedure),82.02,1952.03,1902.03,End-stage renal disease (disorder),SAN FRANCISCO
+58803602,1948-10-26 13:21:37,1948-10-26 13:36:37,1446167,1003911,3061011,1000033,ambulatory,Encounter for problem (procedure),82.02,321.88,0.0,End-stage renal disease (disorder),SAN FRANCISCO
+58803624,1949-02-18 12:16:37,1949-02-18 15:14:37,1446167,1003911,3061011,1000100,ambulatory,Encounter for problem (procedure),82.02,1588.66,1538.66,End-stage renal disease (disorder),SAN FRANCISCO
+58803696,1949-10-28 13:35:37,1949-10-28 16:14:37,1446167,1003911,3061011,1000100,ambulatory,Encounter for problem (procedure),82.02,575.78,525.78,End-stage renal disease (disorder),SAN FRANCISCO
+58803817,2021-04-08 04:36:11,2021-04-08 04:53:37,1474848,1003791,3060891,1000117,outpatient,Patient encounter procedure,136.7,1679.39,177.11,Contraception care (regime/therapy),SAN FRANCISCO
+58803822,2022-01-06 04:36:11,2022-01-06 04:51:11,1474848,1003791,3060891,1000117,outpatient,Patient encounter procedure,136.7,2817.3,2253.84,Contraception care (regime/therapy),SAN FRANCISCO
+58803894,2007-04-22 10:22:04,2007-04-22 10:46:03,1474850,1003921,3061021,1000111,wellness,Well child visit (procedure),146.76,2220.26,0.0,,SAN FRANCISCO
+58803922,2021-07-04 10:22:04,2021-07-04 10:37:04,1474850,1003806,3060906,1000111,ambulatory,Prenatal visit,136.7,11608.36,11608.36,Normal pregnancy,SAN FRANCISCO
+58803925,2021-09-26 10:22:04,2021-09-26 10:37:04,1474850,1003806,3060906,1000111,ambulatory,Prenatal visit,136.7,7935.59,7935.59,Normal pregnancy,SAN FRANCISCO
+58804102,2017-05-03 09:06:52,2017-05-03 09:45:45,1474854,1003804,3060904,1000111,outpatient,Encounter for check up (procedure),82.02,938.45,0.0,,SAN FRANCISCO
+58804106,2020-02-25 16:34:07,2020-02-25 18:46:07,1474853,1003779,3060879,1000110,ambulatory,Encounter for problem (procedure),82.02,575.78,460.63,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58804109,2020-03-06 02:26:07,2020-03-06 04:53:07,1474853,1003779,3060879,1000110,ambulatory,Encounter for problem (procedure),82.02,1273.48,1018.79,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58804125,2020-04-06 08:38:07,2020-04-06 11:57:07,1474853,1003779,3060879,1000110,ambulatory,Encounter for problem (procedure),82.02,1486.4,1189.12,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58804132,2020-04-25 01:28:07,2020-04-25 04:28:07,1474853,1003779,3060879,1000110,ambulatory,Encounter for problem (procedure),82.02,575.78,460.63,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58804136,2020-01-22 09:06:52,2020-01-22 10:02:30,1474854,1003824,3060924,1000111,wellness,General examination of patient (procedure),146.76,1693.38,1016.04,,SAN FRANCISCO
+58804248,2004-09-01 19:47:17,2004-09-01 20:19:52,1474856,1003824,3060924,1000110,wellness,General examination of patient (procedure),146.76,2083.93,1483.68,,SAN FRANCISCO
+58804318,1983-01-14 04:22:08,1983-01-14 05:09:23,1474858,1003795,3060895,1000033,wellness,General examination of patient (procedure),146.76,1243.05,0.0,,SAN FRANCISCO
+58804327,1997-07-16 01:49:08,1997-07-16 04:03:08,1474858,1003787,3060887,1000110,ambulatory,Encounter for problem (procedure),82.02,575.78,460.63,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58804358,1997-07-28 12:56:08,1997-07-28 15:08:08,1474858,1003787,3060887,1000110,ambulatory,Encounter for problem (procedure),82.02,1952.03,1561.63,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58804361,2022-08-20 06:24:46,2022-08-20 06:39:46,1474855,1003893,3060993,1000110,urgentcare,Urgent care clinic (environment),136.7,376.56,301.24,,SAN FRANCISCO
+58804437,1998-02-06 17:07:08,1998-02-06 20:40:08,1474858,1003787,3060887,1000110,ambulatory,Encounter for problem (procedure),82.02,1767.17,1767.17,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58804501,2020-12-21 09:30:07,2020-12-21 12:34:07,1474853,1003779,3060879,1000110,ambulatory,Encounter for problem (procedure),82.02,1952.03,1561.63,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58804557,2022-10-22 06:24:46,2022-10-22 07:16:47,1474855,1003918,3061018,1000110,outpatient,Encounter for check up (procedure),82.02,1982.44,1585.94,,SAN FRANCISCO
+58804604,1998-08-21 11:12:08,1998-08-21 13:12:08,1474858,1003787,3060887,1000110,ambulatory,Encounter for problem (procedure),82.02,1952.03,1561.63,End-stage renal disease (disorder),SAN FRANCISCO
+58804687,1999-03-12 04:22:08,1999-03-12 08:03:08,1474858,1003787,3060887,1000110,ambulatory,Encounter for problem (procedure),82.02,1952.03,1952.03,End-stage renal disease (disorder),SAN FRANCISCO
+58804740,2020-06-19 21:18:23,2020-06-19 21:51:41,1474863,1003901,3061001,1000111,ambulatory,Outpatient procedure,136.7,15970.02,15970.02,Allergy to substance (finding),SAN FRANCISCO
+58804847,1992-02-23 14:19:47,1992-02-23 15:23:08,1474864,1003887,3060987,1000110,ambulatory,Encounter for problem (procedure),82.02,1883.52,1506.82,Loss of teeth (disorder),SAN FRANCISCO
+58804895,1997-10-12 14:19:47,1997-10-12 14:34:47,1474864,1003887,3060987,1000110,ambulatory,Office Visit,82.02,82.02,0.0,Alzheimer's disease (disorder),SAN FRANCISCO
+58805047,2024-07-24 08:31:17,2024-07-24 10:50:17,1474856,1003883,3060983,1000110,ambulatory,Encounter for problem (procedure),82.02,575.78,460.63,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58805067,2021-12-19 03:49:07,2021-12-19 04:04:07,1474853,1003779,3060879,1000110,ambulatory,Encounter for problem (procedure),82.02,321.88,321.88,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58809188,2022-06-13 15:31:36,2022-06-13 15:46:36,1474865,1003793,3060893,1000100,urgentcare,Urgent care clinic (environment),136.7,2017.7,1967.7,,SAN FRANCISCO
+58809375,2022-07-11 16:18:07,2022-07-11 18:27:07,1474853,1003779,3060879,1000110,ambulatory,Encounter for problem (procedure),82.02,575.78,460.63,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58809387,2022-07-27 06:54:07,2022-07-27 08:57:07,1474853,1003779,3060879,1000110,ambulatory,Encounter for problem (procedure),82.02,575.78,460.63,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58809392,2020-07-02 10:44:37,2020-07-02 13:55:37,1474866,1003794,3060894,1000110,ambulatory,Encounter for problem (procedure),82.02,575.78,460.63,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58809421,2020-07-27 14:37:37,2020-07-27 14:52:37,1474866,1003794,3060894,1000110,ambulatory,Encounter for problem (procedure),82.02,321.88,257.5,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58809535,2023-02-03 03:02:07,2023-02-03 03:17:07,1474853,1003779,3060879,1000110,ambulatory,Encounter for problem (procedure),82.02,321.88,257.5,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58809565,2023-04-02 12:01:07,2023-04-02 15:26:07,1474853,1003779,3060879,1000110,ambulatory,Encounter for problem (procedure),82.02,575.78,460.63,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+4644588,2003-04-22 11:10:41,2003-04-22 13:37:41,1582690,1000414,3057514,1000001,ambulatory,Encounter for problem (procedure),71.63,741.56,691.56,End-stage renal disease (disorder),CLEVELAND
+4644634,2021-07-27 10:05:05,2021-07-27 11:05:05,1582684,1000230,3057330,1000002,emergency,Emergency room admission (procedure),115.63,743.97,708.97,,CLEVELAND
+4644725,2022-10-22 04:51:50,2022-10-22 08:19:09,1582691,1000349,3057449,1000001,ambulatory,Encounter for check up (procedure),71.63,3337.23,3287.23,Patient referral for dental care (procedure),CLEVELAND
+4644777,2007-11-10 08:09:41,2007-11-10 08:24:41,1582690,1000414,3057514,1000001,ambulatory,Postnatal visit,119.38,935.78,885.78,,CLEVELAND
+4644780,1997-04-08 07:07:24,1997-04-08 08:07:24,1582674,1000200,3057300,1000000,emergency,Emergency room admission (procedure),115.63,652.13,521.7,,CLEVELAND
+4644823,2022-08-16 10:05:05,2022-08-16 13:51:08,1582684,1000326,3057426,1000002,ambulatory,Encounter for check up (procedure),71.63,2929.03,2894.03,Gingivitis (disorder),CLEVELAND
+4644836,1968-01-11 01:44:19,1968-01-11 02:26:32,1582694,1000370,3057470,1000008,wellness,General examination of patient (procedure),111.12,932.8,0.0,,CLEVELAND
+4644852,1997-07-01 07:07:24,1997-07-01 07:22:24,1582674,1000219,3057319,1000000,outpatient,Encounter for check up (procedure),71.63,275.73,220.58,,CLEVELAND
+4644854,1956-07-06 11:29:23,1956-07-06 11:44:23,1582693,1000227,3057327,1000001,urgentcare,Urgent care clinic (environment),119.38,470.24,420.24,,CLEVELAND
+4644909,1956-09-02 21:42:23,1956-09-03 01:40:23,1582693,1000398,3057498,1000001,ambulatory,Encounter for problem (procedure),71.63,766.65,716.65,Chronic kidney disease stage 4 (disorder),CLEVELAND
+4644946,2023-01-31 10:05:05,2023-01-31 10:39:01,1582684,1000369,3057469,1000002,urgentcare,Urgent care clinic (environment),119.38,951.82,916.82,,CLEVELAND
+4644959,2024-05-19 11:56:59,2024-05-19 12:49:09,1582695,1000428,3057528,1000008,outpatient,Encounter for check up (procedure),71.63,615.83,0.0,,CLEVELAND
+4644963,2023-02-28 10:05:05,2023-02-28 10:38:35,1582684,1000369,3057469,1000002,urgentcare,Urgent care clinic (environment),119.38,747.72,712.72,,CLEVELAND
+4644979,1956-11-16 11:29:23,1956-11-16 12:07:42,1582693,1000398,3057498,1000001,outpatient,Encounter for check up (procedure),71.63,762.59,712.59,,CLEVELAND
+4645150,1957-09-20 11:29:23,1957-09-27 18:22:17,1582693,1000398,3057498,1000001,inpatient,Admission to surgical transplant department (procedure),115.63,4963.51,4913.51,Awaiting transplantation of kidney (situation),CLEVELAND
+4645216,2016-05-22 20:33:50,2016-05-22 23:30:03,1582697,1000408,3057508,1000002,ambulatory,Encounter for check up (procedure),71.63,2520.83,2485.83,Gingivitis (disorder),CLEVELAND
+4645373,2024-05-14 16:10:36,2024-05-14 16:25:36,1582700,1000519,3057619,1000006,outpatient,Patient encounter procedure,119.38,1279.06,0.0,Contraception care (regime/therapy),CLEVELAND
+4645504,2009-05-02 08:09:41,2009-05-02 08:55:56,1582702,1000217,3057317,1000002,wellness,General examination of patient (procedure),111.12,1155.62,1155.62,,CLEVELAND
+4646024,1993-03-26 00:10:23,1993-03-26 02:21:23,1582716,1000519,3057619,1000002,ambulatory,Encounter for problem (procedure),71.63,888.0,853.0,End-stage renal disease (disorder),CLEVELAND
+4646030,1993-04-19 14:56:23,1993-04-19 17:15:23,1582716,1000519,3057619,1000002,ambulatory,Encounter for problem (procedure),71.63,1415.74,1380.74,End-stage renal disease (disorder),CLEVELAND
+4646059,1993-06-25 11:29:23,1993-06-25 15:10:23,1582716,1000519,3057619,1000002,ambulatory,Encounter for problem (procedure),71.63,557.91,522.91,End-stage renal disease (disorder),CLEVELAND
+4646072,1982-05-29 08:09:41,1982-05-29 08:39:58,1582719,1000278,3057378,1000001,wellness,General examination of patient (procedure),111.12,859.42,709.42,,CLEVELAND
+4646124,2020-10-28 09:21:12,2020-10-28 10:17:38,1582717,1000377,3057477,1000002,wellness,General examination of patient (procedure),111.12,736.66,736.66,,CLEVELAND
+4646291,1994-12-08 18:10:23,1994-12-08 21:56:23,1582716,1000519,3057619,1000002,ambulatory,Encounter for problem (procedure),71.63,451.61,416.61,End-stage renal disease (disorder),CLEVELAND
+4646303,1995-02-17 11:29:23,1995-02-17 14:33:47,1582716,1000519,3057619,1000002,ambulatory,Encounter for check up (procedure),71.63,2929.03,2894.03,Gingivitis (disorder),CLEVELAND
+4646304,1995-02-24 11:29:23,1995-04-08 11:44:23,1582716,1000521,3057621,1000002,hospice,Admission to hospice (procedure),120.72,19714.32,19679.32,Chronic obstructive bronchitis (disorder),CLEVELAND
+4646386,2014-07-08 14:17:54,2014-07-08 15:16:33,1582723,1000219,3057319,1000001,wellness,General examination of patient (procedure),111.12,728.7,728.7,,CLEVELAND
+4646388,2019-08-06 14:17:54,2019-08-06 15:06:31,1582723,1000219,3057319,1000001,wellness,General examination of patient (procedure),111.12,655.32,655.32,,CLEVELAND
+4646466,1987-05-03 20:33:50,1987-05-03 21:20:18,1582724,1000219,3057319,1000001,outpatient,Encounter for check up (procedure),71.63,1178.61,1128.61,,CLEVELAND
+4646511,2007-09-30 09:32:49,2007-09-30 10:21:13,1582726,1000250,3057350,1000000,wellness,General examination of patient (procedure),111.12,1291.62,848.06,,CLEVELAND
+4646564,1977-06-28 07:07:24,1977-06-28 07:45:08,1582729,1000414,3057514,1000000,ambulatory,Encounter for check up,71.63,8665.5,6932.4,Polyp of colon,CLEVELAND
+4646585,2023-05-08 18:40:40,2023-05-08 22:06:54,1582730,1000353,3057453,1000001,ambulatory,Encounter for check up (procedure),71.63,3337.23,3287.23,Patient referral for dental care (procedure),CLEVELAND
+4646697,2023-09-06 16:24:09,2023-09-06 21:51:35,1582733,1000408,3057508,1000000,ambulatory,Encounter for check up (procedure),71.63,4561.83,3649.46,Gingivitis (disorder),CLEVELAND
+4646705,2024-10-08 09:16:11,2024-10-08 09:54:40,1582733,1000408,3057508,1000000,ambulatory,Follow-up encounter (procedure),71.63,479.83,383.86,Loss of teeth (disorder),CLEVELAND
+4646845,1957-05-17 16:31:59,1957-05-17 17:40:47,1582738,1000398,3057498,1000001,ambulatory,Postoperative follow-up visit (procedure),119.38,1155.92,1105.92,History of renal transplant (situation),CLEVELAND
+4647024,2018-11-26 10:25:05,2018-11-26 10:55:21,1582742,1000227,3057327,1000000,urgentcare,Urgent care clinic (environment),119.38,821.1,656.86,,CLEVELAND
+4655459,2019-10-28 12:41:05,2019-10-28 12:56:05,1582742,1000508,3057608,1000000,ambulatory,Encounter for problem (procedure),71.63,218.39,174.7,Chronic kidney disease stage 4 (disorder),CLEVELAND
+4655518,2020-01-06 13:24:05,2020-01-06 13:39:05,1582742,1000508,3057608,1000000,ambulatory,Encounter for problem (procedure),71.63,218.39,174.7,Chronic kidney disease stage 4 (disorder),CLEVELAND
+4655589,2008-09-02 21:56:23,2008-09-03 00:51:23,1582747,1000408,3057508,1000034,ambulatory,Encounter for problem (procedure),71.63,587.11,410.98,Chronic kidney disease stage 4 (disorder),CLEVELAND
+4655653,2008-12-05 18:07:23,2008-12-05 19:03:48,1582747,1000369,3057469,1000034,urgentcare,Urgent care clinic (environment),119.38,600.96,600.96,,CLEVELAND
+4655758,2009-07-03 18:07:23,2009-07-03 21:07:23,1582747,1000408,3057508,1000034,ambulatory,Encounter for problem (procedure),71.63,811.43,0.0,End-stage renal disease (disorder),CLEVELAND
+4656131,2010-07-29 03:05:08,2010-07-29 03:53:30,1582760,1000370,3057470,1000002,wellness,General examination of patient (procedure),111.12,1351.76,1351.76,,CLEVELAND
+4656264,2021-05-20 12:49:59,2021-05-20 13:13:36,1582753,1000379,3057479,1000000,ambulatory,Encounter for problem,71.63,1277.45,1021.96,Malignant neoplasm of breast (disorder),CLEVELAND
+4656299,2023-01-04 05:19:24,2023-01-04 05:34:24,1582753,1000424,3057524,1000000,urgentcare,Urgent care clinic (environment),119.38,266.14,212.9,,CLEVELAND
+4656465,2012-02-17 18:07:23,2012-02-17 18:22:23,1582747,1000408,3057508,1000006,outpatient,Encounter for check up (procedure),71.63,71.63,71.63,,CLEVELAND
+4656506,2012-07-06 20:31:23,2012-07-06 20:46:23,1582747,1000408,3057508,1000006,ambulatory,Encounter for problem (procedure),71.63,218.39,0.0,End-stage renal disease (disorder),CLEVELAND
+48942489,2024-05-01 06:07:52,2024-05-01 06:22:52,1107843,1003028,3060128,1000040,outpatient,Encounter for check up (procedure),64.08,7195.18,5756.14,,MIAMI
+48942591,2024-07-02 05:44:23,2024-07-02 09:08:23,1107833,1002921,3060021,1000029,ambulatory,Encounter for problem (procedure),64.08,460.43,0.0,Chronic kidney disease stage 4 (disorder),MIAMI
+48942660,2022-07-01 23:59:40,2022-07-02 03:52:25,1107848,1003028,3060128,1000041,ambulatory,Encounter for check up (procedure),64.08,4990.88,377.87,Gingivitis (disorder),MIAMI
+48942785,2019-08-18 11:02:35,2019-08-18 11:17:35,1107852,1002778,3059878,1000053,ambulatory,Follow-up encounter (procedure),64.08,341.0,272.8,Hyperlipidemia (disorder),MIAMI
+48942788,2020-09-05 11:02:35,2020-09-05 15:57:58,1107852,1002778,3059878,1000053,ambulatory,Encounter for check up (procedure),64.08,6838.43,5470.74,Gingivitis (disorder),MIAMI
+48942791,2021-07-10 11:02:35,2021-07-10 11:17:35,1107852,1002778,3059878,1000042,outpatient,Administration of vaccine to produce active immunity (procedure),106.81,242.81,0.0,,MIAMI
+48942797,2022-09-17 11:02:35,2022-09-17 14:40:16,1107852,1002778,3059878,1000042,ambulatory,Encounter for check up (procedure),64.08,4375.03,1862.03,Gingivitis (disorder),MIAMI
+48942821,1964-05-24 14:21:35,1964-05-24 15:13:06,1107853,1003168,3060268,1000040,wellness,General examination of patient (procedure),163.63,8354.5,6683.6,,MIAMI
+48942851,2019-11-21 21:21:27,2019-11-21 21:51:08,1107855,1003177,3060277,1000109,wellness,Well child visit (procedure),163.63,1620.36,1620.36,,MIAMI
+48942858,2020-02-27 00:26:42,2020-02-27 01:11:36,1107855,1002941,3060041,1000109,ambulatory,Outpatient procedure (procedure),106.81,24048.16,23998.16,Allergy to substance (finding),MIAMI
+48942896,2019-02-24 23:39:21,2019-02-25 04:18:30,1107856,1002726,3059826,1000062,ambulatory,Encounter for problem (procedure),64.08,2004.0,1202.4,Ischemic heart disease (disorder),MIAMI
+48943015,2003-01-04 14:29:01,2003-01-09 23:54:01,1107859,1002819,3059919,1000040,inpatient,Encounter for problem (procedure),65.31,67310.31,67310.31,Non-small cell carcinoma of lung  TNM stage 1 (disorder),MIAMI
+48943069,2015-06-16 21:13:08,2015-06-16 21:57:16,1107861,1002995,3060095,1000079,outpatient,Encounter for check up (procedure),64.08,1635.74,473.4,,MIAMI
+48943209,2021-11-27 06:14:51,2021-11-27 07:28:04,1107866,1002761,3059861,1000041,ambulatory,Encounter for problem (procedure),64.08,679.93,349.62,Dependent drug abuse (disorder),MIAMI
+48943431,2022-12-07 08:53:01,2022-12-07 09:37:46,1107873,1002747,3059847,1000040,wellness,General examination of patient (procedure),163.63,1051.48,654.78,,MIAMI
+48943495,2011-05-15 14:21:35,2011-05-15 20:08:51,1107874,1003107,3060207,1000040,ambulatory,Encounter for check up (procedure),64.08,6838.43,5470.74,Gingivitis (disorder),MIAMI
+48943497,2011-06-12 14:21:35,2011-06-12 14:36:35,1107874,1003107,3060207,1000040,ambulatory,Encounter for symptom (procedure),64.08,64.08,51.26,Viral sinusitis (disorder),MIAMI
+48943523,2013-07-21 14:21:35,2013-07-21 15:21:35,1107874,1003098,3060198,1000040,emergency,Emergency room admission (procedure),108.86,1448.01,1158.42,,MIAMI
+48943568,2020-10-28 03:47:43,2020-10-28 06:45:46,1107876,1002762,3059862,1000029,ambulatory,Encounter for check up (procedure),64.08,4375.03,0.0,Gingivitis (disorder),MIAMI
+48943609,2024-01-10 03:47:43,2024-01-10 06:18:22,1107876,1002762,3059862,1000029,ambulatory,Encounter for check up (procedure),64.08,3759.18,0.0,Patient referral for dental care (procedure),MIAMI
+48943684,1988-06-24 16:22:16,1988-06-24 19:22:16,1107878,1002856,3059956,1000041,ambulatory,Encounter for problem (procedure),64.08,500.62,500.62,Chronic kidney disease stage 4 (disorder),MIAMI
+48943757,2024-03-28 01:38:26,2024-03-28 08:07:06,1107879,1002804,3059904,1000041,ambulatory,Encounter for check up (procedure),64.08,7454.28,1636.7,Patient referral for dental care (procedure),MIAMI
+48943764,1990-03-07 15:40:18,1990-03-07 16:40:18,1107883,1002794,3059894,1000041,emergency,Emergency treatment (procedure),108.86,108.86,0.0,Chronic intractable migraine without aura (disorder),MIAMI
+48943850,2020-03-14 15:40:18,2020-03-14 16:36:39,1107883,1003131,3060231,1000042,wellness,General examination of patient (procedure),163.63,1349.52,1349.52,,MIAMI
+48943878,2019-10-29 05:13:44,2019-10-29 05:28:44,1107885,1002844,3059944,1000062,wellness,Well child visit (procedure),163.63,915.48,0.0,,MIAMI
+48948184,2024-07-07 03:21:47,2024-07-07 03:36:47,1107887,1002941,3060041,1000042,ambulatory,Prenatal visit (regime/therapy),106.81,6590.95,6590.95,Normal pregnancy (finding),MIAMI
+48948224,2006-11-28 05:19:01,2006-11-28 06:04:24,1107888,1003177,3060277,1000029,wellness,General examination of patient (procedure),163.63,1505.62,0.0,,MIAMI
+48948226,2015-12-08 05:19:01,2015-12-08 06:17:45,1107888,1003177,3060277,1000029,wellness,General examination of patient (procedure),163.63,1201.65,0.0,,MIAMI
+48948285,1989-05-01 01:29:17,1989-05-01 02:10:51,1107891,1002747,3059847,1000029,wellness,General examination of patient (procedure),163.63,1340.95,0.0,,MIAMI
+48948366,2002-04-13 16:19:35,2002-04-13 16:56:25,1107894,1003028,3060128,1000029,ambulatory,Encounter for problem (procedure),64.08,679.93,0.0,Allergy to substance (finding),MIAMI
+48948458,2021-07-14 14:21:35,2021-07-14 14:36:35,1107893,1002726,3059826,1000040,virtual,Telemedicine consultation with patient (procedure),125.0,125.0,100.0,Chronic congestive heart failure (disorder),MIAMI
+48948629,2019-07-09 16:16:11,2019-07-09 16:31:11,1107898,1002802,3059902,1000040,ambulatory,Follow-up encounter (procedure),64.08,341.0,272.8,Hyperlipidemia (disorder),MIAMI
+48948739,2019-08-29 00:40:43,2019-08-29 01:11:02,1107902,1002778,3059878,1000040,outpatient,Encounter for check up (procedure),64.08,679.93,543.94,,MIAMI
+48948789,2024-05-02 00:40:43,2024-05-02 01:12:54,1107902,1003063,3060163,1000040,wellness,General examination of patient (procedure),163.63,1350.95,1080.76,,MIAMI
+48948885,2021-01-19 11:00:16,2021-01-19 11:15:16,1107907,1003166,3060266,1000040,wellness,Well child visit (procedure),163.63,843.63,539.77,,MIAMI
+48948895,2023-01-31 11:00:16,2023-01-31 11:15:16,1107907,1003166,3060266,1000040,wellness,Well child visit (procedure),163.63,1531.33,1038.66,,MIAMI
+48948956,2024-07-16 21:22:47,2024-07-17 01:08:28,1107909,1002825,3059925,1000040,ambulatory,Encounter for check up (procedure),64.08,4375.03,3500.02,Patient referral for dental care (procedure),MIAMI
+48949067,1990-04-18 02:23:07,1990-04-18 03:23:07,1107913,1003191,3060291,1000042,emergency,Emergency treatment (procedure),108.86,7477.88,2229.18,Impacted molars (disorder),MIAMI
+48949144,2024-02-10 07:21:18,2024-02-10 10:28:49,1107906,1003041,3060141,1000040,ambulatory,Encounter for check up (procedure),64.08,4990.88,3992.7,Patient referral for dental care (procedure),MIAMI
+48949212,2023-02-25 11:57:03,2023-02-25 12:12:03,1107915,1002778,3059878,1000053,outpatient,Consultation for treatment (procedure),106.81,106.81,85.45,Contraception care (regime/therapy),MIAMI
+48949233,2020-03-18 18:26:27,2020-03-18 18:41:27,1107916,1002802,3059902,1000062,ambulatory,Encounter for symptom (procedure),64.08,64.08,64.08,Viral sinusitis (disorder),MIAMI
+48949256,2022-04-05 05:17:57,2022-04-05 06:04:05,1107916,1002802,3059902,1000062,ambulatory,Patient encounter procedure (procedure),106.81,11989.0,11989.0,Chronic pain (finding),MIAMI
+48949376,2020-10-14 21:03:59,2020-10-14 23:41:34,1107919,1002830,3059930,1000029,ambulatory,Encounter for check up (procedure),64.08,4375.03,0.0,Patient referral for dental care (procedure),MIAMI
+48949388,2010-10-01 12:05:59,2010-10-01 12:45:12,1107920,1003028,3060128,1000042,outpatient,Encounter for check up (procedure),64.08,1271.56,0.0,,MIAMI
+48949394,2019-02-08 12:05:59,2019-02-08 12:45:58,1107920,1002833,3059933,1000042,wellness,General examination of patient (procedure),163.63,18298.32,11904.0,,MIAMI
+48949401,2008-06-14 00:40:29,2008-06-14 01:20:39,1107921,1002734,3059834,1000040,wellness,General examination of patient (procedure),163.63,2211.9,1588.28,,MIAMI
+48949404,2014-07-19 00:40:29,2014-07-19 01:33:32,1107921,1002734,3059834,1000040,wellness,General examination of patient (procedure),163.63,1808.25,1265.71,,MIAMI
+58809632,2023-08-24 06:15:07,2023-08-24 09:25:07,1474853,1003779,3060879,1000110,ambulatory,Encounter for problem (procedure),82.02,575.78,460.63,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58809729,2021-03-07 03:28:37,2021-03-07 07:01:37,1474866,1003794,3060894,1000110,ambulatory,Encounter for problem (procedure),82.02,1952.03,1561.63,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58809745,2021-04-07 13:44:37,2021-04-07 16:18:37,1474866,1003794,3060894,1000110,ambulatory,Encounter for problem (procedure),82.02,1555.28,1244.23,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58809980,2021-10-11 15:54:37,2021-10-11 19:39:37,1474866,1003794,3060894,1000110,ambulatory,Encounter for problem (procedure),82.02,740.47,592.38,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58810058,2019-03-14 22:53:04,2019-03-14 23:52:35,1474879,1003795,3060895,1000050,wellness,General examination of patient (procedure),146.76,1431.57,0.0,,SAN FRANCISCO
+58810166,2021-08-14 23:16:03,2021-08-15 03:10:37,1474880,1003920,3061020,1000112,ambulatory,Encounter for check up (procedure),82.02,5486.52,2143.32,Gingivitis (disorder),SAN FRANCISCO
+58810215,2021-10-09 08:47:29,2021-10-09 09:02:29,1474881,1003920,3061020,1000100,outpatient,Patient encounter procedure,136.7,1679.39,1529.39,Contraception care (regime/therapy),SAN FRANCISCO
+58810253,2024-04-20 08:47:29,2024-04-20 09:43:31,1474881,1003818,3060918,1000089,wellness,General examination of patient (procedure),146.76,1019.26,1019.26,,SAN FRANCISCO
+58810317,1939-11-05 14:19:47,1939-11-05 15:12:39,1474883,1003911,3061011,1000110,wellness,General examination of patient (procedure),146.76,747.26,411.41,,SAN FRANCISCO
+58810416,1988-05-22 14:19:47,1988-05-22 14:52:42,1474883,1003893,3060993,1000110,urgentcare,Urgent care clinic (environment),136.7,1352.92,1082.32,,SAN FRANCISCO
+58810565,2023-10-10 11:01:37,2023-10-10 13:45:37,1474866,1003794,3060894,1000110,ambulatory,Encounter for problem (procedure),82.02,1952.03,1561.63,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58810585,1960-12-30 05:05:19,1960-12-30 05:20:19,1474888,1003827,3060927,1000033,ambulatory,Encounter for problem,82.02,82.02,0.0,Allergy to substance (finding),SAN FRANCISCO
+58810594,2023-11-16 23:42:37,2023-11-17 03:12:37,1474866,1003794,3060894,1000110,ambulatory,Encounter for problem (procedure),82.02,842.79,674.24,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58810670,2018-05-08 07:32:43,2018-05-11 07:32:43,1474890,1003806,3060906,1000055,inpatient,Drug rehabilitation and detoxification,166.97,166.97,0.0,Dependent drug abuse (disorder),SAN FRANCISCO
+58810680,2024-01-21 13:12:37,2024-01-21 16:03:37,1474866,1003794,3060894,1000110,ambulatory,Encounter for problem (procedure),82.02,575.78,460.63,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58810710,2014-02-24 08:24:07,2014-02-24 09:23:06,1474888,1003827,3060927,1000050,ambulatory,Patient encounter procedure (procedure),136.7,737.2,737.2,Chronic pain (finding),SAN FRANCISCO
+58810875,2021-05-31 19:00:47,2021-05-31 19:15:47,1474886,1003793,3060893,1000033,urgentcare,Urgent care clinic (environment),136.7,376.56,0.0,,SAN FRANCISCO
+58811014,2021-03-16 00:26:23,2021-03-16 01:42:22,1474893,1003791,3060891,1000117,ambulatory,Encounter for problem,82.02,1870.12,1304.83,Anemia (disorder),SAN FRANCISCO
+58811051,2000-11-24 16:33:34,2000-11-24 17:15:33,1474895,1003815,3060915,1000055,wellness,General examination of patient (procedure),146.76,1348.67,0.0,,SAN FRANCISCO
+58811069,2020-11-28 04:31:43,2020-11-28 05:07:56,1474891,1003804,3060904,1000111,outpatient,Encounter for check up (procedure),82.02,1162.24,1162.24,,SAN FRANCISCO
+58811089,2024-09-12 09:50:39,2024-09-12 10:26:40,1474885,1003849,3060949,1000089,wellness,General examination of patient (procedure),146.76,1226.98,1226.98,,SAN FRANCISCO
+58811299,1993-06-16 00:25:48,1993-06-16 03:56:48,1474897,1003911,3061011,1000111,ambulatory,Encounter for problem (procedure),82.02,575.78,575.78,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58811318,2023-07-08 04:31:43,2023-07-08 05:12:00,1474891,1003804,3060904,1000111,outpatient,Encounter for check up (procedure),82.02,1523.73,1523.73,,SAN FRANCISCO
+58811332,2023-10-28 04:31:43,2023-10-28 05:13:27,1474891,1003769,3060869,1000111,ambulatory,Encounter for problem (procedure),82.02,682.52,682.52,Ischemic heart disease (disorder),SAN FRANCISCO
+58811349,2022-04-08 16:33:34,2022-04-08 22:43:41,1474895,1003791,3060891,1000110,ambulatory,Encounter for check up (procedure),82.02,7288.02,5830.42,Gingivitis (disorder),SAN FRANCISCO
+58811378,2023-02-27 19:00:47,2023-02-27 19:46:41,1474886,1003793,3060893,1000033,urgentcare,Urgent care clinic (environment),136.7,1216.92,0.0,,SAN FRANCISCO
+58811470,1994-01-10 23:53:48,1994-01-11 03:51:48,1474897,1003911,3061011,1000111,ambulatory,Encounter for problem (procedure),82.02,575.78,575.78,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58811565,1994-05-03 07:43:48,1994-05-03 10:18:48,1474897,1003911,3061011,1000111,ambulatory,Encounter for problem (procedure),82.02,713.87,713.87,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58811566,1994-05-06 10:18:48,1994-05-06 12:38:48,1474897,1003911,3061011,1000111,ambulatory,Encounter for problem (procedure),82.02,575.78,575.78,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58811604,2023-10-30 19:00:47,2023-10-30 19:15:47,1474886,1003793,3060893,1000033,urgentcare,Urgent care clinic (environment),136.7,676.81,0.0,,SAN FRANCISCO
+58811637,2023-12-25 19:00:47,2023-12-25 19:34:57,1474886,1003911,3061011,1000033,wellness,General examination of patient (procedure),146.76,1226.98,0.0,,SAN FRANCISCO
+58811724,1995-10-08 04:05:19,1995-10-08 04:20:19,1474904,1003791,3060891,1000100,ambulatory,Prenatal visit,136.7,3701.41,3651.41,Complete miscarriage (disorder),SAN FRANCISCO
+58811829,1985-12-08 06:57:43,1985-12-08 07:12:43,1474906,1003804,3060904,1000112,ambulatory,Prenatal visit,136.7,2880.39,2880.39,Complete miscarriage (disorder),SAN FRANCISCO
+58811979,2021-11-03 10:46:17,2021-11-03 11:01:17,1474911,1003920,3061020,1000055,outpatient,Administration of vaccine to produce active immunity (procedure),136.7,272.7,0.0,,SAN FRANCISCO
+58812021,2021-10-17 01:34:29,2021-10-17 01:49:29,1474913,1003927,3061027,1000100,outpatient,Administration of vaccine to produce active immunity (procedure),136.7,272.7,222.7,,SAN FRANCISCO
+58812065,2021-10-19 20:07:10,2021-10-19 20:22:10,1474915,1003851,3060951,1000112,wellness,Well child visit (procedure),146.76,1335.43,0.0,,SAN FRANCISCO
+58812162,2020-03-08 11:14:15,2020-03-08 14:31:15,1474916,1003806,3060906,1000090,ambulatory,Encounter for problem (procedure),82.02,992.24,992.24,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58812203,2020-08-02 13:15:15,2020-08-02 13:30:15,1474916,1003806,3060906,1000090,ambulatory,Encounter for problem (procedure),82.02,321.88,257.5,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58812297,2021-09-05 06:34:15,2021-09-05 09:51:15,1474916,1003806,3060906,1000090,ambulatory,Encounter for problem (procedure),82.02,575.78,460.63,End-stage renal disease (disorder),SAN FRANCISCO
+58812349,2022-05-05 04:12:15,2022-05-05 06:57:15,1474916,1003806,3060906,1000090,ambulatory,Encounter for problem (procedure),82.02,1124.54,1124.54,End-stage renal disease (disorder),SAN FRANCISCO
+58812453,2021-04-03 08:07:10,2021-04-03 08:22:10,1474919,1003915,3061015,1000112,ambulatory,Prenatal visit,136.7,9258.95,9258.95,Normal pregnancy,SAN FRANCISCO
+58812479,2021-11-06 08:07:10,2021-11-06 08:22:10,1474919,1003915,3061015,1000112,ambulatory,Postnatal visit,136.7,1337.7,1337.7,,SAN FRANCISCO
+58812529,2019-11-24 07:52:42,2019-11-24 08:07:42,1474923,1003862,3060962,1000111,ambulatory,Encounter for symptom,82.02,82.02,0.0,Acute viral pharyngitis (disorder),SAN FRANCISCO
+58812533,2021-01-31 09:52:42,2021-01-31 10:07:42,1474923,1003862,3060962,1000111,outpatient,Administration of vaccine to produce active immunity (procedure),136.7,272.7,0.0,,SAN FRANCISCO
+58812608,1983-05-17 00:24:45,1983-05-17 00:39:45,1474927,1003920,3061020,1000111,ambulatory,Encounter for problem,82.02,201.95,121.17,Anemia (disorder),SAN FRANCISCO
+58812625,2020-02-12 22:05:52,2020-02-12 23:15:38,1474928,1003791,3060891,1000110,ambulatory,Encounter for problem (procedure),82.02,682.52,546.02,Dependent drug abuse (disorder),SAN FRANCISCO
+58103781,2022-10-25 04:35:40,2022-10-25 07:31:40,1042102,1003794,3060894,1000100,ambulatory,Encounter for problem (procedure),82.02,575.78,525.78,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58103820,2022-07-21 11:54:17,2022-07-21 12:59:02,1042104,1003927,3061027,1000117,ambulatory,Encounter for problem,82.02,2354.14,1830.52,Anemia (disorder),SAN FRANCISCO
+58103876,2023-04-30 06:03:40,2023-04-30 08:10:40,1042102,1003794,3060894,1000100,ambulatory,Encounter for problem (procedure),82.02,1952.03,1952.03,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58104099,2021-11-21 22:30:46,2021-11-21 23:01:31,1042106,1003821,3060921,1000090,wellness,General examination of patient (procedure),146.76,1303.44,0.0,,SAN FRANCISCO
+58104110,2022-03-20 19:13:56,2022-03-20 19:55:25,1042107,1003893,3060993,1000111,urgentcare,Urgent care clinic (environment),136.7,873.2,0.0,,SAN FRANCISCO
+58104197,2020-05-04 00:06:34,2020-05-04 00:55:36,1042111,1003843,3060943,1000112,wellness,General examination of patient (procedure),146.76,1019.26,0.0,,SAN FRANCISCO
+58104202,2021-03-15 00:06:34,2021-03-15 00:21:34,1042111,1003867,3060967,1000112,outpatient,Administration of vaccine to produce active immunity (procedure),136.7,272.7,0.0,,SAN FRANCISCO
+58104235,2020-10-24 12:05:33,2020-10-24 12:42:07,1042110,1003918,3061018,1000110,outpatient,Encounter for check up (procedure),82.02,922.38,737.9,,SAN FRANCISCO
+58104249,2022-05-17 00:06:34,2022-05-17 00:21:34,1042111,1003812,3060912,1000112,ambulatory,Follow-up encounter,82.02,321.88,0.0,Hyperlipidemia,SAN FRANCISCO
+58104280,2022-11-08 12:32:31,2022-11-08 12:47:31,1042113,1003923,3061023,1000110,ambulatory,Asthma follow-up,136.7,136.7,109.36,Asthma,SAN FRANCISCO
+58104336,2001-10-20 17:34:33,2001-10-21 03:34:33,1042112,1003787,3060887,1000033,emergency,Emergency department patient visit (procedure),166.97,166.97,0.0,Pneumonia,SAN FRANCISCO
+58104389,2022-07-05 14:13:33,2022-07-05 17:08:33,1042110,1003918,3061018,1000110,ambulatory,Encounter for problem (procedure),82.02,666.64,533.32,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58104496,2022-03-07 06:24:49,2022-03-07 06:42:16,1042116,1003794,3060894,1000110,ambulatory,Encounter for problem,82.02,1855.89,1484.72,Malignant neoplasm of breast (disorder),SAN FRANCISCO
+58104522,2007-02-07 06:02:15,2007-02-07 06:17:15,1042117,1003794,3060894,1000090,ambulatory,Encounter for symptom,82.02,90.91,72.73,Sinusitis (disorder),SAN FRANCISCO
+58104559,2023-04-15 12:05:33,2023-04-15 15:21:33,1042110,1003918,3061018,1000110,ambulatory,Encounter for problem (procedure),82.02,1952.03,1561.63,Chronic kidney disease stage 4 (disorder),SAN FRANCISCO
+58141581,2021-05-06 12:18:15,2021-05-06 12:33:15,1042119,1003927,3061027,1000033,outpatient,Consultation for treatment,136.7,136.7,0.0,Contraception care (regime/therapy),SAN FRANCISCO
+58141642,2023-08-02 00:49:23,2023-08-02 01:04:23,1042119,1003927,3061027,1000100,outpatient,Consultation for treatment,136.7,1679.39,1629.39,Contraception care (regime/therapy),SAN FRANCISCO
+58141656,2021-08-23 18:45:17,2021-08-23 19:26:29,1042120,1003795,3060895,1000110,wellness,General examination of patient (procedure),146.76,1731.82,1385.45,,SAN FRANCISCO
+58141664,2023-08-18 16:47:33,2023-08-18 19:12:33,1042110,1003918,3061018,1000110,ambulatory,Encounter for problem (procedure),82.02,756.14,604.92,End-stage renal disease (disorder),SAN FRANCISCO
+58141670,2021-06-19 12:31:24,2021-06-19 12:46:24,1042121,1003927,3061027,1000117,outpatient,Administration of vaccine to produce active immunity (procedure),136.7,272.7,0.0,,SAN FRANCISCO
+58141675,2023-08-31 05:41:33,2023-08-31 08:06:33,1042110,1003918,3061018,1000110,ambulatory,Encounter for problem (procedure),82.02,587.02,469.62,End-stage renal disease (disorder),SAN FRANCISCO
+58141699,2023-10-20 03:19:33,2023-10-20 03:34:33,1042110,1003918,3061018,1000110,ambulatory,Encounter for problem (procedure),82.02,321.88,257.5,End-stage renal disease (disorder),SAN FRANCISCO
+58141715,2024-10-07 18:45:17,2024-10-07 22:23:45,1042120,1003930,3061030,1000110,ambulatory,Encounter for check up (procedure),82.02,4886.02,3908.82,Patient referral for dental care (procedure),SAN FRANCISCO
+58141744,2024-04-30 18:08:33,2024-04-30 18:23:33,1042110,1003918,3061018,1000110,ambulatory,Encounter for problem (procedure),82.02,321.88,257.5,End-stage renal disease (disorder),SAN FRANCISCO
+58141896,2017-09-10 22:48:51,2017-09-11 01:18:51,1042123,1003911,3061011,1000110,ambulatory,Encounter for problem (procedure),82.02,575.78,460.63,End-stage renal disease (disorder),SAN FRANCISCO
+58141905,2017-10-06 00:13:51,2017-10-06 02:22:51,1042123,1003911,3061011,1000110,ambulatory,Encounter for problem (procedure),82.02,575.78,460.63,End-stage renal disease (disorder),SAN FRANCISCO
+58141931,2018-01-07 01:30:51,2018-01-07 03:34:51,1042123,1003911,3061011,1000110,ambulatory,Encounter for problem (procedure),82.02,575.78,460.63,End-stage renal disease (disorder),SAN FRANCISCO
+58141973,2018-07-01 04:30:51,2018-07-01 04:45:51,1042123,1003911,3061011,1000110,ambulatory,Encounter for problem (procedure),82.02,321.88,257.5,End-stage renal disease (disorder),SAN FRANCISCO
+58142085,2018-11-25 01:32:51,2018-11-25 04:30:51,1042123,1003911,3061011,1000110,ambulatory,Encounter for problem (procedure),82.02,575.78,460.63,End-stage renal disease (disorder),SAN FRANCISCO
+58142106,2019-12-16 06:01:05,2019-12-16 06:16:05,1042127,1003862,3060962,1000090,ambulatory,Prenatal visit,136.7,25322.5,25322.5,Normal pregnancy,SAN FRANCISCO
+58142108,2019-12-29 05:01:05,2019-12-29 06:01:05,1042127,1003876,3060976,1000090,emergency,Emergency hospital admission for asthma,166.97,166.97,166.97,Asthma,SAN FRANCISCO
+58142143,2019-02-18 03:37:51,2019-02-18 07:16:51,1042123,1003911,3061011,1000110,ambulatory,Encounter for problem (procedure),82.02,1952.03,1561.63,End-stage renal disease (disorder),SAN FRANCISCO
+58142157,2019-04-09 06:48:26,2019-04-09 08:56:32,1042123,1003911,3061011,1000110,ambulatory,Postoperative follow-up visit (procedure),136.7,3139.2,2511.36,Alveolitis of jaw (disorder),SAN FRANCISCO
+58142197,2000-01-09 12:48:32,2000-01-09 13:30:53,1042128,1003855,3060955,1000055,wellness,General examination of patient (procedure),146.76,1303.44,0.0,,SAN FRANCISCO
+58142267,2004-04-26 19:11:47,2004-04-26 23:48:12,1042131,1003769,3060869,1000110,ambulatory,Encounter for problem (procedure),82.02,2574.09,2059.28,Ischemic heart disease (disorder),SAN FRANCISCO
+58142325,2020-01-02 01:16:51,2020-01-02 01:31:51,1042123,1003911,3061011,1000110,ambulatory,Encounter for problem (procedure),82.02,321.88,321.88,End-stage renal disease (disorder),SAN FRANCISCO
+58142378,2020-05-05 11:23:10,2020-05-06 11:23:10,1042134,1003911,3061011,1000110,inpatient,Encounter for problem (procedure),100.18,1379.02,1103.21,Sleep disorder (disorder),SAN FRANCISCO
+58142381,2023-12-28 10:55:48,2023-12-28 11:10:48,1042135,1003795,3060895,1000111,wellness,Well child visit (procedure),146.76,1127.01,0.0,,SAN FRANCISCO
+58142438,2020-04-22 23:01:51,2020-04-22 23:49:30,1042123,1003911,3061011,1000111,outpatient,Encounter for check up (procedure),82.02,1346.78,0.0,,SAN FRANCISCO
+58142504,1978-01-08 00:18:57,1978-01-08 00:33:57,1042138,1003862,3060962,1000033,ambulatory,Encounter for problem,82.02,82.02,0.0,Contact dermatitis,SAN FRANCISCO
+58142626,2023-06-16 22:18:57,2023-06-16 22:33:57,1042138,1003783,3060883,1000110,home,Home visit (procedure),163.57,1361.19,1088.96,Transition from acute care to home-health care (finding),SAN FRANCISCO
+58142647,2021-01-20 05:51:51,2021-01-20 08:45:51,1042123,1003911,3061011,1000111,ambulatory,Encounter for problem (procedure),82.02,575.78,575.78,End-stage renal disease (disorder),SAN FRANCISCO
+58142676,2021-06-23 23:01:51,2021-06-24 02:02:51,1042123,1003911,3061011,1000110,ambulatory,Encounter for problem (procedure),82.02,1414.7,1131.76,End-stage renal disease (disorder),SAN FRANCISCO
+58142727,2021-09-15 05:16:51,2021-09-15 07:23:51,1042123,1003911,3061011,1000110,ambulatory,Encounter for problem (procedure),82.02,575.78,460.63,End-stage renal disease (disorder),SAN FRANCISCO
+58142746,2024-07-23 06:50:39,2024-07-23 07:33:23,1042140,1003843,3060943,1000117,wellness,General examination of patient (procedure),146.76,2220.26,1776.21,,SAN FRANCISCO
+58142790,2020-04-25 00:30:26,2020-04-25 00:45:26,1042141,1003791,3060891,1000100,ambulatory,Prenatal visit,136.7,12265.9,12215.9,Normal pregnancy,SAN FRANCISCO
+49002873,1997-12-08 21:22:52,1997-12-08 21:37:52,1982021,1002588,3059688,1000061,outpatient,Encounter for check up (procedure),69.06,233.82,187.05,,DETROIT
+49002968,2020-04-07 18:24:54,2020-04-07 21:44:03,1982023,1002487,3059587,1000052,ambulatory,Encounter for check up (procedure),69.06,3470.01,3435.01,Patient referral for dental care (procedure),DETROIT
+49003100,2000-03-20 21:22:52,2000-03-20 21:37:52,1982021,1002556,3059656,1000061,urgentcare,Urgent care clinic (environment),115.1,279.86,279.86,,DETROIT
+49003118,2021-05-18 18:24:54,2021-05-18 18:39:54,1982023,1002466,3059566,1000052,urgentcare,Urgent care clinic (environment),115.1,845.96,810.96,,DETROIT
+49003139,2023-07-15 16:35:43,2023-07-15 22:31:12,1982025,1002605,3059705,1000039,ambulatory,Encounter for check up (procedure),69.06,5413.41,4330.73,Gingivitis (disorder),DETROIT
+49003282,2023-09-12 18:24:54,2023-09-12 18:39:54,1982023,1002466,3059566,1000052,urgentcare,Urgent care clinic (environment),115.1,1114.78,1079.78,,DETROIT
+49003300,2024-01-02 18:24:54,2024-01-02 18:59:36,1982023,1002466,3059566,1000052,urgentcare,Urgent care clinic (environment),115.1,1132.74,1097.74,,DETROIT
+49003304,2012-04-16 11:50:33,2012-04-16 12:42:53,1982029,1002354,3059454,1000075,wellness,General examination of patient (procedure),124.16,988.93,0.0,,DETROIT
+49003364,2022-08-30 01:39:33,2022-08-30 01:54:33,1982030,1002487,3059587,1000061,ambulatory,Follow-up encounter,69.06,233.82,187.05,Hyperlipidemia,DETROIT
+49003482,2006-09-04 16:23:09,2006-09-04 17:59:44,1982034,1002407,3059507,1000025,ambulatory,Encounter for problem (procedure),69.06,1526.61,1476.61,Loss of teeth (disorder),DETROIT
+49003555,2022-05-08 20:54:55,2022-05-09 00:04:32,1982032,1002304,3059404,1000076,ambulatory,Encounter for check up (procedure),69.06,3470.01,3470.01,Patient referral for dental care (procedure),DETROIT
+49003954,2019-03-07 06:40:18,2019-03-07 06:55:18,1982052,1002442,3059542,1000025,urgentcare,Urgent care clinic (environment),115.1,795.1,645.1,,DETROIT
+49003990,2020-01-22 10:08:41,2020-01-22 10:23:41,1982051,1002497,3059597,1000061,ambulatory,Encounter for symptom,69.06,69.06,55.25,Acute viral pharyngitis (disorder),DETROIT
+49003995,2020-10-24 06:08:41,2020-10-24 06:49:24,1982051,1002504,3059604,1000061,urgentcare,Urgent care clinic (environment),115.1,1227.33,981.86,,DETROIT
+49004002,2022-02-05 07:18:26,2022-02-05 07:33:26,1982049,1002703,3059803,1000075,outpatient,Patient encounter procedure,115.1,1363.25,1090.6,Contraception care (regime/therapy),DETROIT

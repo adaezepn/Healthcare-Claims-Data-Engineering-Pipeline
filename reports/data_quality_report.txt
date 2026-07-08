@@ -1,0 +1,878 @@
+============================================================
+CLAIMS
+============================================================
+Rows: 1000
+Columns: 32
+
+Column Data Types
+CLAIM_ID                            int64
+PATIENT_ID                          int64
+PROVIDER_ID                         int64
+PRIMARY_PATIENT_INSURANCE_ID      float64
+SECONDARY_PATIENT_INSURANCE_ID    float64
+DEPARTMENTID                        int64
+PATIENTDEPARTMENTID                 int64
+DIAGNOSIS1                          int64
+DIAGNOSIS2                        float64
+DIAGNOSIS3                        float64
+DIAGNOSIS4                        float64
+DIAGNOSIS5                        float64
+DIAGNOSIS6                        float64
+DIAGNOSIS7                        float64
+DIAGNOSIS8                        float64
+REFERRING_PROVIDER_ID             float64
+ENCOUNTER_ID                        int64
+CURRENTILLNESSDATE                    str
+SERVICEDATE                           str
+SUPERVISING_PROVIDER_ID             int64
+STATUS1                               str
+STATUS2                               str
+STATUSP                               str
+OUTSTANDING1                      float64
+OUTSTANDING2                      float64
+OUTSTANDINGP                      float64
+LASTBILLEDDATE1                       str
+LASTBILLEDDATE2                       str
+LASTBILLEDDATEP                       str
+HEALTHCARECLAIMTYPEID1              int64
+HEALTHCARECLAIMTYPEID2              int64
+SYNTHEA_CITY                          str
+dtype: object
+
+Missing Values
+CLAIM_ID                             0
+PATIENT_ID                           0
+PROVIDER_ID                          0
+PRIMARY_PATIENT_INSURANCE_ID       104
+SECONDARY_PATIENT_INSURANCE_ID     750
+DEPARTMENTID                         0
+PATIENTDEPARTMENTID                  0
+DIAGNOSIS1                           0
+DIAGNOSIS2                         723
+DIAGNOSIS3                         890
+DIAGNOSIS4                         954
+DIAGNOSIS5                         968
+DIAGNOSIS6                         976
+DIAGNOSIS7                         996
+DIAGNOSIS8                        1000
+REFERRING_PROVIDER_ID             1000
+ENCOUNTER_ID                         0
+CURRENTILLNESSDATE                   0
+SERVICEDATE                          0
+SUPERVISING_PROVIDER_ID              0
+STATUS1                              0
+STATUS2                            250
+STATUSP                              0
+OUTSTANDING1                      1000
+OUTSTANDING2                      1000
+OUTSTANDINGP                      1000
+LASTBILLEDDATE1                      0
+LASTBILLEDDATE2                    250
+LASTBILLEDDATEP                      0
+HEALTHCARECLAIMTYPEID1               0
+HEALTHCARECLAIMTYPEID2               0
+SYNTHEA_CITY                         0
+dtype: int64
+
+Duplicate CLAIM_ID: 0
+
+Numeric Summary
+           CLAIM_ID    PATIENT_ID  ...  HEALTHCARECLAIMTYPEID1  HEALTHCARECLAIMTYPEID2
+count  1.000000e+03  1.000000e+03  ...              1000.00000             1000.000000
+mean   1.251228e+08  1.759614e+06  ...                 1.57500                1.184000
+std    3.137839e+07  3.271824e+05  ...                 0.49459                0.806719
+min    6.850559e+07  1.097755e+06  ...                 1.00000                0.000000
+25%    1.040204e+08  1.562810e+06  ...                 1.00000                0.750000
+50%    1.239001e+08  1.684580e+06  ...                 2.00000                1.000000
+75%    1.400038e+08  1.970523e+06  ...                 2.00000                2.000000
+max    1.878279e+08  2.405525e+06  ...                 2.00000                2.000000
+
+[8 rows x 23 columns]
+
+Categorical Summary
+
+CURRENTILLNESSDATE
+CURRENTILLNESSDATE
+2020-07-01 00:30:19    8
+2021-01-14 10:57:25    7
+2020-07-14 09:31:43    5
+1998-11-07 02:09:54    4
+2018-07-23 13:08:18    4
+2018-07-26 19:47:35    4
+2020-05-05 08:02:31    4
+2020-04-15 13:34:37    3
+2007-02-20 11:46:13    3
+1997-12-26 21:41:59    3
+Name: count, dtype: int64
+
+SERVICEDATE
+SERVICEDATE
+2020-07-08 00:54:27    8
+2021-01-14 10:57:25    7
+2020-07-14 09:31:43    5
+2001-06-08 07:46:12    4
+2020-05-05 08:02:31    4
+2010-06-24 22:02:36    3
+2012-03-26 21:32:22    3
+2020-01-21 13:52:58    2
+2024-01-28 10:08:58    2
+2016-09-13 10:47:30    2
+Name: count, dtype: int64
+
+STATUS1
+STATUS1
+CLOSED    999
+BILLED      1
+Name: count, dtype: int64
+
+STATUS2
+STATUS2
+CLOSED    750
+Name: count, dtype: int64
+
+STATUSP
+STATUSP
+CLOSED    999
+BILLED      1
+Name: count, dtype: int64
+
+LASTBILLEDDATE1
+LASTBILLEDDATE1
+2020-07-17 05:43:49    8
+2021-01-24 11:43:09    7
+2020-07-22 11:06:54    5
+2001-06-19 02:37:12    4
+2020-05-14 08:38:14    4
+2010-07-05 20:02:36    3
+2012-03-26 22:32:22    3
+2020-01-21 14:07:58    2
+2024-02-03 17:16:58    2
+2016-09-14 10:47:30    2
+Name: count, dtype: int64
+
+LASTBILLEDDATE2
+LASTBILLEDDATE2
+2021-01-24 11:43:09    7
+2020-07-22 11:06:54    5
+2016-09-14 10:47:30    2
+2023-03-05 19:34:23    2
+2023-06-30 07:17:49    2
+1998-10-19 21:04:25    2
+2021-10-06 06:47:59    2
+2011-02-14 17:14:12    2
+2015-11-06 06:02:07    2
+2024-08-15 20:43:56    2
+Name: count, dtype: int64
+
+LASTBILLEDDATEP
+LASTBILLEDDATEP
+2020-07-17 05:43:49    8
+2021-01-24 11:43:09    7
+2020-07-22 11:06:54    5
+2001-06-19 02:37:12    4
+2020-05-14 08:38:14    4
+2010-07-05 20:02:36    3
+2012-03-26 22:32:22    3
+2020-01-21 14:07:58    2
+2024-02-03 17:16:58    2
+2016-09-14 10:47:30    2
+Name: count, dtype: int64
+
+SYNTHEA_CITY
+SYNTHEA_CITY
+CLEVELAND        418
+CHICAGO          231
+BOSTON            81
+SAN FRANCISCO     80
+TAMPA             56
+NASHVILLE         36
+DETROIT           31
+MIAMI             27
+AUSTIN            26
+PITTSBURGH         9
+Name: count, dtype: int64
+
+
+
+============================================================
+PATIENTS
+============================================================
+Rows: 1000
+Columns: 29
+
+Column Data Types
+PATIENT_ID               int64
+BIRTHDATE                  str
+DEATHDATE                  str
+SSN                        str
+DRIVERS                    str
+PASSPORT                   str
+PREFIX                     str
+FIRST                      str
+MIDDLE                     str
+LAST                       str
+SUFFIX                     str
+MAIDEN                     str
+MARITAL                    str
+RACE                       str
+ETHNICITY                  str
+GENDER                     str
+BIRTHPLACE                 str
+ADDRESS                    str
+CITY                       str
+STATE                      str
+COUNTY                     str
+FIPS                     int64
+ZIP                      int64
+LAT                    float64
+LON                    float64
+HEALTHCARE_EXPENSES    float64
+HEALTHCARE_COVERAGE    float64
+INCOME                   int64
+SYNTHEA_CITY               str
+dtype: object
+
+Missing Values
+PATIENT_ID               0
+BIRTHDATE                0
+DEATHDATE              863
+SSN                      0
+DRIVERS                185
+PASSPORT               233
+PREFIX                 212
+FIRST                    0
+MIDDLE                 217
+LAST                     0
+SUFFIX                 991
+MAIDEN                 757
+MARITAL                319
+RACE                     0
+ETHNICITY                0
+GENDER                   0
+BIRTHPLACE               0
+ADDRESS                  0
+CITY                     0
+STATE                    0
+COUNTY                   0
+FIPS                     0
+ZIP                      0
+LAT                      0
+LON                      0
+HEALTHCARE_EXPENSES      0
+HEALTHCARE_COVERAGE      0
+INCOME                   0
+SYNTHEA_CITY             0
+dtype: int64
+
+Duplicate PATIENT_ID: 0
+
+Numeric Summary
+         PATIENT_ID     FIPS  ...  HEALTHCARE_COVERAGE         INCOME
+count  1.000000e+03   1000.0  ...         1.000000e+03    1000.000000
+mean   1.230192e+06  12057.0  ...         4.004501e+05   81118.015000
+std    2.888194e+02      0.0  ...         5.965343e+05  131914.874927
+min    1.229692e+06  12057.0  ...         0.000000e+00      33.000000
+25%    1.229942e+06  12057.0  ...         2.466094e+04   24233.250000
+50%    1.230192e+06  12057.0  ...         1.463184e+05   48657.500000
+75%    1.230441e+06  12057.0  ...         5.845152e+05   84889.750000
+max    1.230691e+06  12057.0  ...         6.092593e+06  989074.000000
+
+[8 rows x 8 columns]
+
+Categorical Summary
+
+BIRTHDATE
+BIRTHDATE
+1919-08-10    8
+1915-01-16    7
+1916-08-27    7
+1941-02-21    6
+1915-01-03    6
+1922-04-22    5
+1948-06-10    4
+1954-10-16    4
+1944-04-18    4
+1954-03-03    4
+Name: count, dtype: int64
+
+DEATHDATE
+DEATHDATE
+2020-12-29    2
+1990-02-10    1
+2024-08-03    1
+2023-04-24    1
+1966-06-05    1
+2002-11-11    1
+2007-01-31    1
+2016-05-12    1
+2007-03-05    1
+2016-01-14    1
+Name: count, dtype: int64
+
+SSN
+SSN
+999-41-4738    2
+999-83-7913    1
+999-10-2774    1
+999-10-7433    1
+999-36-5939    1
+999-78-8703    1
+999-94-1500    1
+999-48-1139    1
+999-16-5511    1
+999-92-7052    1
+Name: count, dtype: int64
+
+DRIVERS
+DRIVERS
+S99971335    2
+S99997174    2
+S99937329    2
+S99959309    2
+S99931007    1
+S99985632    1
+S99962370    1
+S99937665    1
+S99949041    1
+S99965877    1
+Name: count, dtype: int64
+
+PASSPORT
+PASSPORT
+X27406472X    1
+X20590780X    1
+X62960541X    1
+X52665696X    1
+X64634006X    1
+X47618804X    1
+X34383761X    1
+X55595200X    1
+X61480641X    1
+X65718534X    1
+Name: count, dtype: int64
+
+PREFIX
+PREFIX
+Mr.     431
+Mrs.    243
+Ms.     114
+Name: count, dtype: int64
+
+FIRST
+FIRST
+Francisco      4
+Cary           4
+Samuel         4
+Amalia         4
+Buck           4
+María Elena    3
+Olin           3
+Emilia         3
+Boyce          3
+Carlota        3
+Name: count, dtype: int64
+
+MIDDLE
+MIDDLE
+Rafael           4
+Brendan          3
+Timoteo          3
+Bennie           3
+Marco Antonio    3
+Mike             3
+Alejandra        3
+Moises           3
+Gilberto         3
+Luis Miguel      3
+Name: count, dtype: int64
+
+LAST
+LAST
+Bogisich     7
+Hackett      6
+Flatley      6
+Ledner       5
+D'Amore      5
+Tromp        5
+Powlowski    5
+Sawayn       5
+Aufderhar    5
+Wolff        5
+Name: count, dtype: int64
+
+SUFFIX
+SUFFIX
+MD     4
+PhD    4
+JD     1
+Name: count, dtype: int64
+
+MAIDEN
+MAIDEN
+Herzog     3
+Beatty     3
+Krajcik    3
+Swift      3
+Treutel    3
+Hudson     2
+Robledo    2
+Hand       2
+Keebler    2
+Zboncak    2
+Name: count, dtype: int64
+
+MARITAL
+MARITAL
+M    405
+S    134
+D    104
+W     38
+Name: count, dtype: int64
+
+RACE
+RACE
+white       760
+black       164
+asian        49
+other        14
+hawaiian      9
+native        4
+Name: count, dtype: int64
+
+ETHNICITY
+ETHNICITY
+nonhispanic    690
+hispanic       310
+Name: count, dtype: int64
+
+GENDER
+GENDER
+M    543
+F    457
+Name: count, dtype: int64
+
+BIRTHPLACE
+BIRTHPLACE
+Jacksonville  Florida  US       64
+Miami  Florida  US              22
+Tampa  Florida  US              22
+Hialeah  Florida  US            14
+Orlando  Florida  US            12
+Miami Beach  Florida  US        12
+Puebla  Puebla  MX              12
+St. Petersburg  Florida  US     11
+Tallahassee  Florida  US        11
+Fort Lauderdale  Florida  US     9
+Name: count, dtype: int64
+
+ADDRESS
+ADDRESS
+482 Kuhlman Course Suite 16    1
+910 Considine Vale             1
+656 Beahan Approach            1
+900 Smith Byway                1
+614 Parker Well Suite 98       1
+423 Walsh Green                1
+747 Gerlach Mall Unit 48       1
+407 Padberg Arcade Suite 79    1
+386 D'Amore Mission            1
+803 D'Amore Common             1
+Name: count, dtype: int64
+
+CITY
+CITY
+Tampa    1000
+Name: count, dtype: int64
+
+STATE
+STATE
+Florida    1000
+Name: count, dtype: int64
+
+COUNTY
+COUNTY
+Hillsborough County    1000
+Name: count, dtype: int64
+
+SYNTHEA_CITY
+SYNTHEA_CITY
+TAMPA    1000
+Name: count, dtype: int64
+
+
+
+============================================================
+PROVIDERS
+============================================================
+Rows: 1000
+Columns: 14
+
+Column Data Types
+PROVIDER_ID          int64
+ORGANIZATION_ID      int64
+NAME                   str
+GENDER                 str
+SPECIALITY             str
+ADDRESS                str
+CITY                   str
+STATE                  str
+ZIP                  int64
+LAT                float64
+LON                float64
+ENCOUNTERS           int64
+PROCEDURES           int64
+SYNTHEA_CITY           str
+dtype: object
+
+Missing Values
+PROVIDER_ID        0
+ORGANIZATION_ID    0
+NAME               0
+GENDER             0
+SPECIALITY         0
+ADDRESS            0
+CITY               0
+STATE              0
+ZIP                0
+LAT                0
+LON                0
+ENCOUNTERS         0
+PROCEDURES         0
+SYNTHEA_CITY       0
+dtype: int64
+
+Duplicate PROVIDER_ID: 0
+
+Numeric Summary
+        PROVIDER_ID  ORGANIZATION_ID  ...    ENCOUNTERS  PROCEDURES
+count  1.000000e+03     1.000000e+03  ...  1.000000e+03      1000.0
+mean   3.057853e+06     1.000753e+06  ...  1.265576e+05         0.0
+std    3.312270e+02     3.312270e+02  ...  4.608879e+05         0.0
+min    3.057300e+06     1.000200e+06  ...  2.000000e+00         0.0
+25%    3.057550e+06     1.000450e+06  ...  1.086250e+03         0.0
+50%    3.057844e+06     1.000744e+06  ...  7.809500e+03         0.0
+75%    3.058093e+06     1.000993e+06  ...  6.358075e+04         0.0
+max    3.058431e+06     1.001331e+06  ...  6.678812e+06         0.0
+
+[8 rows x 7 columns]
+
+Categorical Summary
+
+NAME
+NAME
+Sandy Turner       3
+Phuong Nader       2
+Digna Stamm        2
+Arthur Doyle       2
+Classie Witting    2
+Nickole Wehner     2
+Denis Corkery      2
+Keisha Wolff       2
+Colton Price       2
+Mason Krajcik      2
+Name: count, dtype: int64
+
+GENDER
+GENDER
+F    502
+M    498
+Name: count, dtype: int64
+
+SPECIALITY
+SPECIALITY
+GENERAL PRACTICE    1000
+Name: count, dtype: int64
+
+ADDRESS
+ADDRESS
+11100 EUCLID AVE         4
+7007 POWERS BLVD         3
+18901 LAKE SHORE BLVD    3
+1730 W 25TH ST           3
+18697 BAGLEY RD          3
+70 FULTON ST             3
+1725 W HARRISON ST       3
+2500 METROHEALTH DR      2
+5209 DETROIT AVE         2
+2351 E 22ND ST           2
+Name: count, dtype: int64
+
+CITY
+CITY
+AUSTIN        177
+CLEVELAND      86
+CHICAGO        72
+ROUND ROCK     43
+BOSTON         38
+CEDAR PARK     21
+PARMA          19
+BEACHWOOD      17
+QUINCY         17
+EUCLID         14
+Name: count, dtype: int64
+
+STATE
+STATE
+TX    314
+OH    306
+MA    244
+IL    136
+Name: count, dtype: int64
+
+SYNTHEA_CITY
+SYNTHEA_CITY
+AUSTIN       314
+CLEVELAND    306
+BOSTON       244
+CHICAGO      136
+Name: count, dtype: int64
+
+
+
+============================================================
+PAYERS
+============================================================
+Rows: 120
+Columns: 22
+
+Column Data Types
+PAYER_ID                     int64
+NAME                           str
+ADDRESS                    float64
+CITY                       float64
+STATE_HEADQUARTERED        float64
+ZIP                        float64
+PHONE                      float64
+AMOUNT_COVERED             float64
+AMOUNT_UNCOVERED           float64
+REVENUE                    float64
+COVERED_ENCOUNTERS           int64
+UNCOVERED_ENCOUNTERS         int64
+COVERED_MEDICATIONS          int64
+UNCOVERED_MEDICATIONS        int64
+COVERED_PROCEDURES           int64
+UNCOVERED_PROCEDURES         int64
+COVERED_IMMUNIZATIONS        int64
+UNCOVERED_IMMUNIZATIONS      int64
+UNIQUE_CUSTOMERS             int64
+QOLS_AVG                   float64
+MEMBER_MONTHS                int64
+SYNTHEA_CITY                   str
+dtype: object
+
+Missing Values
+PAYER_ID                     0
+NAME                         0
+ADDRESS                    120
+CITY                       120
+STATE_HEADQUARTERED        120
+ZIP                        120
+PHONE                      120
+AMOUNT_COVERED               0
+AMOUNT_UNCOVERED             0
+REVENUE                      0
+COVERED_ENCOUNTERS           0
+UNCOVERED_ENCOUNTERS         0
+COVERED_MEDICATIONS          0
+UNCOVERED_MEDICATIONS        0
+COVERED_PROCEDURES           0
+UNCOVERED_PROCEDURES         0
+COVERED_IMMUNIZATIONS        0
+UNCOVERED_IMMUNIZATIONS      0
+UNIQUE_CUSTOMERS             0
+QOLS_AVG                     0
+MEMBER_MONTHS                0
+SYNTHEA_CITY                 0
+dtype: int64
+
+Duplicate PAYER_ID: 0
+
+Numeric Summary
+           PAYER_ID  ADDRESS  CITY  ...  UNIQUE_CUSTOMERS    QOLS_AVG  MEMBER_MONTHS
+count  1.200000e+02      0.0   0.0  ...        120.000000  120.000000   1.200000e+02
+mean   1.000060e+06      NaN   NaN  ...      29084.516667    0.816070   6.286089e+06
+std    3.478505e+01      NaN   NaN  ...      36548.511935    0.183631   1.214864e+07
+min    1.000000e+06      NaN   NaN  ...       1206.000000    0.191236   8.887200e+04
+25%    1.000030e+06      NaN   NaN  ...       8392.750000    0.719660   1.397115e+06
+50%    1.000060e+06      NaN   NaN  ...      17637.500000    0.881174   2.927556e+06
+75%    1.000089e+06      NaN   NaN  ...      30785.500000    0.928192   6.199071e+06
+max    1.000119e+06      NaN   NaN  ...     273309.000000    1.124431   1.089161e+08
+
+[8 rows x 20 columns]
+
+Categorical Summary
+
+NAME
+NAME
+Medicare                  12
+Medicaid                  12
+Dual Eligible             12
+Humana                    12
+Blue Cross Blue Shield    12
+UnitedHealthcare          12
+Aetna                     12
+Anthem                    12
+NO_INSURANCE              12
+Cigna Health              12
+Name: count, dtype: int64
+
+SYNTHEA_CITY
+SYNTHEA_CITY
+CLEVELAND         10
+AUSTIN            10
+BOSTON            10
+CHICAGO           10
+DETROIT           10
+MIAMI             10
+NASHVILLE         10
+PITTSBURGH        10
+SAN FRANCISCO     10
+SALT LAKE CITY    10
+Name: count, dtype: int64
+
+
+
+============================================================
+ENCOUNTERS
+============================================================
+Rows: 1000
+Columns: 16
+
+Column Data Types
+ENCOUNTER_ID             int64
+ENCOUNTER_START            str
+ENCOUNTER_STOP             str
+PATIENT_ID               int64
+ORGANIZATION_ID          int64
+PROVIDER_ID              int64
+PAYER_ID                 int64
+ENCOUNTERCLASS             str
+CODE                     int64
+DESCRIPTION                str
+BASE_ENCOUNTER_COST    float64
+TOTAL_CLAIM_COST       float64
+PAYER_COVERAGE         float64
+REASONCODE             float64
+REASONDESCRIPTION          str
+SYNTHEA_CITY               str
+dtype: object
+
+Missing Values
+ENCOUNTER_ID             0
+ENCOUNTER_START          0
+ENCOUNTER_STOP           0
+PATIENT_ID               0
+ORGANIZATION_ID          0
+PROVIDER_ID              0
+PAYER_ID                 0
+ENCOUNTERCLASS           0
+CODE                     0
+DESCRIPTION              0
+BASE_ENCOUNTER_COST      0
+TOTAL_CLAIM_COST         0
+PAYER_COVERAGE           0
+REASONCODE             339
+REASONDESCRIPTION      339
+SYNTHEA_CITY             0
+dtype: int64
+
+Duplicate ENCOUNTER_ID: 0
+
+Numeric Summary
+       ENCOUNTER_ID    PATIENT_ID  ...  PAYER_COVERAGE    REASONCODE
+count  1.000000e+03  1.000000e+03  ...     1000.000000  6.610000e+02
+mean   3.975817e+07  1.563495e+06  ...     2322.383100  5.750697e+11
+std    1.737753e+07  4.218524e+05  ...    10176.710794  8.353072e+12
+min    4.644588e+06  1.042102e+06  ...        0.000000  6.525002e+06
+25%    2.529960e+07  1.243521e+06  ...       48.810000  4.617700e+07
+50%    4.489298e+07  1.474856e+06  ...      527.430000  8.880501e+07
+75%    5.633172e+07  1.982024e+06  ...     1350.140000  4.145450e+08
+max    6.594005e+07  2.353449e+06  ...   211616.940000  1.241710e+14
+
+[8 rows x 10 columns]
+
+Categorical Summary
+
+ENCOUNTER_START
+ENCOUNTER_START
+2016-04-16 18:57:57    1
+1977-03-15 03:00:28    1
+2017-08-17 03:46:00    1
+1977-03-29 03:00:28    1
+2018-09-26 22:57:57    1
+1978-04-25 06:30:28    1
+1978-07-13 16:56:28    1
+2023-05-22 16:09:10    1
+2024-09-16 12:17:54    1
+2012-06-05 08:44:20    1
+Name: count, dtype: int64
+
+ENCOUNTER_STOP
+ENCOUNTER_STOP
+2016-04-16 21:45:57    1
+1977-03-19 14:44:28    1
+2017-08-17 05:25:00    1
+1977-03-29 04:00:28    1
+2018-09-26 23:12:57    1
+1978-04-25 06:45:28    1
+1978-07-13 19:24:28    1
+2023-05-22 17:06:36    1
+2024-09-16 12:55:17    1
+2012-06-05 08:59:20    1
+Name: count, dtype: int64
+
+ENCOUNTERCLASS
+ENCOUNTERCLASS
+ambulatory    578
+wellness      156
+outpatient    133
+urgentcare     71
+emergency      35
+inpatient      18
+home            4
+virtual         2
+hospice         2
+snf             1
+Name: count, dtype: int64
+
+DESCRIPTION
+DESCRIPTION
+Encounter for problem (procedure)                                   307
+Encounter for check up (procedure)                                  172
+General examination of patient (procedure)                          122
+Urgent care clinic (environment)                                     71
+Encounter for symptom                                                39
+Well child visit (procedure)                                         33
+Emergency room admission (procedure)                                 25
+Prenatal visit                                                       25
+Encounter for problem                                                23
+Administration of vaccine to produce active immunity (procedure)     23
+Name: count, dtype: int64
+
+REASONDESCRIPTION
+REASONDESCRIPTION
+End-stage renal disease (disorder)              164
+Chronic kidney disease stage 4 (disorder)       107
+Patient referral for dental care (procedure)     54
+Gingivitis (disorder)                            46
+Contraception care (regime/therapy)              33
+Normal pregnancy                                 25
+Viral sinusitis (disorder)                       18
+Allergy to substance (finding)                   17
+Dependent drug abuse (disorder)                  13
+Chronic pain (finding)                           12
+Name: count, dtype: int64
+
+SYNTHEA_CITY
+SYNTHEA_CITY
+CHICAGO          233
+CLEVELAND        193
+SAN FRANCISCO    185
+AUSTIN           142
+DETROIT          109
+MIAMI             47
+TAMPA             46
+WASHINGTON DC     45
+Name: count, dtype: int64
+
+
